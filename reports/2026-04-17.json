@@ -1,8 +1,36 @@
 {
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"gmail.com\", \"signal_count\": 2, \"subject_fingerprint\": \"test\", \"url_domains\": []}",
+      "id": 1,
+      "label": "test / gmail.com",
+      "last_seen_at": "2026-04-17 10:41:18",
+      "mail_count": 2,
+      "max_risk_score": 0,
+      "signals": "from:gmail.com; subject:test"
+    }
+  ],
   "alerts": [],
   "complete_day": false,
-  "generated_at": "2026-04-17T11:48:20.073076+00:00",
-  "issue_events": [],
+  "generated_at": "2026-04-17T12:10:21.282616+00:00",
+  "issue_events": [
+    {
+      "event_count": 2,
+      "event_type": "monit.notification.sent",
+      "severity": "warning"
+    }
+  ],
+  "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"gmail.com\", \"signal_count\": 2, \"subject_fingerprint\": \"test\", \"url_domains\": []}",
+      "first_seen_at": "2026-04-17 10:41:18",
+      "id": 1,
+      "label": "test / gmail.com",
+      "mail_count": 2,
+      "max_risk_score": 0,
+      "signals": "from:gmail.com; subject:test"
+    }
+  ],
   "new_domains": [
     {
       "domain": "dd29936.kasserver.com",
@@ -79,6 +107,7 @@
     }
   ],
   "totals": {
+    "active_cluster_count": 1,
     "alert_count": 0,
     "analyze_error_count": 0,
     "analyzed_mail_count": 2,
@@ -87,17 +116,18 @@
     "avg_spam_score": -3.1,
     "distinct_domain_count": 4,
     "enrich_error_count": 0,
+    "high_risk_cluster_count": 0,
     "high_risk_mail_count": 0,
     "mail_count": 2,
     "max_risk_score": 0,
     "max_spam_score": -3.1,
-    "new_cluster_count": 0,
+    "new_cluster_count": 1,
     "new_domain_count": 4,
     "parse_error_count": 0,
     "url_count": 0
   },
-  "window_end_local": "2026-04-17T11:48:20.071945+00:00",
-  "window_end_utc": "2026-04-17T11:48:20.071945+00:00",
+  "window_end_local": "2026-04-17T12:10:21.281487+00:00",
+  "window_end_utc": "2026-04-17T12:10:21.281487+00:00",
   "window_start_local": "2026-04-17T00:00:00+00:00",
   "window_start_utc": "2026-04-17T00:00:00+00:00"
 }
