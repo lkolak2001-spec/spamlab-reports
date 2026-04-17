@@ -1,7 +1,7 @@
 {
   "alerts": [],
   "complete_day": false,
-  "generated_at": "2026-04-17T11:30:54.441425+00:00",
+  "generated_at": "2026-04-17T11:37:07.325962+00:00",
   "issue_events": [],
   "new_domains": [
     {
@@ -96,8 +96,8 @@
     "parse_error_count": 0,
     "url_count": 0
   },
-  "window_end_local": "2026-04-17T11:30:54.440547+00:00",
-  "window_end_utc": "2026-04-17T11:30:54.440547+00:00",
+  "window_end_local": "2026-04-17T11:37:07.324799+00:00",
+  "window_end_utc": "2026-04-17T11:37:07.324799+00:00",
   "window_start_local": "2026-04-17T00:00:00+00:00",
   "window_start_utc": "2026-04-17T00:00:00+00:00"
 }
