@@ -12,7 +12,7 @@
   ],
   "alerts": [],
   "complete_day": false,
-  "generated_at": "2026-04-17T12:10:21.282616+00:00",
+  "generated_at": "2026-04-17T14:27:17.181910+00:00",
   "issue_events": [
     {
       "event_count": 2,
@@ -64,7 +64,7 @@
       "risk_score": 0,
       "spam_score": -3.1,
       "subject": "Test2",
-      "yara_result": "no_rules"
+      "yara_result": "clean"
     },
     {
       "alias_email": null,
@@ -76,7 +76,7 @@
       "risk_score": 0,
       "spam_score": -3.1,
       "subject": "Test",
-      "yara_result": "no_rules"
+      "yara_result": "clean"
     }
   ],
   "report_date": "2026-04-17",
@@ -126,8 +126,8 @@
     "parse_error_count": 0,
     "url_count": 0
   },
-  "window_end_local": "2026-04-17T12:10:21.281487+00:00",
-  "window_end_utc": "2026-04-17T12:10:21.281487+00:00",
+  "window_end_local": "2026-04-17T14:27:17.180786+00:00",
+  "window_end_utc": "2026-04-17T14:27:17.180786+00:00",
   "window_start_local": "2026-04-17T00:00:00+00:00",
   "window_start_utc": "2026-04-17T00:00:00+00:00"
 }
