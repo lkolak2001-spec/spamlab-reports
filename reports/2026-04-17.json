@@ -1,46 +1,407 @@
 {
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [2], \"from_domains\": [\"qqwsmqth.fmpiibtz.shareit.com.ng\"], \"mail_count\": 1, \"mail_ids\": [2], \"max_risk_score\": 55, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"kolak\"}",
+      "generated_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "id": 2,
+      "label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "last_seen_at": "2026-04-17 20:36:02",
+      "mail_count": 1,
+      "max_risk_score": 55,
+      "notes": "-",
+      "signals": "subject:kolak; from:qqwsmqth.fmpiibtz.shareit.com.ng; clusters:1"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [4], \"from_domains\": [\"auedcdbcrx.com\"], \"mail_count\": 1, \"mail_ids\": [4], \"max_risk_score\": 10, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"kolak-ihre-meinung-ist-einen-erste\"}",
+      "generated_label": "kolak ihre meinung ist einen erste / auedcdbcrx.com",
+      "id": 4,
+      "label": "kolak ihre meinung ist einen erste / auedcdbcrx.com",
+      "last_seen_at": "2026-04-17 20:38:25",
+      "mail_count": 1,
+      "max_risk_score": 10,
+      "notes": "-",
+      "signals": "subject:kolak ihre meinung ist einen erste; from:auedcdbcrx.com; clusters:1"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [1], \"from_domains\": [\"akdcqeve.ima.msspolicy.biz\"], \"mail_count\": 1, \"mail_ids\": [1], \"max_risk_score\": 0, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"blocked-account-photos-videos-will-deleted\"}",
+      "generated_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "id": 1,
+      "label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "last_seen_at": "2026-04-17 20:35:57",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "notes": "-",
+      "signals": "subject:blocked account photos videos will deleted; from:akdcqeve.ima.msspolicy.biz; clusters:1"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [3], \"from_domains\": [\"kjmqalhv.m137fb5g.com\"], \"mail_count\": 1, \"mail_ids\": [3], \"max_risk_score\": 0, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"kolak-keine-mehreren-abonnements-erforderlich-alles\"}",
+      "generated_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "id": 3,
+      "label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "last_seen_at": "2026-04-17 20:36:06",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "notes": "-",
+      "signals": "subject:kolak keine mehreren abonnements erforderlich alles; from:kjmqalhv.m137fb5g.com; clusters:1"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [5], \"from_domains\": [\"opibstdkdt.mintcrate.uk.com\"], \"mail_count\": 1, \"mail_ids\": [5], \"max_risk_score\": 0, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"kolak-ckwunsch-wir-haben-oral-zahnb\"}",
+      "generated_label": "kolak ckwunsch wir haben oral zahnb / opibstdkdt.mintcrate.uk.com",
+      "id": 5,
+      "label": "kolak ckwunsch wir haben oral zahnb / opibstdkdt.mintcrate.uk.com",
+      "last_seen_at": "2026-04-17 20:38:29",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "notes": "-",
+      "signals": "subject:kolak ckwunsch wir haben oral zahnb; from:opibstdkdt.mintcrate.uk.com; clusters:1"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [6], \"from_domains\": [\"adminn5.halamala.online\"], \"mail_count\": 1, \"mail_ids\": [6], \"max_risk_score\": 0, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"zahlungserinnerung-mahnung\"}",
+      "generated_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "id": 6,
+      "label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "last_seen_at": "2026-04-17 20:38:31",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "notes": "-",
+      "signals": "subject:zahlungserinnerung mahnung; from:adminn5.halamala.online; clusters:1"
+    }
+  ],
   "active_clusters": [
     {
       "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"qqwsmqth.fmpiibtz.shareit.com.ng\", \"signal_count\": 3, \"subject_fingerprint\": \"kolak\", \"url_domains\": [\"storage.googleapis.com\"]}",
       "id": 2,
       "label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
-      "last_seen_at": "2026-04-17 14:36:52",
+      "last_seen_at": "2026-04-17 20:36:02",
       "mail_count": 1,
       "max_risk_score": 55,
       "signals": "from:qqwsmqth.fmpiibtz.shareit.com.ng; subject:kolak; url:storage.googleapis.com"
     },
     {
-      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"gmail.com\", \"signal_count\": 2, \"subject_fingerprint\": \"test\", \"url_domains\": []}",
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"auedcdbcrx.com\", \"signal_count\": 4, \"subject_fingerprint\": \"kolak-ihre-meinung-ist-einen-erste\", \"url_domains\": [\"calendly.com\", \"storage.googleapis.com\"]}",
+      "id": 4,
+      "label": "kolak ihre meinung ist einen erste / auedcdbcrx.com",
+      "last_seen_at": "2026-04-17 20:38:25",
+      "mail_count": 1,
+      "max_risk_score": 10,
+      "signals": "from:auedcdbcrx.com; subject:kolak ihre meinung ist einen erste; url:calendly.com, storage.googleapis.com"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"akdcqeve.ima.msspolicy.biz\", \"signal_count\": 4, \"subject_fingerprint\": \"blocked-account-photos-videos-will-deleted\", \"url_domains\": [\"ima.msspolicy.biz\", \"storage.googleapis.com\"]}",
       "id": 1,
-      "label": "test / gmail.com",
-      "last_seen_at": "2026-04-17 10:41:18",
-      "mail_count": 2,
+      "label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "last_seen_at": "2026-04-17 20:35:57",
+      "mail_count": 1,
       "max_risk_score": 0,
-      "signals": "from:gmail.com; subject:test"
+      "signals": "from:akdcqeve.ima.msspolicy.biz; subject:blocked account photos videos will deleted; url:ima.msspolicy.biz, storage.googleapis.com"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"kjmqalhv.m137fb5g.com\", \"signal_count\": 3, \"subject_fingerprint\": \"kolak-keine-mehreren-abonnements-erforderlich-alles\", \"url_domains\": [\"storage.googleapis.com\"]}",
+      "id": 3,
+      "label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "last_seen_at": "2026-04-17 20:36:06",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "signals": "from:kjmqalhv.m137fb5g.com; subject:kolak keine mehreren abonnements erforderlich alles; url:storage.googleapis.com"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"opibstdkdt.mintcrate.uk.com\", \"signal_count\": 4, \"subject_fingerprint\": \"kolak-ckwunsch-wir-haben-oral-zahnb\", \"url_domains\": [\"fonts.googleapis.com\", \"storage.googleapis.com\"]}",
+      "id": 5,
+      "label": "kolak ckwunsch wir haben oral zahnb / opibstdkdt.mintcrate.uk.com",
+      "last_seen_at": "2026-04-17 20:38:29",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "signals": "from:opibstdkdt.mintcrate.uk.com; subject:kolak ckwunsch wir haben oral zahnb; url:fonts.googleapis.com, storage.googleapis.com"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"adminn5.halamala.online\", \"signal_count\": 4, \"subject_fingerprint\": \"zahlungserinnerung-mahnung\", \"url_domains\": [\"fryftgyfgyhfgyh.s3.amazonaws.com\", \"link\"]}",
+      "id": 6,
+      "label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "last_seen_at": "2026-04-17 20:38:31",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "signals": "from:adminn5.halamala.online; subject:zahlungserinnerung mahnung; url:fryftgyfgyhfgyh.s3.amazonaws.com, link"
     }
   ],
   "alerts": [
     {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 2,
+      "mail_id": 4,
+      "sent_at": "2026-04-17T20:45:21.007217+00:00",
+      "severity": "warning"
+    },
+    {
       "alert_type": "mail.yara_match",
       "id": 1,
-      "mail_id": 4,
-      "sent_at": "2026-04-17T14:46:16.541910+00:00",
+      "mail_id": 2,
+      "sent_at": "2026-04-17T20:45:20.942425+00:00",
       "severity": "high"
     }
   ],
+  "alias_leak_candidates": [
+    {
+      "alias_label": "kolak127@gmail.com",
+      "current_mail_count": 3,
+      "current_new_sender_domain_count": 3,
+      "current_sender_domain_count": 3,
+      "historical_mail_count": 0,
+      "historical_sender_domain_count": 0,
+      "max_risk_score": 10,
+      "max_spam_score": 4.7,
+      "new_sender_domains": "auedcdbcrx.com, kjmqalhv.m137fb5g.com, opibstdkdt.mintcrate.uk.com",
+      "reason": "Mehrere neue Sender-Domains auf bisher unauffaelligem Alias"
+    }
+  ],
+  "alias_spikes": [
+    {
+      "alias_label": "kolak127@gmail.com",
+      "current_mail_count": 3,
+      "current_new_sender_domain_count": 3,
+      "current_sender_domain_count": 3,
+      "historical_avg_active_day_count": 0.0,
+      "historical_mail_count": 0,
+      "historical_peak_day_count": 0,
+      "max_risk_score": 10,
+      "max_spam_score": 4.7,
+      "reason": "Erste Aktivitaet im Lookback mit 3 Mails",
+      "spike_threshold": 3
+    }
+  ],
+  "campaign_changes": [
+    {
+      "created_at": "2026-04-17 22:01:30",
+      "id": 57,
+      "overlap_mail_count": 1,
+      "rebuild_id": 12,
+      "relation_type": "continued",
+      "source_campaign_id": 1,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 1,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-17 22:01:30",
+      "id": 56,
+      "overlap_mail_count": 1,
+      "rebuild_id": 12,
+      "relation_type": "continued",
+      "source_campaign_id": 2,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 2,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-17 22:01:30",
+      "id": 55,
+      "overlap_mail_count": 1,
+      "rebuild_id": 12,
+      "relation_type": "continued",
+      "source_campaign_id": 3,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 3,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-17 22:01:30",
+      "id": 54,
+      "overlap_mail_count": 1,
+      "rebuild_id": 12,
+      "relation_type": "continued",
+      "source_campaign_id": 4,
+      "source_label": "kolak ihre meinung ist einen erste / auedcdbcrx.com",
+      "target_campaign_id": 4,
+      "target_label": "kolak ihre meinung ist einen erste / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-04-17 22:01:30",
+      "id": 53,
+      "overlap_mail_count": 1,
+      "rebuild_id": 12,
+      "relation_type": "continued",
+      "source_campaign_id": 5,
+      "source_label": "kolak ckwunsch wir haben oral zahnb / opibstdkdt.mintcrate.uk.com",
+      "target_campaign_id": 5,
+      "target_label": "kolak ckwunsch wir haben oral zahnb / opibstdkdt.mintcrate.uk.com"
+    },
+    {
+      "created_at": "2026-04-17 22:01:30",
+      "id": 52,
+      "overlap_mail_count": 1,
+      "rebuild_id": 12,
+      "relation_type": "continued",
+      "source_campaign_id": 6,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 6,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-17 21:46:40",
+      "id": 51,
+      "overlap_mail_count": 1,
+      "rebuild_id": 11,
+      "relation_type": "continued",
+      "source_campaign_id": 1,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 1,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-17 21:46:40",
+      "id": 50,
+      "overlap_mail_count": 1,
+      "rebuild_id": 11,
+      "relation_type": "continued",
+      "source_campaign_id": 2,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 2,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-17 21:46:40",
+      "id": 49,
+      "overlap_mail_count": 1,
+      "rebuild_id": 11,
+      "relation_type": "continued",
+      "source_campaign_id": 3,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 3,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-17 21:46:40",
+      "id": 48,
+      "overlap_mail_count": 1,
+      "rebuild_id": 11,
+      "relation_type": "continued",
+      "source_campaign_id": 4,
+      "source_label": "kolak ihre meinung ist einen erste / auedcdbcrx.com",
+      "target_campaign_id": 4,
+      "target_label": "kolak ihre meinung ist einen erste / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-04-17 21:46:40",
+      "id": 47,
+      "overlap_mail_count": 1,
+      "rebuild_id": 11,
+      "relation_type": "continued",
+      "source_campaign_id": 5,
+      "source_label": "kolak ckwunsch wir haben oral zahnb / opibstdkdt.mintcrate.uk.com",
+      "target_campaign_id": 5,
+      "target_label": "kolak ckwunsch wir haben oral zahnb / opibstdkdt.mintcrate.uk.com"
+    },
+    {
+      "created_at": "2026-04-17 21:46:40",
+      "id": 46,
+      "overlap_mail_count": 1,
+      "rebuild_id": 11,
+      "relation_type": "continued",
+      "source_campaign_id": 6,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 6,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-17 21:31:43",
+      "id": 45,
+      "overlap_mail_count": 1,
+      "rebuild_id": 10,
+      "relation_type": "continued",
+      "source_campaign_id": 1,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 1,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-17 21:31:43",
+      "id": 44,
+      "overlap_mail_count": 1,
+      "rebuild_id": 10,
+      "relation_type": "continued",
+      "source_campaign_id": 2,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 2,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-17 21:31:43",
+      "id": 43,
+      "overlap_mail_count": 1,
+      "rebuild_id": 10,
+      "relation_type": "continued",
+      "source_campaign_id": 3,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 3,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    }
+  ],
   "complete_day": false,
-  "generated_at": "2026-04-17T14:58:46.686517+00:00",
+  "generated_at": "2026-04-17T22:04:25.755475+00:00",
   "issue_events": [
     {
-      "event_count": 2,
-      "event_type": "monit.notification.sent",
+      "event_count": 1,
+      "event_type": "alert.sent",
       "severity": "warning"
     }
   ],
   "new_clusters": [
     {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"adminn5.halamala.online\", \"signal_count\": 4, \"subject_fingerprint\": \"zahlungserinnerung-mahnung\", \"url_domains\": [\"fryftgyfgyhfgyh.s3.amazonaws.com\", \"link\"]}",
+      "first_seen_at": "2026-04-17 20:38:31",
+      "id": 6,
+      "label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "signals": "from:adminn5.halamala.online; subject:zahlungserinnerung mahnung; url:fryftgyfgyhfgyh.s3.amazonaws.com, link"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"opibstdkdt.mintcrate.uk.com\", \"signal_count\": 4, \"subject_fingerprint\": \"kolak-ckwunsch-wir-haben-oral-zahnb\", \"url_domains\": [\"fonts.googleapis.com\", \"storage.googleapis.com\"]}",
+      "first_seen_at": "2026-04-17 20:38:29",
+      "id": 5,
+      "label": "kolak ckwunsch wir haben oral zahnb / opibstdkdt.mintcrate.uk.com",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "signals": "from:opibstdkdt.mintcrate.uk.com; subject:kolak ckwunsch wir haben oral zahnb; url:fonts.googleapis.com, storage.googleapis.com"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"auedcdbcrx.com\", \"signal_count\": 4, \"subject_fingerprint\": \"kolak-ihre-meinung-ist-einen-erste\", \"url_domains\": [\"calendly.com\", \"storage.googleapis.com\"]}",
+      "first_seen_at": "2026-04-17 20:38:25",
+      "id": 4,
+      "label": "kolak ihre meinung ist einen erste / auedcdbcrx.com",
+      "mail_count": 1,
+      "max_risk_score": 10,
+      "signals": "from:auedcdbcrx.com; subject:kolak ihre meinung ist einen erste; url:calendly.com, storage.googleapis.com"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"kjmqalhv.m137fb5g.com\", \"signal_count\": 3, \"subject_fingerprint\": \"kolak-keine-mehreren-abonnements-erforderlich-alles\", \"url_domains\": [\"storage.googleapis.com\"]}",
+      "first_seen_at": "2026-04-17 20:36:06",
+      "id": 3,
+      "label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "mail_count": 1,
+      "max_risk_score": 0,
+      "signals": "from:kjmqalhv.m137fb5g.com; subject:kolak keine mehreren abonnements erforderlich alles; url:storage.googleapis.com"
+    },
+    {
       "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"qqwsmqth.fmpiibtz.shareit.com.ng\", \"signal_count\": 3, \"subject_fingerprint\": \"kolak\", \"url_domains\": [\"storage.googleapis.com\"]}",
-      "first_seen_at": "2026-04-17 14:36:52",
+      "first_seen_at": "2026-04-17 20:36:02",
       "id": 2,
       "label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
       "mail_count": 1,
@@ -48,59 +409,114 @@
       "signals": "from:qqwsmqth.fmpiibtz.shareit.com.ng; subject:kolak; url:storage.googleapis.com"
     },
     {
-      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"gmail.com\", \"signal_count\": 2, \"subject_fingerprint\": \"test\", \"url_domains\": []}",
-      "first_seen_at": "2026-04-17 10:41:18",
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"akdcqeve.ima.msspolicy.biz\", \"signal_count\": 4, \"subject_fingerprint\": \"blocked-account-photos-videos-will-deleted\", \"url_domains\": [\"ima.msspolicy.biz\", \"storage.googleapis.com\"]}",
+      "first_seen_at": "2026-04-17 20:35:57",
       "id": 1,
-      "label": "test / gmail.com",
-      "mail_count": 2,
+      "label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "mail_count": 1,
       "max_risk_score": 0,
-      "signals": "from:gmail.com; subject:test"
+      "signals": "from:akdcqeve.ima.msspolicy.biz; subject:blocked account photos videos will deleted; url:ima.msspolicy.biz, storage.googleapis.com"
     }
   ],
   "new_domains": [
     {
       "domain": "gmail.com",
-      "first_seen_at": "2026-04-17 10:50:45",
+      "first_seen_at": "2026-04-17 20:35:57",
+      "mail_count": 6
+    },
+    {
+      "domain": "storage.googleapis.com",
+      "first_seen_at": "2026-04-17 20:35:57",
+      "mail_count": 5
+    },
+    {
+      "domain": "pdr8-services-05v.prod.rqbfvxdots.org",
+      "first_seen_at": "2026-04-17 20:36:19",
       "mail_count": 3
     },
     {
-      "domain": "dd29936.kasserver.com",
-      "first_seen_at": "2026-04-17 10:50:45",
-      "mail_count": 2
+      "domain": "adminn5.halamala.online",
+      "first_seen_at": "2026-04-17 20:38:52",
+      "mail_count": 1
     },
     {
-      "domain": "itb-relay.de",
-      "first_seen_at": "2026-04-17 10:50:45",
-      "mail_count": 2
+      "domain": "akdcqeve.ima.msspolicy.biz",
+      "first_seen_at": "2026-04-17 20:35:57",
+      "mail_count": 1
     },
     {
-      "domain": "mail.gmail.com",
-      "first_seen_at": "2026-04-17 10:50:45",
-      "mail_count": 2
+      "domain": "aol.com",
+      "first_seen_at": "2026-04-17 20:35:57",
+      "mail_count": 1
+    },
+    {
+      "domain": "auedcdbcrx.com",
+      "first_seen_at": "2026-04-17 20:38:25",
+      "mail_count": 1
     },
     {
       "domain": "aws.pw9ljifnpiuyu5009i.com",
-      "first_seen_at": "2026-04-17 14:37:02",
+      "first_seen_at": "2026-04-17 20:36:09",
+      "mail_count": 1
+    },
+    {
+      "domain": "calendly.com",
+      "first_seen_at": "2026-04-17 20:38:25",
+      "mail_count": 1
+    },
+    {
+      "domain": "dglvbi.incnnme.hoteloranli.br.com",
+      "first_seen_at": "2026-04-17 20:38:25",
+      "mail_count": 1
+    },
+    {
+      "domain": "fonts.googleapis.com",
+      "first_seen_at": "2026-04-17 20:38:37",
+      "mail_count": 1
+    },
+    {
+      "domain": "fryftgyfgyhfgyh.s3.amazonaws.com",
+      "first_seen_at": "2026-04-17 20:38:52",
+      "mail_count": 1
+    },
+    {
+      "domain": "ima.msspolicy.biz",
+      "first_seen_at": "2026-04-17 20:35:57",
+      "mail_count": 1
+    },
+    {
+      "domain": "kjmqalhv.m137fb5g.com",
+      "first_seen_at": "2026-04-17 20:36:19",
       "mail_count": 1
     },
     {
       "domain": "kolak127.newsletters.cbc.ca",
-      "first_seen_at": "2026-04-17 14:37:02",
+      "first_seen_at": "2026-04-17 20:36:09",
       "mail_count": 1
     },
     {
-      "domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
-      "first_seen_at": "2026-04-17 14:37:02",
+      "domain": "link",
+      "first_seen_at": "2026-04-17 20:38:52",
       "mail_count": 1
     },
     {
-      "domain": "shareit.com.ng",
-      "first_seen_at": "2026-04-17 14:37:02",
+      "domain": "mintcrate.uk.com",
+      "first_seen_at": "2026-04-17 20:38:37",
       "mail_count": 1
     },
     {
-      "domain": "storage.googleapis.com",
-      "first_seen_at": "2026-04-17 14:37:02",
+      "domain": "mx.google.com",
+      "first_seen_at": "2026-04-17 20:38:52",
+      "mail_count": 1
+    },
+    {
+      "domain": "opibstdkdt.mintcrate.uk.com",
+      "first_seen_at": "2026-04-17 20:38:37",
+      "mail_count": 1
+    },
+    {
+      "domain": "psychophysiological.uncharacteristically.xwnr.pp.ua",
+      "first_seen_at": "2026-04-17 20:36:19",
       "mail_count": 1
     }
   ],
@@ -110,7 +526,7 @@
       "analysis_status": "analyzed",
       "clamav_result": "clean",
       "from_domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
-      "mail_id": 4,
+      "mail_id": 2,
       "recipient": "Contact <kolak127@gmail.com>",
       "risk_score": 55,
       "spam_score": 0.5,
@@ -121,73 +537,150 @@
       "alias_email": null,
       "analysis_status": "analyzed",
       "clamav_result": "clean",
-      "from_domain": "gmail.com",
-      "mail_id": 3,
-      "recipient": "test2@itb-relay.de",
-      "risk_score": 0,
-      "spam_score": -3.1,
-      "subject": "Test2",
+      "from_domain": "auedcdbcrx.com",
+      "mail_id": 4,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 10,
+      "spam_score": 4.7,
+      "subject": "kolak127! -  Ihre Meinung ist einen Erste-Hilfe-Kasten wert !",
       "yara_result": "clean"
     },
     {
       "alias_email": null,
       "analysis_status": "analyzed",
       "clamav_result": "clean",
-      "from_domain": "gmail.com",
-      "mail_id": 2,
-      "recipient": "test@itb-relay.de",
+      "from_domain": "akdcqeve.ima.msspolicy.biz",
+      "mail_id": 1,
+      "recipient": "me@aol.com",
       "risk_score": 0,
-      "spam_score": -3.1,
-      "subject": "Test",
+      "spam_score": -0.3,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "opibstdkdt.mintcrate.uk.com",
+      "mail_id": 5,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 0,
+      "spam_score": -0.5,
+      "subject": "kolak127! - Gl\u00fcckwunsch! Wir haben (1) Oral-B Zahnb\u00fcrste exklusiv f\u00fcr Sie reserviert!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "adminn5.halamala.online",
+      "mail_id": 6,
+      "recipient": "\"kolak127@gmail.com\" <kolak127@gmail.com>",
+      "risk_score": 0,
+      "spam_score": -0.8,
+      "subject": "Zahlungserinnerung \u2013 2. Mahnung",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "kjmqalhv.m137fb5g.com",
+      "mail_id": 3,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 0,
+      "spam_score": -1.6,
+      "subject": "kolak127 Keine mehreren Abonnements erforderlich \u2014 alles, was Sie lieben, in einem einzigen Abonnement \ud83c\udf96\ufe0f",
       "yara_result": "clean"
     }
   ],
-  "novel_lure_candidates": [],
+  "novel_lure_candidates": [
+    {
+      "alias_email": null,
+      "from_domain": "auedcdbcrx.com",
+      "mail_id": 4,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 10,
+      "spam_score": 4.7,
+      "subject": "kolak127! -  Ihre Meinung ist einen Erste-Hilfe-Kasten wert !",
+      "yara_result": "clean"
+    }
+  ],
   "report_date": "2026-04-17",
   "report_timezone": "UTC",
-  "suspicious_aliases": [],
+  "similarity_pairs": [],
+  "suspicious_aliases": [
+    {
+      "alias_label": "kolak127@gmail.com",
+      "mail_count": 3,
+      "max_risk_score": 10,
+      "max_spam_score": 4.7,
+      "sender_domain_count": 3
+    }
+  ],
   "top_domains": [
     {
       "domain": "gmail.com",
+      "mail_count": 6
+    },
+    {
+      "domain": "storage.googleapis.com",
+      "mail_count": 5
+    },
+    {
+      "domain": "pdr8-services-05v.prod.rqbfvxdots.org",
       "mail_count": 3
     },
     {
-      "domain": "dd29936.kasserver.com",
-      "mail_count": 2
+      "domain": "adminn5.halamala.online",
+      "mail_count": 1
     },
     {
-      "domain": "itb-relay.de",
-      "mail_count": 2
+      "domain": "akdcqeve.ima.msspolicy.biz",
+      "mail_count": 1
     },
     {
-      "domain": "mail.gmail.com",
-      "mail_count": 2
+      "domain": "aol.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "auedcdbcrx.com",
+      "mail_count": 1
     },
     {
       "domain": "aws.pw9ljifnpiuyu5009i.com",
       "mail_count": 1
     },
     {
-      "domain": "kolak127.newsletters.cbc.ca",
+      "domain": "calendly.com",
       "mail_count": 1
     },
     {
-      "domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
-      "mail_count": 1
-    },
-    {
-      "domain": "shareit.com.ng",
-      "mail_count": 1
-    },
-    {
-      "domain": "storage.googleapis.com",
+      "domain": "dglvbi.incnnme.hoteloranli.br.com",
       "mail_count": 1
     }
   ],
   "top_sender_domains": [
     {
-      "domain": "gmail.com",
-      "mail_count": 2
+      "domain": "adminn5.halamala.online",
+      "mail_count": 1
+    },
+    {
+      "domain": "akdcqeve.ima.msspolicy.biz",
+      "mail_count": 1
+    },
+    {
+      "domain": "auedcdbcrx.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "kjmqalhv.m137fb5g.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "opibstdkdt.mintcrate.uk.com",
+      "mail_count": 1
     },
     {
       "domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
@@ -195,28 +688,34 @@
     }
   ],
   "totals": {
-    "active_cluster_count": 2,
-    "alert_count": 1,
+    "active_cluster_count": 6,
+    "alert_count": 2,
+    "alias_leak_candidate_count": 1,
+    "alias_spike_count": 1,
     "analyze_error_count": 0,
-    "analyzed_mail_count": 3,
+    "analyzed_mail_count": 6,
     "attachment_count": 0,
-    "avg_risk_score": 18.33,
-    "avg_spam_score": -1.9,
-    "distinct_domain_count": 9,
+    "avg_risk_score": 10.83,
+    "avg_spam_score": 0.33,
+    "campaign_change_count": 57,
+    "campaign_count": 6,
+    "distinct_domain_count": 22,
     "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
     "high_risk_cluster_count": 0,
     "high_risk_mail_count": 0,
-    "mail_count": 3,
+    "mail_count": 6,
     "max_risk_score": 55,
-    "max_spam_score": 0.5,
-    "new_cluster_count": 2,
-    "new_domain_count": 9,
-    "novel_lure_candidate_count": 0,
+    "max_spam_score": 4.7,
+    "new_cluster_count": 6,
+    "new_domain_count": 20,
+    "novel_lure_candidate_count": 1,
     "parse_error_count": 0,
-    "url_count": 2
+    "similarity_pair_count": 0,
+    "url_count": 21
   },
-  "window_end_local": "2026-04-17T14:58:46.684980+00:00",
-  "window_end_utc": "2026-04-17T14:58:46.684980+00:00",
+  "window_end_local": "2026-04-17T22:04:25.752773+00:00",
+  "window_end_utc": "2026-04-17T22:04:25.752773+00:00",
   "window_start_local": "2026-04-17T00:00:00+00:00",
   "window_start_utc": "2026-04-17T00:00:00+00:00"
 }
