@@ -1,0 +1,103 @@
+{
+  "alerts": [],
+  "complete_day": false,
+  "generated_at": "2026-04-17T11:30:54.441425+00:00",
+  "issue_events": [],
+  "new_domains": [
+    {
+      "domain": "dd29936.kasserver.com",
+      "first_seen_at": "2026-04-17 10:50:45",
+      "mail_count": 2
+    },
+    {
+      "domain": "gmail.com",
+      "first_seen_at": "2026-04-17 10:50:45",
+      "mail_count": 2
+    },
+    {
+      "domain": "itb-relay.de",
+      "first_seen_at": "2026-04-17 10:50:45",
+      "mail_count": 2
+    },
+    {
+      "domain": "mail.gmail.com",
+      "first_seen_at": "2026-04-17 10:50:45",
+      "mail_count": 2
+    }
+  ],
+  "notable_mails": [
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "gmail.com",
+      "mail_id": 3,
+      "recipient": "test2@itb-relay.de",
+      "risk_score": 0,
+      "spam_score": -3.1,
+      "subject": "Test2",
+      "yara_result": "no_rules"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "gmail.com",
+      "mail_id": 2,
+      "recipient": "test@itb-relay.de",
+      "risk_score": 0,
+      "spam_score": -3.1,
+      "subject": "Test",
+      "yara_result": "no_rules"
+    }
+  ],
+  "report_date": "2026-04-17",
+  "report_timezone": "UTC",
+  "suspicious_aliases": [],
+  "top_domains": [
+    {
+      "domain": "dd29936.kasserver.com",
+      "mail_count": 2
+    },
+    {
+      "domain": "gmail.com",
+      "mail_count": 2
+    },
+    {
+      "domain": "itb-relay.de",
+      "mail_count": 2
+    },
+    {
+      "domain": "mail.gmail.com",
+      "mail_count": 2
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "gmail.com",
+      "mail_count": 2
+    }
+  ],
+  "totals": {
+    "alert_count": 0,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 2,
+    "attachment_count": 0,
+    "avg_risk_score": 0.0,
+    "avg_spam_score": -3.1,
+    "distinct_domain_count": 4,
+    "enrich_error_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 2,
+    "max_risk_score": 0,
+    "max_spam_score": -3.1,
+    "new_cluster_count": 0,
+    "new_domain_count": 4,
+    "parse_error_count": 0,
+    "url_count": 0
+  },
+  "window_end_local": "2026-04-17T11:30:54.440547+00:00",
+  "window_end_utc": "2026-04-17T11:30:54.440547+00:00",
+  "window_start_local": "2026-04-17T00:00:00+00:00",
+  "window_start_utc": "2026-04-17T00:00:00+00:00"
+}
