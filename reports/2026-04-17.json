@@ -1,6 +1,15 @@
 {
   "active_clusters": [
     {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"qqwsmqth.fmpiibtz.shareit.com.ng\", \"signal_count\": 3, \"subject_fingerprint\": \"kolak\", \"url_domains\": [\"storage.googleapis.com\"]}",
+      "id": 2,
+      "label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "last_seen_at": "2026-04-17 14:36:52",
+      "mail_count": 1,
+      "max_risk_score": 55,
+      "signals": "from:qqwsmqth.fmpiibtz.shareit.com.ng; subject:kolak; url:storage.googleapis.com"
+    },
+    {
       "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"gmail.com\", \"signal_count\": 2, \"subject_fingerprint\": \"test\", \"url_domains\": []}",
       "id": 1,
       "label": "test / gmail.com",
@@ -10,9 +19,17 @@
       "signals": "from:gmail.com; subject:test"
     }
   ],
-  "alerts": [],
+  "alerts": [
+    {
+      "alert_type": "mail.yara_match",
+      "id": 1,
+      "mail_id": 4,
+      "sent_at": "2026-04-17T14:46:16.541910+00:00",
+      "severity": "high"
+    }
+  ],
   "complete_day": false,
-  "generated_at": "2026-04-17T14:27:17.181910+00:00",
+  "generated_at": "2026-04-17T14:58:46.686517+00:00",
   "issue_events": [
     {
       "event_count": 2,
@@ -21,6 +38,15 @@
     }
   ],
   "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"qqwsmqth.fmpiibtz.shareit.com.ng\", \"signal_count\": 3, \"subject_fingerprint\": \"kolak\", \"url_domains\": [\"storage.googleapis.com\"]}",
+      "first_seen_at": "2026-04-17 14:36:52",
+      "id": 2,
+      "label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "mail_count": 1,
+      "max_risk_score": 55,
+      "signals": "from:qqwsmqth.fmpiibtz.shareit.com.ng; subject:kolak; url:storage.googleapis.com"
+    },
     {
       "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"gmail.com\", \"signal_count\": 2, \"subject_fingerprint\": \"test\", \"url_domains\": []}",
       "first_seen_at": "2026-04-17 10:41:18",
@@ -33,12 +59,12 @@
   ],
   "new_domains": [
     {
-      "domain": "dd29936.kasserver.com",
+      "domain": "gmail.com",
       "first_seen_at": "2026-04-17 10:50:45",
-      "mail_count": 2
+      "mail_count": 3
     },
     {
-      "domain": "gmail.com",
+      "domain": "dd29936.kasserver.com",
       "first_seen_at": "2026-04-17 10:50:45",
       "mail_count": 2
     },
@@ -51,9 +77,46 @@
       "domain": "mail.gmail.com",
       "first_seen_at": "2026-04-17 10:50:45",
       "mail_count": 2
+    },
+    {
+      "domain": "aws.pw9ljifnpiuyu5009i.com",
+      "first_seen_at": "2026-04-17 14:37:02",
+      "mail_count": 1
+    },
+    {
+      "domain": "kolak127.newsletters.cbc.ca",
+      "first_seen_at": "2026-04-17 14:37:02",
+      "mail_count": 1
+    },
+    {
+      "domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
+      "first_seen_at": "2026-04-17 14:37:02",
+      "mail_count": 1
+    },
+    {
+      "domain": "shareit.com.ng",
+      "first_seen_at": "2026-04-17 14:37:02",
+      "mail_count": 1
+    },
+    {
+      "domain": "storage.googleapis.com",
+      "first_seen_at": "2026-04-17 14:37:02",
+      "mail_count": 1
     }
   ],
   "notable_mails": [
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
+      "mail_id": 4,
+      "recipient": "Contact <kolak127@gmail.com>",
+      "risk_score": 55,
+      "spam_score": 0.5,
+      "subject": "kolak127:  \ud835\udc15\ud835\udc28\ud835\udc2d\ud835\udc2b\ud835\udc1e \ud835\udc1c\ud835\udc21\ud835\udc1a\ud835\udc27\ud835\udc1c\ud835\udc1e \ud835\udc1d\ud835\udc1e \ud835\udc2b\ud835\udc1e\ud835\udc1c\ud835\udc1e\ud835\udc2f\ud835\udc28\ud835\udc22\ud835\udc2b \ud835\udc2e\ud835\udc27 \ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc1d'\ud835\udc28\ud835\udc2e\ud835\udc2d\ud835\udc22\ud835\udc25\ud835\udc2c \ud835\udc03\ud835\udc1e\ud835\udc31\ud835\udc2d\ud835\udc1e\ud835\udc2b \ud835\udfcf\ud835\udfce\ud835\udfd6 \ud835\udc29\ud835\udc22\ud835\udc1e\u0300\ud835\udc1c\ud835\udc1e\ud835\udc2c \ud835\udc06\ud835\udc11\ud835\udc00\ud835\udc13\ud835\udc14\ud835\udc08\ud835\udc13 ",
+      "yara_result": "match:1"
+    },
     {
       "alias_email": null,
       "analysis_status": "analyzed",
@@ -79,16 +142,17 @@
       "yara_result": "clean"
     }
   ],
+  "novel_lure_candidates": [],
   "report_date": "2026-04-17",
   "report_timezone": "UTC",
   "suspicious_aliases": [],
   "top_domains": [
     {
-      "domain": "dd29936.kasserver.com",
-      "mail_count": 2
+      "domain": "gmail.com",
+      "mail_count": 3
     },
     {
-      "domain": "gmail.com",
+      "domain": "dd29936.kasserver.com",
       "mail_count": 2
     },
     {
@@ -98,36 +162,61 @@
     {
       "domain": "mail.gmail.com",
       "mail_count": 2
+    },
+    {
+      "domain": "aws.pw9ljifnpiuyu5009i.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "kolak127.newsletters.cbc.ca",
+      "mail_count": 1
+    },
+    {
+      "domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
+      "mail_count": 1
+    },
+    {
+      "domain": "shareit.com.ng",
+      "mail_count": 1
+    },
+    {
+      "domain": "storage.googleapis.com",
+      "mail_count": 1
     }
   ],
   "top_sender_domains": [
     {
       "domain": "gmail.com",
       "mail_count": 2
+    },
+    {
+      "domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
+      "mail_count": 1
     }
   ],
   "totals": {
-    "active_cluster_count": 1,
-    "alert_count": 0,
+    "active_cluster_count": 2,
+    "alert_count": 1,
     "analyze_error_count": 0,
-    "analyzed_mail_count": 2,
+    "analyzed_mail_count": 3,
     "attachment_count": 0,
-    "avg_risk_score": 0.0,
-    "avg_spam_score": -3.1,
-    "distinct_domain_count": 4,
+    "avg_risk_score": 18.33,
+    "avg_spam_score": -1.9,
+    "distinct_domain_count": 9,
     "enrich_error_count": 0,
     "high_risk_cluster_count": 0,
     "high_risk_mail_count": 0,
-    "mail_count": 2,
-    "max_risk_score": 0,
-    "max_spam_score": -3.1,
-    "new_cluster_count": 1,
-    "new_domain_count": 4,
+    "mail_count": 3,
+    "max_risk_score": 55,
+    "max_spam_score": 0.5,
+    "new_cluster_count": 2,
+    "new_domain_count": 9,
+    "novel_lure_candidate_count": 0,
     "parse_error_count": 0,
-    "url_count": 0
+    "url_count": 2
   },
-  "window_end_local": "2026-04-17T14:27:17.180786+00:00",
-  "window_end_utc": "2026-04-17T14:27:17.180786+00:00",
+  "window_end_local": "2026-04-17T14:58:46.684980+00:00",
+  "window_end_utc": "2026-04-17T14:58:46.684980+00:00",
   "window_start_local": "2026-04-17T00:00:00+00:00",
   "window_start_utc": "2026-04-17T00:00:00+00:00"
 }
