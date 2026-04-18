@@ -1,0 +1,1214 @@
+{
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 5, \"cluster_ids\": [24, 25, 26, 29, 33], \"from_domains\": [\"opibstdkdt.mintcrate.uk.com\", \"auedcdbcrx.com\", \"kjmqalhv.m137fb5g.com\"], \"mail_count\": 11, \"mail_ids\": [2, 3, 4, 5, 6, 8, 9, 11, 12, 15, 17], \"max_risk_score\": 90, \"similarity_edge_count\": 55, \"subject_fingerprint\": \"blocked-account-photos-videos-will-deleted\"}",
+      "generated_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "id": 18,
+      "label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "last_seen_at": "2026-04-18 14:14:35",
+      "mail_count": 6,
+      "max_risk_score": 49,
+      "notes": "-",
+      "signals": "subject:blocked account photos videos will deleted; from:opibstdkdt.mintcrate.uk.com, auedcdbcrx.com; clusters:5; edges:55"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [31], \"from_domains\": [\"email.bing.com\"], \"mail_count\": 1, \"mail_ids\": [14], \"max_risk_score\": 35, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"swiftkey-backups-moving-onedrive\"}",
+      "generated_label": "swiftkey backups moving onedrive / email.bing.com",
+      "id": 21,
+      "label": "swiftkey backups moving onedrive / email.bing.com",
+      "last_seen_at": "2026-04-18 14:05:48",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:swiftkey backups moving onedrive; from:email.bing.com; clusters:1"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 3, \"cluster_ids\": [27, 28, 34], \"from_domains\": [\"quietboat.com\", \"baiduq.com\", \"roddsandeden.com\"], \"mail_count\": 3, \"mail_ids\": [7, 10, 16], \"max_risk_score\": 28, \"similarity_edge_count\": 3, \"subject_fingerprint\": \"speicher-upgraden\"}",
+      "generated_label": "speicher upgraden / baiduq.com",
+      "id": 19,
+      "label": "speicher upgraden / baiduq.com",
+      "last_seen_at": "2026-04-18 14:12:50",
+      "mail_count": 3,
+      "max_risk_score": 28,
+      "notes": "-",
+      "signals": "subject:speicher upgraden; from:quietboat.com, baiduq.com; clusters:3; edges:3"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [30], \"from_domains\": [\"stagexperiences.com\"], \"mail_count\": 1, \"mail_ids\": [13], \"max_risk_score\": 27, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"guten-tag-confirms-synchronisierung-wurde-wegen\"}",
+      "generated_label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com",
+      "id": 20,
+      "label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com",
+      "last_seen_at": "2026-04-18 14:04:56",
+      "mail_count": 1,
+      "max_risk_score": 27,
+      "notes": "-",
+      "signals": "subject:guten tag confirms synchronisierung wurde wegen; from:stagexperiences.com; clusters:1"
+    }
+  ],
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"tfwzvxku.de\", \"signal_count\": 5, \"subject_fingerprint\": \"kolak-ihre-lidl-hei-luftfritteuse-wartet\", \"url_domains\": [\"185.34.52.181\"], \"url_families\": [\"storage.googleapis.com/locksoufbuck1\"], \"url_targets\": [\"storage.googleapis.com/locksoufbuck1/hreflysouf.html\"]}",
+      "id": 29,
+      "label": "kolak ihre lidl hei luftfritteuse wartet / tfwzvxku.de",
+      "last_seen_at": "2026-04-18 14:00:48",
+      "mail_count": 1,
+      "max_risk_score": 49,
+      "signals": "from:tfwzvxku.de; subject:kolak ihre lidl hei luftfritteuse wartet; url:185.34.52.181; family:storage.googleapis.com/locksoufbuck1"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"bouzdebq.playnetic.co.nl\", \"signal_count\": 5, \"subject_fingerprint\": \"kolak-zeit-uft-letzter-tag-rabatt\", \"url_domains\": [\"onsetcab.com\"], \"url_families\": [\"storage.googleapis.com/6dgdfg654df65g\"], \"url_targets\": [\"storage.googleapis.com/6dgdfg654df65g/sjghsdf654gfb.html\"]}",
+      "id": 24,
+      "label": "kolak zeit uft letzter tag rabatt / bouzdebq.playnetic.co.nl",
+      "last_seen_at": "2026-04-18 14:14:35",
+      "mail_count": 2,
+      "max_risk_score": 44,
+      "signals": "from:bouzdebq.playnetic.co.nl; subject:kolak zeit uft letzter tag rabatt; url:onsetcab.com; family:storage.googleapis.com/6dgdfg654df65g"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"onavdkwz.iet.brefin.my.id\", \"signal_count\": 4, \"subject_fingerprint\": \"blocked-account-photos-videos-will-deleted\", \"url_domains\": [], \"url_families\": [\"storage.googleapis.com/sfdcsdfsdfsdfsdf\"], \"url_targets\": [\"storage.googleapis.com/sfdcsdfsdfsdfsdf/asdsdasdadasasd.html\"]}",
+      "id": 33,
+      "label": "blocked account photos videos will deleted / onavdkwz.iet.brefin.my.id",
+      "last_seen_at": "2026-04-18 14:11:09",
+      "mail_count": 3,
+      "max_risk_score": 35,
+      "signals": "from:onavdkwz.iet.brefin.my.id; subject:blocked account photos videos will deleted; family:storage.googleapis.com/sfdcsdfsdfsdfsdf"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"email.bing.com\", \"signal_count\": 10, \"subject_fingerprint\": \"swiftkey-backups-moving-onedrive\", \"url_domains\": [\"apps.apple.com\", \"data.swiftkey.com\", \"rewards.bing.com\", \"support.microsoft.com\", \"www.microsoft.com\"], \"url_families\": [\"go.microsoft.com/fwlink\", \"www.bing.com/email/click2\"], \"url_targets\": [\"go.microsoft.com/fwlink/?LinkId=521839&plaintext=1\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fapp.adjust.com%2f1xafkd37&h=e-WsyTT7wuJ7S-eBcltnm2Un_h0toSQSuYTLqhJ24SQ1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fdata.swiftkey.com&h=dGr56B-hKXyTTqGKkRnWpFJctisfhxAP6lSTzpKfPm81&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fgo.microsoft.com%2ffwlink%2f%3fLinkId%3d521839&h=5kiz4o2-xD_nT_BGonWKrLyVuSWjlZSJ92bq7cx2BmQ1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fgo.microsoft.com%2ffwlink%2f%3flinkid%3d2330143&h=h2pUNXLtra9Vr-Y6Fce4uqpobyXM3EgyHUVfwOdcj3U1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fmicrosoft.com&h=JLNhAzXTSZjZlOV2cTTp1WamEOBPYN86igGw1K5Tr9g1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fprivacy.microsoft.com%2fen-US%2fprivacystatement&h=NFdDlkaEq3OqR74t0R3hxBPHED-0F3vALilUch9ElWw1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2frewards.bing.com%2fwelcome&h=IsjitOMnVuI7fvLBDVoia8Jkad9sIVZl-KGzbxJ7DB81&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fshare.swiftkey.com%2fskmsv1&h=deeYhW8O56mnk_cDIWBBCQjskq19AilyPkdMcKiFlDo1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\"]}",
+      "id": 31,
+      "label": "swiftkey backups moving onedrive / email.bing.com",
+      "last_seen_at": "2026-04-18 14:05:48",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:email.bing.com; subject:swiftkey backups moving onedrive; url:apps.apple.com, data.swiftkey.com; family:go.microsoft.com/fwlink"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"roddsandeden.com\", \"signal_count\": 8, \"subject_fingerprint\": \"status-update-speicher-kritis\", \"url_domains\": [\"e.emailalerts.cnn.com\", \"roddsandeden.com\"], \"url_families\": [\"e.emailalerts.cnn.com/click\", \"roddsandeden.com/c/719C5N52016rDBHd\"], \"url_targets\": [\"e.emailalerts.cnn.com/click?EcmFlbHN0ZWVsbWFuc0BnbWFpbC5jb20/CeyJta=\", \"roddsandeden.com/c/719C5N52016rDBHd/2BwR7W7f209664579_179977_734051Y3YVwDu/N01c8UY9XVM737m4Y/FC4H56o9T85/Hx9u7XXE1ypaB9qp/\"]}",
+      "id": 34,
+      "label": "status update speicher kritis / roddsandeden.com",
+      "last_seen_at": "2026-04-18 14:12:50",
+      "mail_count": 1,
+      "max_risk_score": 28,
+      "signals": "from:roddsandeden.com; subject:status update speicher kritis; url:e.emailalerts.cnn.com, roddsandeden.com; family:e.emailalerts.cnn.com/click"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"stagexperiences.com\", \"signal_count\": 5, \"subject_fingerprint\": \"guten-tag-confirms-synchronisierung-wurde-wegen\", \"url_domains\": [\"stagexperiences.com\"], \"url_families\": [\"stagexperiences.com/c/LLhS5G5171154Ijl\"], \"url_targets\": [\"stagexperiences.com/c/LLhS5G5171154Ijl/3PR27ZVE209664579_218424_731837V2jeaLe/b08r6I0Z87tG6/3i2H8NvGTq60QOJNy/20FF67G1SgX2R3/\"]}",
+      "id": 30,
+      "label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com",
+      "last_seen_at": "2026-04-18 14:04:56",
+      "mail_count": 1,
+      "max_risk_score": 27,
+      "signals": "from:stagexperiences.com; subject:guten tag confirms synchronisierung wurde wegen; url:stagexperiences.com; family:stagexperiences.com/c/LLhS5G5171154Ijl"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"quietboat.com\", \"signal_count\": 7, \"subject_fingerprint\": \"speicher-upgraden\", \"url_domains\": [\"quietboat.com\"], \"url_families\": [\"quietboat.com\", \"quietboat.com/c/1z1Y9pb6L252016Z0cRuLLcK\"], \"url_targets\": [\"quietboat.com/\", \"quietboat.com/c/1z1Y9pb6L252016Z0cRuLLcK/62eB6d5209664579_179977_7355389F5546/gL2i6Otp2f65K/Ye056x5g9e9eR/yqRU9uxbNr1taP1mEokp/\"]}",
+      "id": 27,
+      "label": "speicher upgraden / quietboat.com",
+      "last_seen_at": "2026-04-18 10:13:34",
+      "mail_count": 1,
+      "max_risk_score": 20,
+      "signals": "from:quietboat.com; subject:speicher upgraden; url:quietboat.com; family:quietboat.com"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"baiduq.com\", \"signal_count\": 5, \"subject_fingerprint\": \"weil-ihr-speicher-voll-ist-ihre\", \"url_domains\": [\"baiduq.com\"], \"url_families\": [\"baiduq.com/c/23af8040052016y1ev5voW\"], \"url_targets\": [\"baiduq.com/c/23af8040052016y1ev5voW/EcvV7ep6209664579_162086_736159L0O9qpr/R7816LWVspx5e/M0Zq782doM1AtGG/D19p85C6F1M6JtLoJ2/\"]}",
+      "id": 28,
+      "label": "weil ihr speicher voll ist ihre / baiduq.com",
+      "last_seen_at": "2026-04-18 10:13:44",
+      "mail_count": 1,
+      "max_risk_score": 20,
+      "signals": "from:baiduq.com; subject:weil ihr speicher voll ist ihre; url:baiduq.com; family:baiduq.com/c/23af8040052016y1ev5voW"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 21,
+      "mail_id": 10,
+      "sent_at": "2026-04-18T18:46:06.447321+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 20,
+      "mail_id": 9,
+      "sent_at": "2026-04-18T18:46:06.379683+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 19,
+      "mail_id": 8,
+      "sent_at": "2026-04-18T18:46:06.306736+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 18,
+      "mail_id": 7,
+      "sent_at": "2026-04-18T18:46:06.225258+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 17,
+      "mail_id": 6,
+      "sent_at": "2026-04-18T18:46:06.152866+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.risk_threshold",
+      "id": 16,
+      "mail_id": 5,
+      "sent_at": "2026-04-18T18:46:06.084544+00:00",
+      "severity": "high"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 15,
+      "mail_id": 4,
+      "sent_at": "2026-04-18T18:46:06.007284+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 14,
+      "mail_id": 2,
+      "sent_at": "2026-04-18T18:46:05.925935+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 13,
+      "mail_id": 1,
+      "sent_at": "2026-04-18T18:46:05.824275+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 12,
+      "mail_id": 17,
+      "sent_at": "2026-04-18T14:15:12.635395+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 11,
+      "mail_id": 16,
+      "sent_at": "2026-04-18T14:15:12.570202+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 10,
+      "mail_id": 15,
+      "sent_at": "2026-04-18T14:15:12.504022+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 9,
+      "mail_id": 14,
+      "sent_at": "2026-04-18T14:15:12.439281+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 8,
+      "mail_id": 13,
+      "sent_at": "2026-04-18T14:15:12.371092+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 7,
+      "mail_id": 12,
+      "sent_at": "2026-04-18T14:15:12.303022+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 6,
+      "mail_id": 11,
+      "sent_at": "2026-04-18T14:15:12.239248+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.yara_match",
+      "id": 5,
+      "mail_id": 5,
+      "sent_at": "2026-04-18T11:46:25.150556+00:00",
+      "severity": "high"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 4,
+      "mail_id": 8,
+      "sent_at": "2026-04-18T11:32:26.707200+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 3,
+      "mail_id": 5,
+      "sent_at": "2026-04-18T11:32:26.638068+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 2,
+      "mail_id": 3,
+      "sent_at": "2026-04-18T11:32:26.575839+00:00",
+      "severity": "warning"
+    }
+  ],
+  "alias_leak_candidates": [
+    {
+      "alias_label": "kolak127@gmail.com",
+      "current_mail_count": 8,
+      "current_new_sender_domain_count": 8,
+      "current_sender_domain_count": 8,
+      "historical_mail_count": 3,
+      "historical_sender_domain_count": 3,
+      "max_risk_score": 49,
+      "max_spam_score": 4.7,
+      "new_sender_domains": "baiduq.com, bouzdebq.playnetic.co.nl, email.bing.com, phdxpdjl.it",
+      "reason": "Mehrere neue Sender-Domains im selben Zeitfenster"
+    },
+    {
+      "alias_label": "me@aol.com",
+      "current_mail_count": 3,
+      "current_new_sender_domain_count": 3,
+      "current_sender_domain_count": 3,
+      "historical_mail_count": 1,
+      "historical_sender_domain_count": 1,
+      "max_risk_score": 35,
+      "max_spam_score": 0.2,
+      "new_sender_domains": "anahnzee.suu.immism.uk, cmtyezbq.zyb.findyourdomainw.co.uk, onavdkwz.iet.brefin.my.id",
+      "reason": "Sprunghafter Wechsel von einer auf mehrere neue Sender-Domains"
+    }
+  ],
+  "alias_spikes": [
+    {
+      "alias_label": "kolak127@gmail.com",
+      "current_mail_count": 8,
+      "current_new_sender_domain_count": 8,
+      "current_sender_domain_count": 8,
+      "historical_avg_active_day_count": 3.0,
+      "historical_mail_count": 3,
+      "historical_peak_day_count": 3,
+      "max_risk_score": 49,
+      "max_spam_score": 4.7,
+      "reason": "8 Mails gegen Peak 3 und \u00d8 aktiv 3.0",
+      "spike_threshold": 8
+    },
+    {
+      "alias_label": "me@aol.com",
+      "current_mail_count": 3,
+      "current_new_sender_domain_count": 3,
+      "current_sender_domain_count": 3,
+      "historical_avg_active_day_count": 1.0,
+      "historical_mail_count": 1,
+      "historical_peak_day_count": 1,
+      "max_risk_score": 35,
+      "max_spam_score": 0.2,
+      "reason": "3 Mails gegen Peak 1 und \u00d8 aktiv 1.0",
+      "spike_threshold": 3
+    }
+  ],
+  "campaign_changes": [
+    {
+      "created_at": "2026-04-18 22:01:21",
+      "id": 705,
+      "overlap_mail_count": 1,
+      "rebuild_id": 141,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-18 22:01:21",
+      "id": 704,
+      "overlap_mail_count": 1,
+      "rebuild_id": 141,
+      "relation_type": "continued",
+      "source_campaign_id": 20,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com",
+      "target_campaign_id": 20,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com"
+    },
+    {
+      "created_at": "2026-04-18 22:01:21",
+      "id": 703,
+      "overlap_mail_count": 1,
+      "rebuild_id": 141,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-18 22:01:21",
+      "id": 702,
+      "overlap_mail_count": 3,
+      "rebuild_id": 141,
+      "relation_type": "continued",
+      "source_campaign_id": 19,
+      "source_label": "speicher upgraden / baiduq.com",
+      "target_campaign_id": 19,
+      "target_label": "speicher upgraden / baiduq.com"
+    },
+    {
+      "created_at": "2026-04-18 22:01:21",
+      "id": 701,
+      "overlap_mail_count": 11,
+      "rebuild_id": 141,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 18,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-18 21:46:54",
+      "id": 700,
+      "overlap_mail_count": 1,
+      "rebuild_id": 140,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-18 21:46:54",
+      "id": 699,
+      "overlap_mail_count": 1,
+      "rebuild_id": 140,
+      "relation_type": "continued",
+      "source_campaign_id": 20,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com",
+      "target_campaign_id": 20,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com"
+    },
+    {
+      "created_at": "2026-04-18 21:46:54",
+      "id": 698,
+      "overlap_mail_count": 1,
+      "rebuild_id": 140,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-18 21:46:54",
+      "id": 697,
+      "overlap_mail_count": 3,
+      "rebuild_id": 140,
+      "relation_type": "continued",
+      "source_campaign_id": 19,
+      "source_label": "speicher upgraden / baiduq.com",
+      "target_campaign_id": 19,
+      "target_label": "speicher upgraden / baiduq.com"
+    },
+    {
+      "created_at": "2026-04-18 21:46:54",
+      "id": 696,
+      "overlap_mail_count": 11,
+      "rebuild_id": 140,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 18,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-18 21:30:24",
+      "id": 695,
+      "overlap_mail_count": 1,
+      "rebuild_id": 139,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-18 21:30:24",
+      "id": 694,
+      "overlap_mail_count": 1,
+      "rebuild_id": 139,
+      "relation_type": "continued",
+      "source_campaign_id": 20,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com",
+      "target_campaign_id": 20,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com"
+    },
+    {
+      "created_at": "2026-04-18 21:30:24",
+      "id": 693,
+      "overlap_mail_count": 1,
+      "rebuild_id": 139,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-18 21:30:24",
+      "id": 692,
+      "overlap_mail_count": 3,
+      "rebuild_id": 139,
+      "relation_type": "continued",
+      "source_campaign_id": 19,
+      "source_label": "speicher upgraden / baiduq.com",
+      "target_campaign_id": 19,
+      "target_label": "speicher upgraden / baiduq.com"
+    },
+    {
+      "created_at": "2026-04-18 21:30:24",
+      "id": 691,
+      "overlap_mail_count": 11,
+      "rebuild_id": 139,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 18,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    }
+  ],
+  "complete_day": false,
+  "generated_at": "2026-04-18T22:04:24.614841+00:00",
+  "issue_events": [
+    {
+      "event_count": 19,
+      "event_type": "alert.sent",
+      "severity": "warning"
+    },
+    {
+      "event_count": 13,
+      "event_type": "enrich.failed_mail",
+      "severity": "error"
+    },
+    {
+      "event_count": 8,
+      "event_type": "browser_reprobe.requeued",
+      "severity": "warning"
+    },
+    {
+      "event_count": 4,
+      "event_type": "enrich.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 4,
+      "event_type": "mail.analyzed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 4,
+      "event_type": "similarity.computed_mail",
+      "severity": "warning"
+    },
+    {
+      "event_count": 2,
+      "event_type": "browser_reprobe.failed",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "analyze.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "analyze.failed_mail",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "browser_reprobe.queue_recovered",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "cluster.created",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "pipeline.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "pipeline.failed",
+      "severity": "error"
+    }
+  ],
+  "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"roddsandeden.com\", \"signal_count\": 8, \"subject_fingerprint\": \"status-update-speicher-kritis\", \"url_domains\": [\"e.emailalerts.cnn.com\", \"roddsandeden.com\"], \"url_families\": [\"e.emailalerts.cnn.com/click\", \"roddsandeden.com/c/719C5N52016rDBHd\"], \"url_targets\": [\"e.emailalerts.cnn.com/click?EcmFlbHN0ZWVsbWFuc0BnbWFpbC5jb20/CeyJta=\", \"roddsandeden.com/c/719C5N52016rDBHd/2BwR7W7f209664579_179977_734051Y3YVwDu/N01c8UY9XVM737m4Y/FC4H56o9T85/Hx9u7XXE1ypaB9qp/\"]}",
+      "first_seen_at": "2026-04-18 14:12:50",
+      "id": 34,
+      "label": "status update speicher kritis / roddsandeden.com",
+      "mail_count": 1,
+      "max_risk_score": 28,
+      "signals": "from:roddsandeden.com; subject:status update speicher kritis; url:e.emailalerts.cnn.com, roddsandeden.com; family:e.emailalerts.cnn.com/click"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"email.bing.com\", \"signal_count\": 10, \"subject_fingerprint\": \"swiftkey-backups-moving-onedrive\", \"url_domains\": [\"apps.apple.com\", \"data.swiftkey.com\", \"rewards.bing.com\", \"support.microsoft.com\", \"www.microsoft.com\"], \"url_families\": [\"go.microsoft.com/fwlink\", \"www.bing.com/email/click2\"], \"url_targets\": [\"go.microsoft.com/fwlink/?LinkId=521839&plaintext=1\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fapp.adjust.com%2f1xafkd37&h=e-WsyTT7wuJ7S-eBcltnm2Un_h0toSQSuYTLqhJ24SQ1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fdata.swiftkey.com&h=dGr56B-hKXyTTqGKkRnWpFJctisfhxAP6lSTzpKfPm81&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fgo.microsoft.com%2ffwlink%2f%3fLinkId%3d521839&h=5kiz4o2-xD_nT_BGonWKrLyVuSWjlZSJ92bq7cx2BmQ1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fgo.microsoft.com%2ffwlink%2f%3flinkid%3d2330143&h=h2pUNXLtra9Vr-Y6Fce4uqpobyXM3EgyHUVfwOdcj3U1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fmicrosoft.com&h=JLNhAzXTSZjZlOV2cTTp1WamEOBPYN86igGw1K5Tr9g1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fprivacy.microsoft.com%2fen-US%2fprivacystatement&h=NFdDlkaEq3OqR74t0R3hxBPHED-0F3vALilUch9ElWw1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2frewards.bing.com%2fwelcome&h=IsjitOMnVuI7fvLBDVoia8Jkad9sIVZl-KGzbxJ7DB81&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\", \"www.bing.com/email/click2?csid=374823&url=https%3a%2f%2fshare.swiftkey.com%2fskmsv1&h=deeYhW8O56mnk_cDIWBBCQjskq19AilyPkdMcKiFlDo1&msgid=d1fe1830-db50-4220-98a6-399a2d1868b1&pid=bep\"]}",
+      "first_seen_at": "2026-04-18 14:05:48",
+      "id": 31,
+      "label": "swiftkey backups moving onedrive / email.bing.com",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:email.bing.com; subject:swiftkey backups moving onedrive; url:apps.apple.com, data.swiftkey.com; family:go.microsoft.com/fwlink"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"stagexperiences.com\", \"signal_count\": 5, \"subject_fingerprint\": \"guten-tag-confirms-synchronisierung-wurde-wegen\", \"url_domains\": [\"stagexperiences.com\"], \"url_families\": [\"stagexperiences.com/c/LLhS5G5171154Ijl\"], \"url_targets\": [\"stagexperiences.com/c/LLhS5G5171154Ijl/3PR27ZVE209664579_218424_731837V2jeaLe/b08r6I0Z87tG6/3i2H8NvGTq60QOJNy/20FF67G1SgX2R3/\"]}",
+      "first_seen_at": "2026-04-18 14:04:56",
+      "id": 30,
+      "label": "guten tag confirms synchronisierung wurde wegen / stagexperiences.com",
+      "mail_count": 1,
+      "max_risk_score": 27,
+      "signals": "from:stagexperiences.com; subject:guten tag confirms synchronisierung wurde wegen; url:stagexperiences.com; family:stagexperiences.com/c/LLhS5G5171154Ijl"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"tfwzvxku.de\", \"signal_count\": 5, \"subject_fingerprint\": \"kolak-ihre-lidl-hei-luftfritteuse-wartet\", \"url_domains\": [\"185.34.52.181\"], \"url_families\": [\"storage.googleapis.com/locksoufbuck1\"], \"url_targets\": [\"storage.googleapis.com/locksoufbuck1/hreflysouf.html\"]}",
+      "first_seen_at": "2026-04-18 14:00:48",
+      "id": 29,
+      "label": "kolak ihre lidl hei luftfritteuse wartet / tfwzvxku.de",
+      "mail_count": 1,
+      "max_risk_score": 49,
+      "signals": "from:tfwzvxku.de; subject:kolak ihre lidl hei luftfritteuse wartet; url:185.34.52.181; family:storage.googleapis.com/locksoufbuck1"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"baiduq.com\", \"signal_count\": 5, \"subject_fingerprint\": \"weil-ihr-speicher-voll-ist-ihre\", \"url_domains\": [\"baiduq.com\"], \"url_families\": [\"baiduq.com/c/23af8040052016y1ev5voW\"], \"url_targets\": [\"baiduq.com/c/23af8040052016y1ev5voW/EcvV7ep6209664579_162086_736159L0O9qpr/R7816LWVspx5e/M0Zq782doM1AtGG/D19p85C6F1M6JtLoJ2/\"]}",
+      "first_seen_at": "2026-04-18 10:13:44",
+      "id": 28,
+      "label": "weil ihr speicher voll ist ihre / baiduq.com",
+      "mail_count": 1,
+      "max_risk_score": 20,
+      "signals": "from:baiduq.com; subject:weil ihr speicher voll ist ihre; url:baiduq.com; family:baiduq.com/c/23af8040052016y1ev5voW"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"quietboat.com\", \"signal_count\": 7, \"subject_fingerprint\": \"speicher-upgraden\", \"url_domains\": [\"quietboat.com\"], \"url_families\": [\"quietboat.com\", \"quietboat.com/c/1z1Y9pb6L252016Z0cRuLLcK\"], \"url_targets\": [\"quietboat.com/\", \"quietboat.com/c/1z1Y9pb6L252016Z0cRuLLcK/62eB6d5209664579_179977_7355389F5546/gL2i6Otp2f65K/Ye056x5g9e9eR/yqRU9uxbNr1taP1mEokp/\"]}",
+      "first_seen_at": "2026-04-18 10:13:34",
+      "id": 27,
+      "label": "speicher upgraden / quietboat.com",
+      "mail_count": 1,
+      "max_risk_score": 20,
+      "signals": "from:quietboat.com; subject:speicher upgraden; url:quietboat.com; family:quietboat.com"
+    }
+  ],
+  "new_domains": [
+    {
+      "domain": "gmail.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 17
+    },
+    {
+      "domain": "storage.googleapis.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 11
+    },
+    {
+      "domain": "aol.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 4
+    },
+    {
+      "domain": "adminn5.halamala.online",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "akdcqeve.ima.msspolicy.biz",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "anahnzee.suu.immism.uk",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "auedcdbcrx.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "baiduq.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "bouzdebq.playnetic.co.nl",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "cmtyezbq.zyb.findyourdomainw.co.uk",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "e.emailalerts.cnn.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "email.bing.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "fryftgyfgyhfgyh.s3.amazonaws.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "go.microsoft.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "kjmqalhv.m137fb5g.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "onavdkwz.iet.brefin.my.id",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "opibstdkdt.mintcrate.uk.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "phdxpdjl.it",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "qqwsmqth.fmpiibtz.shareit.com.ng",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    },
+    {
+      "domain": "quietboat.com",
+      "first_seen_at": "2026-04-18 17:51:32",
+      "mail_count": 1
+    }
+  ],
+  "notable_mails": [
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "tfwzvxku.de",
+      "mail_id": 11,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 49,
+      "spam_score": 4.7,
+      "subject": "kolak127, Ihre Lidl Hei\u00dfluftfritteuse wartet auf Sie!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "phdxpdjl.it",
+      "mail_id": 8,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 44,
+      "spam_score": 0.5,
+      "subject": "kolak127 - Best\u00e4tigung: Ihr Dyson Airwrap Coandax2 ist abholbereit! ID#106033 ",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "email.bing.com",
+      "mail_id": 14,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 35,
+      "spam_score": -0.1,
+      "subject": "SwiftKey Backups Moving to OneDrive",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "anahnzee.suu.immism.uk",
+      "mail_id": 12,
+      "recipient": "me@aol.com",
+      "risk_score": 35,
+      "spam_score": -0.3,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-07-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "bouzdebq.playnetic.co.nl",
+      "mail_id": 17,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 32,
+      "spam_score": -2.5,
+      "subject": "kolak127 - Die Zeit l\u00e4uft: Letzter Tag f\u00fcr 50 % Rabatt! . ID#105304",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "cmtyezbq.zyb.findyourdomainw.co.uk",
+      "mail_id": 9,
+      "recipient": "me@aol.com",
+      "risk_score": 30,
+      "spam_score": 0.2,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-08-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "roddsandeden.com",
+      "mail_id": 16,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 28,
+      "spam_score": 0.7,
+      "subject": "Status-Update: Speicher kritis-ch 6663",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "stagexperiences.com",
+      "mail_id": 13,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 27,
+      "spam_score": -1.0,
+      "subject": "Guten Tag: (confirms Die)an Synchronisierung (wurde wegen) vollem (Speicher gestoppt) (minister in strike)",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "onavdkwz.iet.brefin.my.id",
+      "mail_id": 15,
+      "recipient": "me@aol.com",
+      "risk_score": 24,
+      "spam_score": -0.3,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "baiduq.com",
+      "mail_id": 10,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 20,
+      "spam_score": -1.4,
+      "subject": "hi: weil Ihr Speicher voll ist. Ihre Kontakte Sie _k-\u00f6nnen ke -inee neuen Dateien hochladen oder E-Mails",
+      "yara_result": "clean"
+    }
+  ],
+  "novel_lure_candidates": [
+    {
+      "alias_email": null,
+      "from_domain": "tfwzvxku.de",
+      "mail_id": 11,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 49,
+      "spam_score": 4.7,
+      "subject": "kolak127, Ihre Lidl Hei\u00dfluftfritteuse wartet auf Sie!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "phdxpdjl.it",
+      "mail_id": 8,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 44,
+      "spam_score": 0.5,
+      "subject": "kolak127 - Best\u00e4tigung: Ihr Dyson Airwrap Coandax2 ist abholbereit! ID#106033 ",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "email.bing.com",
+      "mail_id": 14,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -0.1,
+      "subject": "SwiftKey Backups Moving to OneDrive",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "anahnzee.suu.immism.uk",
+      "mail_id": 12,
+      "recipient": "me@aol.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -0.3,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-07-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "bouzdebq.playnetic.co.nl",
+      "mail_id": 17,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 32,
+      "spam_score": -2.5,
+      "subject": "kolak127 - Die Zeit l\u00e4uft: Letzter Tag f\u00fcr 50 % Rabatt! . ID#105304",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "cmtyezbq.zyb.findyourdomainw.co.uk",
+      "mail_id": 9,
+      "recipient": "me@aol.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 30,
+      "spam_score": 0.2,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-08-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "roddsandeden.com",
+      "mail_id": 16,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 28,
+      "spam_score": 0.7,
+      "subject": "Status-Update: Speicher kritis-ch 6663",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "stagexperiences.com",
+      "mail_id": 13,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 27,
+      "spam_score": -1.0,
+      "subject": "Guten Tag: (confirms Die)an Synchronisierung (wurde wegen) vollem (Speicher gestoppt) (minister in strike)",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "onavdkwz.iet.brefin.my.id",
+      "mail_id": 15,
+      "recipient": "me@aol.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 24,
+      "spam_score": -0.3,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "baiduq.com",
+      "mail_id": 10,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 20,
+      "spam_score": -1.4,
+      "subject": "hi: weil Ihr Speicher voll ist. Ihre Kontakte Sie _k-\u00f6nnen ke -inee neuen Dateien hochladen oder E-Mails",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": null,
+      "from_domain": "quietboat.com",
+      "mail_id": 7,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 20,
+      "spam_score": -3.1,
+      "subject": "Speicher upgraden 2026.03.27- 6p0",
+      "yara_result": "clean"
+    }
+  ],
+  "report_date": "2026-04-18",
+  "report_timezone": "UTC",
+  "similarity_pairs": [
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "phdxpdjl.it",
+      "mail_id": 8,
+      "signals": "target:storage.googleapis.com/6dgdfg654df65g/sjghsdf654gfb.html; url:onsetcab.com; redirect-chain:storage.googleapis.com > nameagain.xyz > onsetcab.com; redirect:nameagain.xyz",
+      "similar_from_domain": "bouzdebq.playnetic.co.nl",
+      "similar_mail_id": 17,
+      "similar_subject": "kolak127 - Die Zeit l\u00e4uft: Letzter Tag f\u00fcr 50 % Rabatt! . ID#105304",
+      "similarity_score": 100,
+      "subject": "kolak127 - Best\u00e4tigung: Ihr Dyson Airwrap Coandax2 ist abholbereit! ID#106033 "
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "auedcdbcrx.com",
+      "mail_id": 3,
+      "signals": "target:storage.googleapis.com/6dgdfg654df65g/sjghsdf654gfb.html; url:onsetcab.com; redirect-chain:storage.googleapis.com > nameagain.xyz > onsetcab.com; redirect:nameagain.xyz",
+      "similar_from_domain": "bouzdebq.playnetic.co.nl",
+      "similar_mail_id": 17,
+      "similar_subject": "kolak127 - Die Zeit l\u00e4uft: Letzter Tag f\u00fcr 50 % Rabatt! . ID#105304",
+      "similarity_score": 100,
+      "subject": "kolak127! -  Ihre Meinung ist einen Erste-Hilfe-Kasten wert !"
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "opibstdkdt.mintcrate.uk.com",
+      "mail_id": 2,
+      "signals": "target:storage.googleapis.com/6dgdfg654df65g/sjghsdf654gfb.html; url:onsetcab.com; redirect-chain:storage.googleapis.com > nameagain.xyz > onsetcab.com; redirect:nameagain.xyz",
+      "similar_from_domain": "bouzdebq.playnetic.co.nl",
+      "similar_mail_id": 17,
+      "similar_subject": "kolak127 - Die Zeit l\u00e4uft: Letzter Tag f\u00fcr 50 % Rabatt! . ID#105304",
+      "similarity_score": 100,
+      "subject": "kolak127! - Gl\u00fcckwunsch! Wir haben (1) Oral-B Zahnb\u00fcrste exklusiv f\u00fcr Sie reserviert!"
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "anahnzee.suu.immism.uk",
+      "mail_id": 12,
+      "signals": "subject:blocked account photos videos will deleted; target:storage.googleapis.com/sfdcsdfsdfsdfsdf/asdsdasdadasasd.html; regdom:googleapis.com; ns:ns1.google.com, ns2.google.com",
+      "similar_from_domain": "onavdkwz.iet.brefin.my.id",
+      "similar_mail_id": 15,
+      "similar_subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "similarity_score": 100,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-07-2026 \u26a0\ufe0f Renew your subscription for free now!"
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "cmtyezbq.zyb.findyourdomainw.co.uk",
+      "mail_id": 9,
+      "signals": "subject:blocked account photos videos will deleted; target:storage.googleapis.com/sfdcsdfsdfsdfsdf/asdsdasdadasasd.html; regdom:googleapis.com; ns:ns1.google.com, ns2.google.com",
+      "similar_from_domain": "onavdkwz.iet.brefin.my.id",
+      "similar_mail_id": 15,
+      "similar_subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "similarity_score": 100,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-08-2026 \u26a0\ufe0f Renew your subscription for free now!"
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "akdcqeve.ima.msspolicy.biz",
+      "mail_id": 6,
+      "signals": "subject:blocked account photos videos will deleted; target:storage.googleapis.com/sfdcsdfsdfsdfsdf/asdsdasdadasasd.html; regdom:googleapis.com; ns:ns1.google.com, ns2.google.com",
+      "similar_from_domain": "onavdkwz.iet.brefin.my.id",
+      "similar_mail_id": 15,
+      "similar_subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "similarity_score": 100,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!"
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "cmtyezbq.zyb.findyourdomainw.co.uk",
+      "mail_id": 9,
+      "signals": "subject:blocked account photos videos will deleted; target:storage.googleapis.com/sfdcsdfsdfsdfsdf/asdsdasdadasasd.html; regdom:googleapis.com; ns:ns1.google.com, ns2.google.com",
+      "similar_from_domain": "anahnzee.suu.immism.uk",
+      "similar_mail_id": 12,
+      "similar_subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-07-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "similarity_score": 100,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-08-2026 \u26a0\ufe0f Renew your subscription for free now!"
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "akdcqeve.ima.msspolicy.biz",
+      "mail_id": 6,
+      "signals": "subject:blocked account photos videos will deleted; target:storage.googleapis.com/sfdcsdfsdfsdfsdf/asdsdasdadasasd.html; regdom:googleapis.com; ns:ns1.google.com, ns2.google.com",
+      "similar_from_domain": "anahnzee.suu.immism.uk",
+      "similar_mail_id": 12,
+      "similar_subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-07-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "similarity_score": 100,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!"
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "akdcqeve.ima.msspolicy.biz",
+      "mail_id": 6,
+      "signals": "subject:blocked account photos videos will deleted; target:storage.googleapis.com/sfdcsdfsdfsdfsdf/asdsdasdadasasd.html; regdom:googleapis.com; ns:ns1.google.com, ns2.google.com",
+      "similar_from_domain": "cmtyezbq.zyb.findyourdomainw.co.uk",
+      "similar_mail_id": 9,
+      "similar_subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-08-2026 \u26a0\ufe0f Renew your subscription for free now!",
+      "similarity_score": 100,
+      "subject": "We've blocked your account! \ud83d\udeab Your photos and videos will be deleted on 04-13-2026 \u26a0\ufe0f Renew your subscription for free now!"
+    },
+    {
+      "computed_at": "2026-04-18 18:49:36",
+      "from_domain": "auedcdbcrx.com",
+      "mail_id": 3,
+      "signals": "target:storage.googleapis.com/6dgdfg654df65g/sjghsdf654gfb.html; url:onsetcab.com; redirect-chain:storage.googleapis.com > nameagain.xyz > onsetcab.com; redirect:nameagain.xyz",
+      "similar_from_domain": "phdxpdjl.it",
+      "similar_mail_id": 8,
+      "similar_subject": "kolak127 - Best\u00e4tigung: Ihr Dyson Airwrap Coandax2 ist abholbereit! ID#106033 ",
+      "similarity_score": 100,
+      "subject": "kolak127! -  Ihre Meinung ist einen Erste-Hilfe-Kasten wert !"
+    }
+  ],
+  "suspicious_aliases": [
+    {
+      "alias_label": "kolak127@gmail.com",
+      "mail_count": 8,
+      "max_risk_score": 49,
+      "max_spam_score": 4.7,
+      "sender_domain_count": 8
+    },
+    {
+      "alias_label": "me@aol.com",
+      "mail_count": 3,
+      "max_risk_score": 35,
+      "max_spam_score": 0.2,
+      "sender_domain_count": 3
+    }
+  ],
+  "top_domains": [
+    {
+      "domain": "gmail.com",
+      "mail_count": 11
+    },
+    {
+      "domain": "storage.googleapis.com",
+      "mail_count": 6
+    },
+    {
+      "domain": "aol.com",
+      "mail_count": 3
+    },
+    {
+      "domain": "anahnzee.suu.immism.uk",
+      "mail_count": 1
+    },
+    {
+      "domain": "baiduq.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "bouzdebq.playnetic.co.nl",
+      "mail_count": 1
+    },
+    {
+      "domain": "cmtyezbq.zyb.findyourdomainw.co.uk",
+      "mail_count": 1
+    },
+    {
+      "domain": "e.emailalerts.cnn.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "email.bing.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "go.microsoft.com",
+      "mail_count": 1
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "anahnzee.suu.immism.uk",
+      "mail_count": 1
+    },
+    {
+      "domain": "baiduq.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "bouzdebq.playnetic.co.nl",
+      "mail_count": 1
+    },
+    {
+      "domain": "cmtyezbq.zyb.findyourdomainw.co.uk",
+      "mail_count": 1
+    },
+    {
+      "domain": "email.bing.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "onavdkwz.iet.brefin.my.id",
+      "mail_count": 1
+    },
+    {
+      "domain": "phdxpdjl.it",
+      "mail_count": 1
+    },
+    {
+      "domain": "quietboat.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "roddsandeden.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "stagexperiences.com",
+      "mail_count": 1
+    }
+  ],
+  "totals": {
+    "active_cluster_count": 8,
+    "alert_count": 20,
+    "alias_leak_candidate_count": 2,
+    "alias_spike_count": 2,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 11,
+    "attachment_count": 0,
+    "avg_risk_score": 31.27,
+    "avg_spam_score": -0.24,
+    "campaign_change_count": 643,
+    "campaign_count": 4,
+    "distinct_domain_count": 17,
+    "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
+    "high_risk_cluster_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 11,
+    "max_risk_score": 49,
+    "max_spam_score": 4.7,
+    "new_cluster_count": 6,
+    "new_domain_count": 20,
+    "novel_lure_candidate_count": 11,
+    "parse_error_count": 0,
+    "similarity_pair_count": 48,
+    "url_count": 36
+  },
+  "window_end_local": "2026-04-18T22:04:24.610201+00:00",
+  "window_end_utc": "2026-04-18T22:04:24.610201+00:00",
+  "window_start_local": "2026-04-18T00:00:00+00:00",
+  "window_start_utc": "2026-04-18T00:00:00+00:00"
+}
