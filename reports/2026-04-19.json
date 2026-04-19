@@ -1,0 +1,346 @@
+{
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [], \"cluster_count\": 1, \"cluster_ids\": [35], \"from_domains\": [\"update.eis.de\"], \"mail_count\": 1, \"mail_ids\": [18], \"max_risk_score\": 18, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"letzte-chance-verfallen-heute-endg-ltig\"}",
+      "generated_label": "letzte chance verfallen heute endg ltig / update.eis.de",
+      "id": 27,
+      "label": "letzte chance verfallen heute endg ltig / update.eis.de",
+      "last_seen_at": "2026-04-19 11:04:24",
+      "mail_count": 1,
+      "max_risk_score": 18,
+      "notes": "-",
+      "signals": "subject:letzte chance verfallen heute endg ltig; from:update.eis.de; clusters:1"
+    }
+  ],
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"update.eis.de\", \"signal_count\": 8, \"subject_fingerprint\": \"letzte-chance-verfallen-heute-endg-ltig\", \"url_domains\": [\"clicks.update.eis.de\", \"www.eis.de\"], \"url_families\": [\"clicks.update.eis.de/f/a\"], \"url_targets\": [\"clicks.update.eis.de/f/a/6EEWhXmi0jd-TWB3crGr7w~~/AAAHahA~/s8vJy_-H49VXiQrO-deVVfKAH7XZ9JCBo829IHRfI-2NVaMXjuhxvD2hAfuE2A6IUTxu091_xAbjaDeFa9yjbMoAf6jsnqyjX-5VowcB2x6knzPtSKv4lIK7AIoIAki2volLB_7VD186mXjlB3tWAZT8ul6yNmvNBXmM-6M2-DU~\", \"clicks.update.eis.de/f/a/OQidHtGF_vX9LKlYcxt43g~~/AAAHahA~/mRf4zbfw8eUr-XDdkkxCN4VPd7ppsHNBoObScTGZX5iN8NVjeSNPGo5LKgsC4pKMYUSUIKS8xFHH9nlH8_J558tPMCN2PUlIVdNSuBjIUph628HabygWX99u7Dg-hNja2rLEN1RLzb07assk5aEseKKiPJjNJZ6e3JFWAK9usCVB-gbo42TZTp0UXWv7Ps1WetQOT9XBMTJDSe1jwrT8vhsi-7A-oqhO6SnfN4y7cETdims_6tPCMasphaHhI_hvp02iTH3oSPsNTs8Hbi9TBsor8RVbhq1evjxn-GT6XQ661yMDYJkwSzPM6io2tdEB\", \"clicks.update.eis.de/f/a/QYS_DiUuYGW_YSnRCNhXXQ~~/AAAHahA~/3QojUgWb6bfCcdbXZlrO5TKx04B4OcbMF2DsH4WG1IHbSHx4RWLmdUqv-LmwamQwUG6bDmYj5OOSkH5r_zILW3zXdvkkwFqjFZPVzQ_QG2Olj2d49J6klgGfVb0qbhRxeiapSsoKAOnQoH286nRRM-M0z-D85YyuyKvk9vdAXZkJN02zxEKroHnVKljA4NyI9W6oPSu2Dnaf0eCQOA0Fww~~\", \"clicks.update.eis.de/f/a/S_YEQjH2recIaG7_BA5VbA~~/AAAHahA~/s8vJy_-H49VXiQrO-deVVfKAH7XZ9JCBo829IHRfI-2NVaMXjuhxvD2hAfuE2A6IUTxu091_xAbjaDeFa9yjbO2K5FGjEHs4SjuVa3OleZxunqG_RvWq6CXAAd8YV1uV-NWhQFhg1KSHq5VPe5c06q9xbggeU1gxewn8fxe8_FM~\", \"clicks.update.eis.de/f/a/YVLygmkO1B5yGwVy9we4rQ~~/AAAHahA~/xaCednCz_SdvANnXuXjK1qjQEecTNLrbVShvJ07g9PRkoo7UyeoBiTy3aa3VLiT_HeF1DAzllVumr3vNigg3DcoLHaI8I_f_nEuQMcRWK6CF8AKpKHJv-iPZysfbyODQxuefw-g9IkkttZa2TswWurYkEkT9Ka7EZC1r9IzCJuA5WLYMAyNH3-YG4Vuk6XGyzxaTC7L5zQaD6N3-IvDYw2_Hlcm5PPE7KFkmya7x35lz10hx3M-drj8yum5-rssHBrRkXCuIjOE8Ur8P8JQu1JmCgnJjXGsLxzD5yG1MQoU~\", \"clicks.update.eis.de/f/a/Ynjy-QCyfyL7-mLCnms_dQ~~/AAAHahA~/xaCednCz_SdvANnXuXjK1qjQEecTNLrbVShvJ07g9PRkoo7UyeoBiTy3aa3VLiT_HeF1DAzllVumr3vNigg3DTW0FREwI853MMHzPU_-2ABPoB8RwtwF5HmN3OPYcvjkAXTnSIimQYz2CUf90SW8bI3spvtR6anKHBXo573b46jHPdyEVLtGIWlvXqIYZUVxjT-ATn4x_iC1DW4zsaU-cgkD9ldXB9OvRmZHBKPqL8pnalAkd-rL5ewY9eZyZ-jPSxso7xvpfNtn-PM8-gLQCtMZJex1kMw1daSirN62L5k~\"]}",
+      "id": 35,
+      "label": "letzte chance verfallen heute endg ltig / update.eis.de",
+      "last_seen_at": "2026-04-19 11:04:24",
+      "mail_count": 1,
+      "max_risk_score": 18,
+      "signals": "from:update.eis.de; subject:letzte chance verfallen heute endg ltig; url:clicks.update.eis.de, www.eis.de; family:clicks.update.eis.de/f/a"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 22,
+      "mail_id": 18,
+      "sent_at": "2026-04-19T11:15:52.813401+00:00",
+      "severity": "warning"
+    }
+  ],
+  "alias_leak_candidates": [],
+  "alias_spikes": [],
+  "campaign_changes": [
+    {
+      "created_at": "2026-04-19 22:01:30",
+      "id": 1256,
+      "overlap_mail_count": 1,
+      "rebuild_id": 244,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-19 22:01:30",
+      "id": 1255,
+      "overlap_mail_count": 1,
+      "rebuild_id": 244,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-19 22:01:30",
+      "id": 1254,
+      "overlap_mail_count": 1,
+      "rebuild_id": 244,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-19 22:01:30",
+      "id": 1253,
+      "overlap_mail_count": 1,
+      "rebuild_id": 244,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-19 22:01:30",
+      "id": 1252,
+      "overlap_mail_count": 1,
+      "rebuild_id": 244,
+      "relation_type": "continued",
+      "source_campaign_id": 27,
+      "source_label": "letzte chance verfallen heute endg ltig / update.eis.de",
+      "target_campaign_id": 27,
+      "target_label": "letzte chance verfallen heute endg ltig / update.eis.de"
+    },
+    {
+      "created_at": "2026-04-19 22:01:30",
+      "id": 1251,
+      "overlap_mail_count": 4,
+      "rebuild_id": 244,
+      "relation_type": "continued",
+      "source_campaign_id": 26,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 26,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-19 22:01:30",
+      "id": 1250,
+      "overlap_mail_count": 9,
+      "rebuild_id": 244,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com",
+      "target_campaign_id": 18,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-04-19 21:46:20",
+      "id": 1249,
+      "overlap_mail_count": 1,
+      "rebuild_id": 243,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-19 21:46:20",
+      "id": 1248,
+      "overlap_mail_count": 1,
+      "rebuild_id": 243,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-19 21:46:20",
+      "id": 1247,
+      "overlap_mail_count": 1,
+      "rebuild_id": 243,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-19 21:46:20",
+      "id": 1246,
+      "overlap_mail_count": 1,
+      "rebuild_id": 243,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-19 21:46:20",
+      "id": 1245,
+      "overlap_mail_count": 1,
+      "rebuild_id": 243,
+      "relation_type": "continued",
+      "source_campaign_id": 27,
+      "source_label": "letzte chance verfallen heute endg ltig / update.eis.de",
+      "target_campaign_id": 27,
+      "target_label": "letzte chance verfallen heute endg ltig / update.eis.de"
+    },
+    {
+      "created_at": "2026-04-19 21:46:20",
+      "id": 1244,
+      "overlap_mail_count": 4,
+      "rebuild_id": 243,
+      "relation_type": "continued",
+      "source_campaign_id": 26,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 26,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-19 21:46:20",
+      "id": 1243,
+      "overlap_mail_count": 9,
+      "rebuild_id": 243,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com",
+      "target_campaign_id": 18,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-04-19 21:31:30",
+      "id": 1242,
+      "overlap_mail_count": 1,
+      "rebuild_id": 242,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    }
+  ],
+  "complete_day": false,
+  "generated_at": "2026-04-19T22:02:30.722691+00:00",
+  "issue_events": [
+    {
+      "event_count": 6,
+      "event_type": "browser_reprobe.requeued",
+      "severity": "warning"
+    },
+    {
+      "event_count": 3,
+      "event_type": "browser_reprobe.failed",
+      "severity": "error"
+    },
+    {
+      "event_count": 3,
+      "event_type": "similarity.computed_mail",
+      "severity": "warning"
+    },
+    {
+      "event_count": 2,
+      "event_type": "campaign.failed",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "alert.sent",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "pipeline.completed",
+      "severity": "warning"
+    }
+  ],
+  "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"update.eis.de\", \"signal_count\": 8, \"subject_fingerprint\": \"letzte-chance-verfallen-heute-endg-ltig\", \"url_domains\": [\"clicks.update.eis.de\", \"www.eis.de\"], \"url_families\": [\"clicks.update.eis.de/f/a\"], \"url_targets\": [\"clicks.update.eis.de/f/a/6EEWhXmi0jd-TWB3crGr7w~~/AAAHahA~/s8vJy_-H49VXiQrO-deVVfKAH7XZ9JCBo829IHRfI-2NVaMXjuhxvD2hAfuE2A6IUTxu091_xAbjaDeFa9yjbMoAf6jsnqyjX-5VowcB2x6knzPtSKv4lIK7AIoIAki2volLB_7VD186mXjlB3tWAZT8ul6yNmvNBXmM-6M2-DU~\", \"clicks.update.eis.de/f/a/OQidHtGF_vX9LKlYcxt43g~~/AAAHahA~/mRf4zbfw8eUr-XDdkkxCN4VPd7ppsHNBoObScTGZX5iN8NVjeSNPGo5LKgsC4pKMYUSUIKS8xFHH9nlH8_J558tPMCN2PUlIVdNSuBjIUph628HabygWX99u7Dg-hNja2rLEN1RLzb07assk5aEseKKiPJjNJZ6e3JFWAK9usCVB-gbo42TZTp0UXWv7Ps1WetQOT9XBMTJDSe1jwrT8vhsi-7A-oqhO6SnfN4y7cETdims_6tPCMasphaHhI_hvp02iTH3oSPsNTs8Hbi9TBsor8RVbhq1evjxn-GT6XQ661yMDYJkwSzPM6io2tdEB\", \"clicks.update.eis.de/f/a/QYS_DiUuYGW_YSnRCNhXXQ~~/AAAHahA~/3QojUgWb6bfCcdbXZlrO5TKx04B4OcbMF2DsH4WG1IHbSHx4RWLmdUqv-LmwamQwUG6bDmYj5OOSkH5r_zILW3zXdvkkwFqjFZPVzQ_QG2Olj2d49J6klgGfVb0qbhRxeiapSsoKAOnQoH286nRRM-M0z-D85YyuyKvk9vdAXZkJN02zxEKroHnVKljA4NyI9W6oPSu2Dnaf0eCQOA0Fww~~\", \"clicks.update.eis.de/f/a/S_YEQjH2recIaG7_BA5VbA~~/AAAHahA~/s8vJy_-H49VXiQrO-deVVfKAH7XZ9JCBo829IHRfI-2NVaMXjuhxvD2hAfuE2A6IUTxu091_xAbjaDeFa9yjbO2K5FGjEHs4SjuVa3OleZxunqG_RvWq6CXAAd8YV1uV-NWhQFhg1KSHq5VPe5c06q9xbggeU1gxewn8fxe8_FM~\", \"clicks.update.eis.de/f/a/YVLygmkO1B5yGwVy9we4rQ~~/AAAHahA~/xaCednCz_SdvANnXuXjK1qjQEecTNLrbVShvJ07g9PRkoo7UyeoBiTy3aa3VLiT_HeF1DAzllVumr3vNigg3DcoLHaI8I_f_nEuQMcRWK6CF8AKpKHJv-iPZysfbyODQxuefw-g9IkkttZa2TswWurYkEkT9Ka7EZC1r9IzCJuA5WLYMAyNH3-YG4Vuk6XGyzxaTC7L5zQaD6N3-IvDYw2_Hlcm5PPE7KFkmya7x35lz10hx3M-drj8yum5-rssHBrRkXCuIjOE8Ur8P8JQu1JmCgnJjXGsLxzD5yG1MQoU~\", \"clicks.update.eis.de/f/a/Ynjy-QCyfyL7-mLCnms_dQ~~/AAAHahA~/xaCednCz_SdvANnXuXjK1qjQEecTNLrbVShvJ07g9PRkoo7UyeoBiTy3aa3VLiT_HeF1DAzllVumr3vNigg3DTW0FREwI853MMHzPU_-2ABPoB8RwtwF5HmN3OPYcvjkAXTnSIimQYz2CUf90SW8bI3spvtR6anKHBXo573b46jHPdyEVLtGIWlvXqIYZUVxjT-ATn4x_iC1DW4zsaU-cgkD9ldXB9OvRmZHBKPqL8pnalAkd-rL5ewY9eZyZ-jPSxso7xvpfNtn-PM8-gLQCtMZJex1kMw1daSirN62L5k~\"]}",
+      "first_seen_at": "2026-04-19 11:04:24",
+      "id": 35,
+      "label": "letzte chance verfallen heute endg ltig / update.eis.de",
+      "mail_count": 1,
+      "max_risk_score": 18,
+      "signals": "from:update.eis.de; subject:letzte chance verfallen heute endg ltig; url:clicks.update.eis.de, www.eis.de; family:clicks.update.eis.de/f/a"
+    }
+  ],
+  "new_domains": [
+    {
+      "domain": "clicks.update.eis.de",
+      "first_seen_at": "2026-04-19 11:04:24",
+      "mail_count": 1
+    },
+    {
+      "domain": "update.eis.de",
+      "first_seen_at": "2026-04-19 11:04:24",
+      "mail_count": 1
+    }
+  ],
+  "notable_mails": [
+    {
+      "alias_email": null,
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "update.eis.de",
+      "mail_id": 18,
+      "recipient": "kolak127@gmail.com",
+      "risk_score": 18,
+      "spam_score": -3.2,
+      "subject": "Letzte Chance: 12,07 \u20ac verfallen heute endg\u00fcltig",
+      "yara_result": "clean"
+    }
+  ],
+  "novel_lure_candidates": [
+    {
+      "alias_email": null,
+      "from_domain": "update.eis.de",
+      "mail_id": 18,
+      "recipient": "kolak127@gmail.com",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 18,
+      "spam_score": -3.2,
+      "subject": "Letzte Chance: 12,07 \u20ac verfallen heute endg\u00fcltig",
+      "yara_result": "clean"
+    }
+  ],
+  "report_date": "2026-04-19",
+  "report_timezone": "UTC",
+  "similarity_pairs": [],
+  "suspicious_aliases": [],
+  "top_domains": [
+    {
+      "domain": "clicks.update.eis.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "gmail.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "update.eis.de",
+      "mail_count": 1
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "update.eis.de",
+      "mail_count": 1
+    }
+  ],
+  "totals": {
+    "active_cluster_count": 1,
+    "alert_count": 1,
+    "alias_leak_candidate_count": 0,
+    "alias_spike_count": 0,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 1,
+    "attachment_count": 0,
+    "avg_risk_score": 18.0,
+    "avg_spam_score": -3.2,
+    "campaign_change_count": 516,
+    "campaign_count": 1,
+    "distinct_domain_count": 3,
+    "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
+    "high_risk_cluster_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 1,
+    "max_risk_score": 18,
+    "max_spam_score": -3.2,
+    "new_cluster_count": 1,
+    "new_domain_count": 2,
+    "novel_lure_candidate_count": 1,
+    "parse_error_count": 0,
+    "similarity_pair_count": 0,
+    "url_count": 7
+  },
+  "window_end_local": "2026-04-19T22:02:30.718944+00:00",
+  "window_end_utc": "2026-04-19T22:02:30.718944+00:00",
+  "window_start_local": "2026-04-19T00:00:00+00:00",
+  "window_start_utc": "2026-04-19T00:00:00+00:00"
+}
