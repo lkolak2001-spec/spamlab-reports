@@ -1,0 +1,1039 @@
+{
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 3, \"cluster_ids\": [44, 55, 56], \"from_domains\": [\"sam.newsletter-investor.de\", \"nl.maxlq.de\"], \"mail_count\": 3, \"mail_ids\": [25, 26, 27], \"max_risk_score\": 39, \"similarity_edge_count\": 3, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\"}",
+      "generated_label": "coupon Dein Goldesel / sam.newsletter-investor.de",
+      "id": 36,
+      "label": "coupon Dein Goldesel / sam.newsletter-investor.de",
+      "last_seen_at": "2026-04-20 14:31:20",
+      "mail_count": 3,
+      "max_risk_score": 39,
+      "notes": "-",
+      "signals": "subject:herzlich willkommen bei millers krypto radar; from:sam.newsletter-investor.de, nl.maxlq.de; clusters:3; edges:3; hint:coupon Dein Goldesel"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"iPhone\"], \"cluster_count\": 1, \"cluster_ids\": [36], \"from_domains\": [\"iphones-geschenkt.com\"], \"mail_count\": 1, \"mail_ids\": [19], \"max_risk_score\": 35, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"ihre-teilnahme-iphone-gewinnspiel\"}",
+      "generated_label": "iPhone / iphones-geschenkt.com",
+      "id": 30,
+      "label": "iPhone / iphones-geschenkt.com",
+      "last_seen_at": "2026-04-20 12:00:30",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:ihre teilnahme iphone gewinnspiel; from:iphones-geschenkt.com; clusters:1; hint:iPhone"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 1, \"cluster_ids\": [54], \"from_domains\": [\"doi.investor-verlag.de\"], \"mail_count\": 1, \"mail_ids\": [24], \"max_risk_score\": 35, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"pdf-report-krypto-diese-kryptow-hrungen\"}",
+      "generated_label": "coupon Dein Goldesel / doi.investor-verlag.de",
+      "id": 41,
+      "label": "coupon Dein Goldesel / doi.investor-verlag.de",
+      "last_seen_at": "2026-04-20 13:31:40",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:pdf report krypto diese kryptow hrungen; from:doi.investor-verlag.de; clusters:1; hint:coupon Dein Goldesel"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 1, \"cluster_ids\": [53], \"from_domains\": [\"doi.fidgesundheitswissen.de\"], \"mail_count\": 1, \"mail_ids\": [23], \"max_risk_score\": 35, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"download-wessinghages-wunder-bungen\"}",
+      "generated_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de",
+      "id": 42,
+      "label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de",
+      "last_seen_at": "2026-04-20 13:31:40",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:download wessinghages wunder bungen; from:doi.fidgesundheitswissen.de; clusters:1; hint:coupon Dein Goldesel"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 1, \"cluster_ids\": [52], \"from_domains\": [\"post.seinadventure.de\"], \"mail_count\": 1, \"mail_ids\": [22], \"max_risk_score\": 34, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"sie-reserviert\"}",
+      "generated_label": "coupon Dein Goldesel / post.seinadventure.de",
+      "id": 43,
+      "label": "coupon Dein Goldesel / post.seinadventure.de",
+      "last_seen_at": "2026-04-20 13:31:40",
+      "mail_count": 1,
+      "max_risk_score": 34,
+      "notes": "-",
+      "signals": "subject:sie reserviert; from:post.seinadventure.de; clusters:1; hint:coupon Dein Goldesel"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 1, \"cluster_ids\": [51], \"from_domains\": [\"mails.burda-vergleicht.de\"], \"mail_count\": 1, \"mail_ids\": [21], \"max_risk_score\": 26, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"bitte-best-tigen-sie-ihre-angaben\"}",
+      "generated_label": "coupon Dein Goldesel / mails.burda-vergleicht.de",
+      "id": 44,
+      "label": "coupon Dein Goldesel / mails.burda-vergleicht.de",
+      "last_seen_at": "2026-04-20 12:30:54",
+      "mail_count": 1,
+      "max_risk_score": 26,
+      "notes": "-",
+      "signals": "subject:bitte best tigen sie ihre angaben; from:mails.burda-vergleicht.de; clusters:1; hint:coupon Dein Goldesel"
+    },
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 1, \"cluster_ids\": [50], \"from_domains\": [\"mail.dein-golden-esel.de\"], \"mail_count\": 1, \"mail_ids\": [20], \"max_risk_score\": 18, \"similarity_edge_count\": 0, \"subject_fingerprint\": \"teilnahme\"}",
+      "generated_label": "coupon Dein Goldesel / mail.dein-golden-esel.de",
+      "id": 45,
+      "label": "coupon Dein Goldesel / mail.dein-golden-esel.de",
+      "last_seen_at": "2026-04-20 12:30:54",
+      "mail_count": 1,
+      "max_risk_score": 18,
+      "notes": "-",
+      "signals": "subject:teilnahme; from:mail.dein-golden-esel.de; clusters:1; hint:coupon Dein Goldesel"
+    }
+  ],
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"sam.newsletter-investor.de\", \"signal_count\": 10, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\", \"url_domains\": [\"lpm.fid-shop.de\", \"www.investor-verlag.de\"], \"url_families\": [\"investor.fid-mail.de/go/5\", \"www.investor-verlag.de\", \"www.investor-verlag.de/service/agb\", \"www.investor-verlag.de/service/datenschutz\"], \"url_targets\": [\"investor.fid-mail.de/go/5/6U79IVFU-4TQVE3A7-5OG7S81R-1A2QCQI.html?opt_domain=sam.newsletter-investor.de&banner=SAM_378208190239&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208190239&opt_mandator=311505762466&bmMailId=6U79IVFU-4TQVE3A7-3DY7MP\", \"investor.fid-mail.de/go/5/6U79IVFU-4TQVE3A7-5OG7S81S-DIYDF1.html?opt_domain=sam.newsletter-investor.de&banner=SAM_378208190239&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208190239&opt_mandator=311505762466&bmMailId=6U79IVFU-4TQVE3A7-3DY7MP\", \"investor.fid-mail.de/go/5/6U79IVFU-4TQVE3A7-5OG7S81T-M5J14L5.html?opt_domain=sam.newsletter-investor.de&banner=SAM_378208190239&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208190239&opt_mandator=311505762466&bmMailId=6U79IVFU-4TQVE3A7-3DY7MP\", \"www.investor-verlag.de/\", \"www.investor-verlag.de/service/agb/\", \"www.investor-verlag.de/service/datenschutz/\"]}",
+      "id": 55,
+      "label": "herzlich willkommen bei millers krypto radar / sam.newsletter-investor.de",
+      "last_seen_at": "2026-04-20 13:31:40",
+      "mail_count": 1,
+      "max_risk_score": 39,
+      "signals": "from:sam.newsletter-investor.de; subject:herzlich willkommen bei millers krypto radar; url:lpm.fid-shop.de, www.investor-verlag.de; family:investor.fid-mail.de/go/5"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"sam.newsletter-investor.de\", \"signal_count\": 11, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\", \"url_domains\": [\"investor.fid-mail.de\", \"lpm.fid-shop.de\", \"webinar.pl-x.de\", \"www.investor-verlag.de\"], \"url_families\": [\"investor.fid-mail.de/go/1\", \"www.investor-verlag.de\", \"www.investor-verlag.de/service/agb\", \"www.investor-verlag.de/service/datenschutz\"], \"url_targets\": [\"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-43NTXWSF-5NG15IJ-o.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-4ZTDUT3A-5MC195D.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-4ZTDUT3B-9R8BQI.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-4ZTDUT3C-LGL8ZK.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-4ZTDUT3D-WW1X7C.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-6KS68DWP-4II18B7.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-6QU7I3C3-RFMY5S.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"www.investor-verlag.de/\", \"www.investor-verlag.de/service/agb/\", \"www.investor-verlag.de/service/datenschutz/\"]}",
+      "id": 56,
+      "label": "herzlich willkommen bei millers krypto radar / sam.newsletter-investor.de",
+      "last_seen_at": "2026-04-20 14:31:20",
+      "mail_count": 1,
+      "max_risk_score": 39,
+      "signals": "from:sam.newsletter-investor.de; subject:herzlich willkommen bei millers krypto radar; url:investor.fid-mail.de, lpm.fid-shop.de; family:investor.fid-mail.de/go/1"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"iphones-geschenkt.com\", \"signal_count\": 5, \"subject_fingerprint\": \"ihre-teilnahme-iphone-gewinnspiel\", \"url_domains\": [\"www.iphones-geschenkt.com\"], \"url_families\": [\"www.iphones-geschenkt.com/bestaetigen\"], \"url_targets\": [\"www.iphones-geschenkt.com/bestaetigen?i=85a30af449d598f113fe5b3bff58b2ca\"]}",
+      "id": 36,
+      "label": "ihre teilnahme iphone gewinnspiel / iphones-geschenkt.com",
+      "last_seen_at": "2026-04-20 12:00:30",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:iphones-geschenkt.com; subject:ihre teilnahme iphone gewinnspiel; url:www.iphones-geschenkt.com; family:www.iphones-geschenkt.com/bestaetigen"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 11, \"subject_fingerprint\": \"ihr-willkommens-geschenk-spezial-report-effektives\", \"url_domains\": [\"lpm.maxlq.de\", \"nl.maxlq.de\", \"shop.maxlq.de\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\"], \"url_families\": [\"nl.maxlq.de/go/7\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de\"], \"url_targets\": [\"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-4WWBFI3T-14W1RYH.pdf?opt_domain=nl.maxlq.de&banner=SAM_395799582671&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-4WWBFI3U-A9M1BPU.pdf?opt_domain=nl.maxlq.de&banner=SAM_395799582671&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-4WWBFI41-1CXVJ6F.pdf?opt_domain=nl.maxlq.de&banner=SAM_395799582671&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-54FOA1IZ-12ZR5C.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-54FOA1J0-372TRP.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-54FOA1J9-1BVRR11.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-55WTH19B-1DME19WY.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-55WTH19C-NJOVV7.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-55WTH19H-HXW1D9C.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5DY7QKSE-187A3MQ.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5DY7QKSF-FW7Z7G.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5DY7QKSG-11XVG4P.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5DY7QKSH-16YCFAM.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5XA9ETA7-C01953-o.html?opt_domain=nl.maxlq.de&banner=SAM_395799582671&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de/\"]}",
+      "id": 44,
+      "label": "ihr willkommens geschenk spezial report effektives / nl.maxlq.de",
+      "last_seen_at": "2026-04-20 14:31:20",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:ihr willkommens geschenk spezial report effektives; url:lpm.maxlq.de, nl.maxlq.de; family:nl.maxlq.de/go/7"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"doi.fidgesundheitswissen.de\", \"signal_count\": 11, \"subject_fingerprint\": \"download-wessinghages-wunder-bungen\", \"url_domains\": [\"info.gesundheits-praemien.de\", \"info.gesundheitswissen-aktuell.de\", \"www.gesundheitswissen.de\"], \"url_families\": [\"fid-nss.de/praemie/67\", \"go.gesundheitswissen.de/cyd63qHZ\", \"info.gesundheitswissen-aktuell.de/toi/maxlq\", \"www.fid-gesundheitswissen.de\"], \"url_targets\": [\"fid-nss.de/praemie/67/14538355\", \"fid-nss.de/praemie/67/14538355]\", \"go.gesundheitswissen.de/cyd63qHZ\", \"info.gesundheitswissen-aktuell.de/toi/maxlq/uebersichtsseite-praemie.html\", \"info.gesundheitswissen-aktuell.de/toi/maxlq/uebersichtsseite-praemie.html]\", \"www.fid-gesundheitswissen.de/\"]}",
+      "id": 53,
+      "label": "download wessinghages wunder bungen / doi.fidgesundheitswissen.de",
+      "last_seen_at": "2026-04-20 13:31:40",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:doi.fidgesundheitswissen.de; subject:download wessinghages wunder bungen; url:info.gesundheits-praemien.de, info.gesundheitswissen-aktuell.de; family:fid-nss.de/praemie/67"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"doi.investor-verlag.de\", \"signal_count\": 9, \"subject_fingerprint\": \"pdf-report-krypto-diese-kryptow-hrungen\", \"url_domains\": [\"lpm.fid-shop.de\", \"lpm.gevestor-verlag.de\"], \"url_families\": [\"lpm.fid-shop.de/1/10440\", \"lpm.gevestor-verlag.de/1/14633\"], \"url_targets\": [\"lpm.fid-shop.de/1/10440/praemie-krypto-willkommen/?banner=PLP_I_Finanzen_Krypto-X_EMF_TRA-TOR-TRN&nid=nss-fid&rid=350&pid=14538356\", \"lpm.fid-shop.de/1/10440/praemie-krypto-willkommen/?banner=PLP_I_Finanzen_Krypto-X_EMF_TRA-TOR-TRN&nid=nss-fid&rid=350&pid=14538356]\", \"lpm.gevestor-verlag.de/1/14633/boersen-kompass/?campaignId=92171&banner=TRI_INV_Finanzen_PMAIL_ABO_BOERSENKOMPASS_KAK_92171\", \"lpm.gevestor-verlag.de/1/14633/boersen-kompass/?campaignId=92171&banner=TRI_INV_Finanzen_PMAIL_ABO_BOERSENKOMPASS_KAK_92171]\"]}",
+      "id": 54,
+      "label": "pdf report krypto diese kryptow hrungen / doi.investor-verlag.de",
+      "last_seen_at": "2026-04-20 13:31:40",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:doi.investor-verlag.de; subject:pdf report krypto diese kryptow hrungen; url:lpm.fid-shop.de, lpm.gevestor-verlag.de; family:lpm.fid-shop.de/1/10440"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"post.seinadventure.de\", \"signal_count\": 9, \"subject_fingerprint\": \"sie-reserviert\", \"url_domains\": [\"post.seinadventure.de\"], \"url_families\": [\"ceoo.ch\", \"post.seinadventure.de/i/RESGn0salanXhuwti5lOxqDMSut1w0bE-GGoSSOQoqzhi1inShXAAg\", \"post.seinadventure.de/i/rKdwGv3k_LmYS8kyKJTLI367CAvGG8VPbJNjqLMLDvo\", \"tel\"], \"url_targets\": [\"mailto:info@ceoo.ch\", \"post.seinadventure.de/i/RESGn0salanXhuwti5lOxqDMSut1w0bE-GGoSSOQoqzhi1inShXAAg\", \"post.seinadventure.de/i/rKdwGv3k_LmYS8kyKJTLI367CAvGG8VPbJNjqLMLDvo\", \"tel:08006316310\"]}",
+      "id": 52,
+      "label": "sie reserviert / post.seinadventure.de",
+      "last_seen_at": "2026-04-20 13:31:40",
+      "mail_count": 1,
+      "max_risk_score": 34,
+      "signals": "from:post.seinadventure.de; subject:sie reserviert; url:post.seinadventure.de; family:ceoo.ch"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"mails.burda-vergleicht.de\", \"signal_count\": 5, \"subject_fingerprint\": \"bitte-best-tigen-sie-ihre-angaben\", \"url_domains\": [\"www.coyote-burda.com\"], \"url_families\": [\"doi.dtcrt.de/2191876616c02491d3\"], \"url_targets\": [\"doi.dtcrt.de/2191876616c02491d3\"]}",
+      "id": 51,
+      "label": "bitte best tigen sie ihre angaben / mails.burda-vergleicht.de",
+      "last_seen_at": "2026-04-20 12:30:54",
+      "mail_count": 1,
+      "max_risk_score": 26,
+      "signals": "from:mails.burda-vergleicht.de; subject:bitte best tigen sie ihre angaben; url:www.coyote-burda.com; family:doi.dtcrt.de/2191876616c02491d3"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"mail.dein-golden-esel.de\", \"signal_count\": 8, \"subject_fingerprint\": \"teilnahme\", \"url_domains\": [\"shopping-voucher.deingoldesel.de\", \"top-vorteile.de\"], \"url_families\": [\"shopping-voucher.deingoldesel.de/bestaetigung_4338_NDMzOF80NjI2OTY2X3NpbW9uLmJyYW5kdEBpdGItcmVsYXkuZGU=.html\", \"top-vorteile.de/impressum_2797.html\"], \"url_targets\": [\"shopping-voucher.deingoldesel.de/bestaetigung_4338_NDMzOF80NjI2OTY2X3NpbW9uLmJyYW5kdEBpdGItcmVsYXkuZGU=.html\", \"top-vorteile.de/impressum_2797.html\"]}",
+      "id": 50,
+      "label": "teilnahme / mail.dein-golden-esel.de",
+      "last_seen_at": "2026-04-20 12:30:54",
+      "mail_count": 1,
+      "max_risk_score": 18,
+      "signals": "from:mail.dein-golden-esel.de; subject:teilnahme; url:shopping-voucher.deingoldesel.de, top-vorteile.de; family:shopping-voucher.deingoldesel.de/bestaetigung_4338_NDMzOF80NjI2OTY2X3NpbW9uLmJyYW5kdEBpdGItcmVsYXkuZGU=.html"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 31,
+      "mail_id": 27,
+      "sent_at": "2026-04-20T15:13:11.847228+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 30,
+      "mail_id": 26,
+      "sent_at": "2026-04-20T15:13:11.726729+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 29,
+      "mail_id": 25,
+      "sent_at": "2026-04-20T14:03:45.133700+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 28,
+      "mail_id": 24,
+      "sent_at": "2026-04-20T14:03:45.052203+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 27,
+      "mail_id": 23,
+      "sent_at": "2026-04-20T14:03:44.953655+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 26,
+      "mail_id": 22,
+      "sent_at": "2026-04-20T14:03:44.867066+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 25,
+      "mail_id": 21,
+      "sent_at": "2026-04-20T12:36:27.127262+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 24,
+      "mail_id": 20,
+      "sent_at": "2026-04-20T12:36:27.048496+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 23,
+      "mail_id": 19,
+      "sent_at": "2026-04-20T12:01:13.678456+00:00",
+      "severity": "warning"
+    }
+  ],
+  "alias_leak_candidates": [
+    {
+      "alias_label": "simon.brandt@itb-relay.de",
+      "current_mail_count": 8,
+      "current_new_sender_domain_count": 7,
+      "current_sender_domain_count": 7,
+      "historical_mail_count": 0,
+      "historical_sender_domain_count": 0,
+      "max_risk_score": 39,
+      "max_spam_score": -3.5,
+      "new_sender_domains": "doi.fidgesundheitswissen.de, doi.investor-verlag.de, mail.dein-golden-esel.de, mails.burda-vergleicht.de",
+      "reason": "Mehrere neue Sender-Domains auf bisher unauffaelligem Alias"
+    }
+  ],
+  "alias_spikes": [
+    {
+      "alias_label": "simon.brandt@itb-relay.de",
+      "current_mail_count": 8,
+      "current_new_sender_domain_count": 7,
+      "current_sender_domain_count": 7,
+      "historical_avg_active_day_count": 0.0,
+      "historical_mail_count": 0,
+      "historical_peak_day_count": 0,
+      "max_risk_score": 39,
+      "max_spam_score": -3.5,
+      "reason": "Erste Aktivitaet im Lookback mit 8 Mails",
+      "spike_threshold": 3
+    }
+  ],
+  "campaign_changes": [
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3767,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3766,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3765,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3764,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3763,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 27,
+      "source_label": "letzte chance verfallen heute endg ltig / update.eis.de",
+      "target_campaign_id": 27,
+      "target_label": "letzte chance verfallen heute endg ltig / update.eis.de"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3762,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 30,
+      "source_label": "iPhone / iphones-geschenkt.com",
+      "target_campaign_id": 30,
+      "target_label": "iPhone / iphones-geschenkt.com"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3761,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 45,
+      "source_label": "coupon Dein Goldesel / mail.dein-golden-esel.de",
+      "target_campaign_id": 45,
+      "target_label": "coupon Dein Goldesel / mail.dein-golden-esel.de"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3760,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 44,
+      "source_label": "coupon Dein Goldesel / mails.burda-vergleicht.de",
+      "target_campaign_id": 44,
+      "target_label": "coupon Dein Goldesel / mails.burda-vergleicht.de"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3759,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 43,
+      "source_label": "coupon Dein Goldesel / post.seinadventure.de",
+      "target_campaign_id": 43,
+      "target_label": "coupon Dein Goldesel / post.seinadventure.de"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3758,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 42,
+      "source_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de",
+      "target_campaign_id": 42,
+      "target_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3757,
+      "overlap_mail_count": 1,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 41,
+      "source_label": "coupon Dein Goldesel / doi.investor-verlag.de",
+      "target_campaign_id": 41,
+      "target_label": "coupon Dein Goldesel / doi.investor-verlag.de"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3756,
+      "overlap_mail_count": 3,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 36,
+      "source_label": "coupon Dein Goldesel / sam.newsletter-investor.de",
+      "target_campaign_id": 36,
+      "target_label": "coupon Dein Goldesel / sam.newsletter-investor.de"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3755,
+      "overlap_mail_count": 4,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 26,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 26,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-20 22:01:22",
+      "id": 3754,
+      "overlap_mail_count": 9,
+      "rebuild_id": 465,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com",
+      "target_campaign_id": 18,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-04-20 21:45:53",
+      "id": 3753,
+      "overlap_mail_count": 1,
+      "rebuild_id": 464,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    }
+  ],
+  "complete_day": false,
+  "generated_at": "2026-04-20T22:03:54.216719+00:00",
+  "issue_events": [
+    {
+      "event_count": 9,
+      "event_type": "alert.sent",
+      "severity": "warning"
+    },
+    {
+      "event_count": 2,
+      "event_type": "browser_reprobe.requeued",
+      "severity": "warning"
+    },
+    {
+      "event_count": 2,
+      "event_type": "enrich.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 2,
+      "event_type": "enrich.failed_mail",
+      "severity": "error"
+    },
+    {
+      "event_count": 2,
+      "event_type": "mail.analyzed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "mail.legitimacy_classified",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "parse.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "parse.failed_mail",
+      "severity": "error"
+    }
+  ],
+  "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"sam.newsletter-investor.de\", \"signal_count\": 11, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\", \"url_domains\": [\"investor.fid-mail.de\", \"lpm.fid-shop.de\", \"webinar.pl-x.de\", \"www.investor-verlag.de\"], \"url_families\": [\"investor.fid-mail.de/go/1\", \"www.investor-verlag.de\", \"www.investor-verlag.de/service/agb\", \"www.investor-verlag.de/service/datenschutz\"], \"url_targets\": [\"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-43NTXWSF-5NG15IJ-o.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-4ZTDUT3A-5MC195D.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-4ZTDUT3B-9R8BQI.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-4ZTDUT3C-LGL8ZK.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-4ZTDUT3D-WW1X7C.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-6KS68DWP-4II18B7.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"investor.fid-mail.de/go/1/6U7FARJM-6FN90KIV-6QU7I3C3-RFMY5S.html?opt_domain=sam.newsletter-investor.de&banner=SAM_504242584807&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=504242584807&opt_mandator=311505762466&bmMailId=6U7FARJM-6FN90KIV-ERQX0R\", \"www.investor-verlag.de/\", \"www.investor-verlag.de/service/agb/\", \"www.investor-verlag.de/service/datenschutz/\"]}",
+      "first_seen_at": "2026-04-20 14:31:20",
+      "id": 56,
+      "label": "herzlich willkommen bei millers krypto radar / sam.newsletter-investor.de",
+      "mail_count": 1,
+      "max_risk_score": 39,
+      "signals": "from:sam.newsletter-investor.de; subject:herzlich willkommen bei millers krypto radar; url:investor.fid-mail.de, lpm.fid-shop.de; family:investor.fid-mail.de/go/1"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 11, \"subject_fingerprint\": \"ihr-willkommens-geschenk-spezial-report-effektives\", \"url_domains\": [\"lpm.maxlq.de\", \"nl.maxlq.de\", \"shop.maxlq.de\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\"], \"url_families\": [\"nl.maxlq.de/go/7\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de\"], \"url_targets\": [\"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-4WWBFI3T-14W1RYH.pdf?opt_domain=nl.maxlq.de&banner=SAM_395799582671&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-4WWBFI3U-A9M1BPU.pdf?opt_domain=nl.maxlq.de&banner=SAM_395799582671&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-4WWBFI41-1CXVJ6F.pdf?opt_domain=nl.maxlq.de&banner=SAM_395799582671&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-54FOA1IZ-12ZR5C.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-54FOA1J0-372TRP.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-54FOA1J9-1BVRR11.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-55WTH19B-1DME19WY.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-55WTH19C-NJOVV7.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-55WTH19H-HXW1D9C.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5DY7QKSE-187A3MQ.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5DY7QKSF-FW7Z7G.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5DY7QKSG-11XVG4P.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5DY7QKSH-16YCFAM.html?opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"nl.maxlq.de/go/7/6U7FARJN-51TSUOJZ-5XA9ETA7-C01953-o.html?opt_domain=nl.maxlq.de&banner=SAM_395799582671&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=395799582671&opt_mandator=277376598395&bmMailid=6U7FARJN-51TSUOJZ-5AR9\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de/\"]}",
+      "first_seen_at": "2026-04-20 14:31:20",
+      "id": 44,
+      "label": "ihr willkommens geschenk spezial report effektives / nl.maxlq.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:ihr willkommens geschenk spezial report effektives; url:lpm.maxlq.de, nl.maxlq.de; family:nl.maxlq.de/go/7"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"sam.newsletter-investor.de\", \"signal_count\": 10, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\", \"url_domains\": [\"lpm.fid-shop.de\", \"www.investor-verlag.de\"], \"url_families\": [\"investor.fid-mail.de/go/5\", \"www.investor-verlag.de\", \"www.investor-verlag.de/service/agb\", \"www.investor-verlag.de/service/datenschutz\"], \"url_targets\": [\"investor.fid-mail.de/go/5/6U79IVFU-4TQVE3A7-5OG7S81R-1A2QCQI.html?opt_domain=sam.newsletter-investor.de&banner=SAM_378208190239&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208190239&opt_mandator=311505762466&bmMailId=6U79IVFU-4TQVE3A7-3DY7MP\", \"investor.fid-mail.de/go/5/6U79IVFU-4TQVE3A7-5OG7S81S-DIYDF1.html?opt_domain=sam.newsletter-investor.de&banner=SAM_378208190239&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208190239&opt_mandator=311505762466&bmMailId=6U79IVFU-4TQVE3A7-3DY7MP\", \"investor.fid-mail.de/go/5/6U79IVFU-4TQVE3A7-5OG7S81T-M5J14L5.html?opt_domain=sam.newsletter-investor.de&banner=SAM_378208190239&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208190239&opt_mandator=311505762466&bmMailId=6U79IVFU-4TQVE3A7-3DY7MP\", \"www.investor-verlag.de/\", \"www.investor-verlag.de/service/agb/\", \"www.investor-verlag.de/service/datenschutz/\"]}",
+      "first_seen_at": "2026-04-20 13:31:40",
+      "id": 55,
+      "label": "herzlich willkommen bei millers krypto radar / sam.newsletter-investor.de",
+      "mail_count": 1,
+      "max_risk_score": 39,
+      "signals": "from:sam.newsletter-investor.de; subject:herzlich willkommen bei millers krypto radar; url:lpm.fid-shop.de, www.investor-verlag.de; family:investor.fid-mail.de/go/5"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"doi.investor-verlag.de\", \"signal_count\": 9, \"subject_fingerprint\": \"pdf-report-krypto-diese-kryptow-hrungen\", \"url_domains\": [\"lpm.fid-shop.de\", \"lpm.gevestor-verlag.de\"], \"url_families\": [\"lpm.fid-shop.de/1/10440\", \"lpm.gevestor-verlag.de/1/14633\"], \"url_targets\": [\"lpm.fid-shop.de/1/10440/praemie-krypto-willkommen/?banner=PLP_I_Finanzen_Krypto-X_EMF_TRA-TOR-TRN&nid=nss-fid&rid=350&pid=14538356\", \"lpm.fid-shop.de/1/10440/praemie-krypto-willkommen/?banner=PLP_I_Finanzen_Krypto-X_EMF_TRA-TOR-TRN&nid=nss-fid&rid=350&pid=14538356]\", \"lpm.gevestor-verlag.de/1/14633/boersen-kompass/?campaignId=92171&banner=TRI_INV_Finanzen_PMAIL_ABO_BOERSENKOMPASS_KAK_92171\", \"lpm.gevestor-verlag.de/1/14633/boersen-kompass/?campaignId=92171&banner=TRI_INV_Finanzen_PMAIL_ABO_BOERSENKOMPASS_KAK_92171]\"]}",
+      "first_seen_at": "2026-04-20 13:31:40",
+      "id": 54,
+      "label": "pdf report krypto diese kryptow hrungen / doi.investor-verlag.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:doi.investor-verlag.de; subject:pdf report krypto diese kryptow hrungen; url:lpm.fid-shop.de, lpm.gevestor-verlag.de; family:lpm.fid-shop.de/1/10440"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"doi.fidgesundheitswissen.de\", \"signal_count\": 11, \"subject_fingerprint\": \"download-wessinghages-wunder-bungen\", \"url_domains\": [\"info.gesundheits-praemien.de\", \"info.gesundheitswissen-aktuell.de\", \"www.gesundheitswissen.de\"], \"url_families\": [\"fid-nss.de/praemie/67\", \"go.gesundheitswissen.de/cyd63qHZ\", \"info.gesundheitswissen-aktuell.de/toi/maxlq\", \"www.fid-gesundheitswissen.de\"], \"url_targets\": [\"fid-nss.de/praemie/67/14538355\", \"fid-nss.de/praemie/67/14538355]\", \"go.gesundheitswissen.de/cyd63qHZ\", \"info.gesundheitswissen-aktuell.de/toi/maxlq/uebersichtsseite-praemie.html\", \"info.gesundheitswissen-aktuell.de/toi/maxlq/uebersichtsseite-praemie.html]\", \"www.fid-gesundheitswissen.de/\"]}",
+      "first_seen_at": "2026-04-20 13:31:40",
+      "id": 53,
+      "label": "download wessinghages wunder bungen / doi.fidgesundheitswissen.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:doi.fidgesundheitswissen.de; subject:download wessinghages wunder bungen; url:info.gesundheits-praemien.de, info.gesundheitswissen-aktuell.de; family:fid-nss.de/praemie/67"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"post.seinadventure.de\", \"signal_count\": 9, \"subject_fingerprint\": \"sie-reserviert\", \"url_domains\": [\"post.seinadventure.de\"], \"url_families\": [\"ceoo.ch\", \"post.seinadventure.de/i/RESGn0salanXhuwti5lOxqDMSut1w0bE-GGoSSOQoqzhi1inShXAAg\", \"post.seinadventure.de/i/rKdwGv3k_LmYS8kyKJTLI367CAvGG8VPbJNjqLMLDvo\", \"tel\"], \"url_targets\": [\"mailto:info@ceoo.ch\", \"post.seinadventure.de/i/RESGn0salanXhuwti5lOxqDMSut1w0bE-GGoSSOQoqzhi1inShXAAg\", \"post.seinadventure.de/i/rKdwGv3k_LmYS8kyKJTLI367CAvGG8VPbJNjqLMLDvo\", \"tel:08006316310\"]}",
+      "first_seen_at": "2026-04-20 13:31:40",
+      "id": 52,
+      "label": "sie reserviert / post.seinadventure.de",
+      "mail_count": 1,
+      "max_risk_score": 34,
+      "signals": "from:post.seinadventure.de; subject:sie reserviert; url:post.seinadventure.de; family:ceoo.ch"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"mails.burda-vergleicht.de\", \"signal_count\": 5, \"subject_fingerprint\": \"bitte-best-tigen-sie-ihre-angaben\", \"url_domains\": [\"www.coyote-burda.com\"], \"url_families\": [\"doi.dtcrt.de/2191876616c02491d3\"], \"url_targets\": [\"doi.dtcrt.de/2191876616c02491d3\"]}",
+      "first_seen_at": "2026-04-20 12:30:54",
+      "id": 51,
+      "label": "bitte best tigen sie ihre angaben / mails.burda-vergleicht.de",
+      "mail_count": 1,
+      "max_risk_score": 26,
+      "signals": "from:mails.burda-vergleicht.de; subject:bitte best tigen sie ihre angaben; url:www.coyote-burda.com; family:doi.dtcrt.de/2191876616c02491d3"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"mail.dein-golden-esel.de\", \"signal_count\": 8, \"subject_fingerprint\": \"teilnahme\", \"url_domains\": [\"shopping-voucher.deingoldesel.de\", \"top-vorteile.de\"], \"url_families\": [\"shopping-voucher.deingoldesel.de/bestaetigung_4338_NDMzOF80NjI2OTY2X3NpbW9uLmJyYW5kdEBpdGItcmVsYXkuZGU=.html\", \"top-vorteile.de/impressum_2797.html\"], \"url_targets\": [\"shopping-voucher.deingoldesel.de/bestaetigung_4338_NDMzOF80NjI2OTY2X3NpbW9uLmJyYW5kdEBpdGItcmVsYXkuZGU=.html\", \"top-vorteile.de/impressum_2797.html\"]}",
+      "first_seen_at": "2026-04-20 12:30:54",
+      "id": 50,
+      "label": "teilnahme / mail.dein-golden-esel.de",
+      "mail_count": 1,
+      "max_risk_score": 18,
+      "signals": "from:mail.dein-golden-esel.de; subject:teilnahme; url:shopping-voucher.deingoldesel.de, top-vorteile.de; family:shopping-voucher.deingoldesel.de/bestaetigung_4338_NDMzOF80NjI2OTY2X3NpbW9uLmJyYW5kdEBpdGItcmVsYXkuZGU=.html"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"iphones-geschenkt.com\", \"signal_count\": 5, \"subject_fingerprint\": \"ihre-teilnahme-iphone-gewinnspiel\", \"url_domains\": [\"www.iphones-geschenkt.com\"], \"url_families\": [\"www.iphones-geschenkt.com/bestaetigen\"], \"url_targets\": [\"www.iphones-geschenkt.com/bestaetigen?i=85a30af449d598f113fe5b3bff58b2ca\"]}",
+      "first_seen_at": "2026-04-20 12:00:30",
+      "id": 36,
+      "label": "ihre teilnahme iphone gewinnspiel / iphones-geschenkt.com",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:iphones-geschenkt.com; subject:ihre teilnahme iphone gewinnspiel; url:www.iphones-geschenkt.com; family:www.iphones-geschenkt.com/bestaetigen"
+    }
+  ],
+  "new_domains": [
+    {
+      "domain": "dd29936.kasserver.com",
+      "first_seen_at": "2026-04-20 12:00:30",
+      "mail_count": 9
+    },
+    {
+      "domain": "itb-relay.de",
+      "first_seen_at": "2026-04-20 12:00:30",
+      "mail_count": 9
+    },
+    {
+      "domain": "eco.de",
+      "first_seen_at": "2026-04-20 14:31:21",
+      "mail_count": 7
+    },
+    {
+      "domain": "episerver.com",
+      "first_seen_at": "2026-04-20 14:31:21",
+      "mail_count": 5
+    },
+    {
+      "domain": "vnr.de",
+      "first_seen_at": "2026-04-20 15:03:36",
+      "mail_count": 5
+    },
+    {
+      "domain": "das-schulleitungsportal.de",
+      "first_seen_at": "2026-04-20 15:03:36",
+      "mail_count": 4
+    },
+    {
+      "domain": "accengage.com",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "adup-tech.com",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "as-dialoggroup.de",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "criteo.com",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "dianomi.com",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "fid-verlag.de",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "investor-verlag.de",
+      "first_seen_at": "2026-04-20 21:38:43",
+      "mail_count": 3
+    },
+    {
+      "domain": "leadfeeder.com",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "limesurvey.org",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "liquidm.com",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "netigate.de",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "schulwissenplus.de",
+      "first_seen_at": "2026-04-20 21:38:50",
+      "mail_count": 3
+    },
+    {
+      "domain": "seeding-alliance.de",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    },
+    {
+      "domain": "streamyard.com",
+      "first_seen_at": "2026-04-20 15:04:51",
+      "mail_count": 3
+    }
+  ],
+  "notable_mails": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "sam.newsletter-investor.de",
+      "mail_id": 26,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 39,
+      "spam_score": -3.8,
+      "subject": "Herzlich Willkommen bei Millers Krypto-Radar!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "sam.newsletter-investor.de",
+      "mail_id": 25,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 39,
+      "spam_score": -3.8,
+      "subject": "Herzlich Willkommen bei Millers Krypto-Radar!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "sarah.hartmann@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "iphones-geschenkt.com",
+      "mail_id": 19,
+      "recipient": "sarah.hartmann@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -2.7,
+      "subject": "Ihre Teilnahme am IPHONE GEWINNSPIEL",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 27,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Ihr Willkommens-Geschenk: Spezial-Report \u201eEffektives Training zu Hause \u2013 mit kleinen Hilfsmitteln!\u201d",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "doi.investor-verlag.de",
+      "mail_id": 24,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "PDF-Report: Krypto-X: Diese 3 Kryptow\u00e4hrungen explodieren",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "doi.fidgesundheitswissen.de",
+      "mail_id": 23,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Download: Wessinghages \u00bbWunder-\u00dcbungen\u00ab",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "post.seinadventure.de",
+      "mail_id": 22,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 34,
+      "spam_score": -3.8,
+      "subject": "50.000\u20ac f\u00fcr Sie reserviert",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "mails.burda-vergleicht.de",
+      "mail_id": 21,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 26,
+      "spam_score": -5.9,
+      "subject": "Bitte best\u00e4tigen Sie Ihre Angaben, Simon Brandt",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "mail.dein-golden-esel.de",
+      "mail_id": 20,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 18,
+      "spam_score": -3.5,
+      "subject": "Teilnahme",
+      "yara_result": "clean"
+    }
+  ],
+  "novel_lure_candidates": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "sam.newsletter-investor.de",
+      "mail_id": 26,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 39,
+      "spam_score": -3.8,
+      "subject": "Herzlich Willkommen bei Millers Krypto-Radar!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "sam.newsletter-investor.de",
+      "mail_id": 25,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 39,
+      "spam_score": -3.8,
+      "subject": "Herzlich Willkommen bei Millers Krypto-Radar!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "sarah.hartmann@itb-relay.de",
+      "from_domain": "iphones-geschenkt.com",
+      "mail_id": 19,
+      "recipient": "sarah.hartmann@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -2.7,
+      "subject": "Ihre Teilnahme am IPHONE GEWINNSPIEL",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 27,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Ihr Willkommens-Geschenk: Spezial-Report \u201eEffektives Training zu Hause \u2013 mit kleinen Hilfsmitteln!\u201d",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "doi.investor-verlag.de",
+      "mail_id": 24,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "PDF-Report: Krypto-X: Diese 3 Kryptow\u00e4hrungen explodieren",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "doi.fidgesundheitswissen.de",
+      "mail_id": 23,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Download: Wessinghages \u00bbWunder-\u00dcbungen\u00ab",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "post.seinadventure.de",
+      "mail_id": 22,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 34,
+      "spam_score": -3.8,
+      "subject": "50.000\u20ac f\u00fcr Sie reserviert",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "mails.burda-vergleicht.de",
+      "mail_id": 21,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 26,
+      "spam_score": -5.9,
+      "subject": "Bitte best\u00e4tigen Sie Ihre Angaben, Simon Brandt",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "mail.dein-golden-esel.de",
+      "mail_id": 20,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 18,
+      "spam_score": -3.5,
+      "subject": "Teilnahme",
+      "yara_result": "clean"
+    }
+  ],
+  "report_date": "2026-04-20",
+  "report_timezone": "UTC",
+  "similarity_pairs": [
+    {
+      "computed_at": "2026-04-20 21:43:03",
+      "from_domain": "sam.newsletter-investor.de",
+      "mail_id": 25,
+      "signals": "from:sam.newsletter-investor.de; subject:herzlich willkommen bei millers krypto radar; target:www.investor-verlag.de/, www.investor-verlag.de/service/agb/; url:lpm.fid-shop.de, www.investor-verlag.de",
+      "similar_from_domain": "sam.newsletter-investor.de",
+      "similar_mail_id": 26,
+      "similar_subject": "Herzlich Willkommen bei Millers Krypto-Radar!",
+      "similarity_score": 100,
+      "subject": "Herzlich Willkommen bei Millers Krypto-Radar!"
+    },
+    {
+      "computed_at": "2026-04-20 21:43:03",
+      "from_domain": "sam.newsletter-investor.de",
+      "mail_id": 26,
+      "signals": "asset-pattern:{hex}_{n}.jpeg, {hex}_{n}.png; asset-content:4680a01662e0; body:320px, 600px; ns:a.ns14.net, b.ns14.net",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 27,
+      "similar_subject": "Ihr Willkommens-Geschenk: Spezial-Report \u201eEffektives Training zu Hause \u2013 mit kleinen Hilfsmitteln!\u201d",
+      "similarity_score": 94,
+      "subject": "Herzlich Willkommen bei Millers Krypto-Radar!"
+    },
+    {
+      "computed_at": "2026-04-20 21:43:02",
+      "from_domain": "sam.newsletter-investor.de",
+      "mail_id": 25,
+      "signals": "asset-pattern:{hex}_{n}.png; asset-content:4680a01662e0; body:auto, body; ns:a.ns14.net, b.ns14.net",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 27,
+      "similar_subject": "Ihr Willkommens-Geschenk: Spezial-Report \u201eEffektives Training zu Hause \u2013 mit kleinen Hilfsmitteln!\u201d",
+      "similarity_score": 92,
+      "subject": "Herzlich Willkommen bei Millers Krypto-Radar!"
+    }
+  ],
+  "suspicious_aliases": [
+    {
+      "alias_label": "simon.brandt@itb-relay.de",
+      "mail_count": 8,
+      "max_risk_score": 39,
+      "max_spam_score": -3.5,
+      "sender_domain_count": 7
+    }
+  ],
+  "top_domains": [
+    {
+      "domain": "dd29936.kasserver.com",
+      "mail_count": 9
+    },
+    {
+      "domain": "itb-relay.de",
+      "mail_count": 9
+    },
+    {
+      "domain": "eco.de",
+      "mail_count": 7
+    },
+    {
+      "domain": "episerver.com",
+      "mail_count": 5
+    },
+    {
+      "domain": "vnr.de",
+      "mail_count": 5
+    },
+    {
+      "domain": "das-schulleitungsportal.de",
+      "mail_count": 4
+    },
+    {
+      "domain": "accengage.com",
+      "mail_count": 3
+    },
+    {
+      "domain": "adup-tech.com",
+      "mail_count": 3
+    },
+    {
+      "domain": "as-dialoggroup.de",
+      "mail_count": 3
+    },
+    {
+      "domain": "criteo.com",
+      "mail_count": 3
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "sam.newsletter-investor.de",
+      "mail_count": 2
+    },
+    {
+      "domain": "doi.fidgesundheitswissen.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "doi.investor-verlag.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "iphones-geschenkt.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "mail.dein-golden-esel.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "mails.burda-vergleicht.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "nl.maxlq.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "post.seinadventure.de",
+      "mail_count": 1
+    }
+  ],
+  "totals": {
+    "active_cluster_count": 9,
+    "alert_count": 9,
+    "alias_leak_candidate_count": 1,
+    "alias_spike_count": 1,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 9,
+    "attachment_count": 0,
+    "avg_risk_score": 32.89,
+    "avg_spam_score": -4.24,
+    "campaign_change_count": 2462,
+    "campaign_count": 7,
+    "distinct_domain_count": 56,
+    "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
+    "high_risk_cluster_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 9,
+    "max_risk_score": 39,
+    "max_spam_score": -2.7,
+    "new_cluster_count": 9,
+    "new_domain_count": 20,
+    "novel_lure_candidate_count": 9,
+    "parse_error_count": 0,
+    "similarity_pair_count": 3,
+    "url_count": 85
+  },
+  "window_end_local": "2026-04-20T22:03:54.208220+00:00",
+  "window_end_utc": "2026-04-20T22:03:54.208220+00:00",
+  "window_start_local": "2026-04-20T00:00:00+00:00",
+  "window_start_utc": "2026-04-20T00:00:00+00:00"
+}
