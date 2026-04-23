@@ -1,0 +1,648 @@
+{
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 20, \"cluster_ids\": [35, 44, 51, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72], \"from_domains\": [\"nl.maxlq.de\", \"info.newsletter-investor.de\", \"sam.newsletter-investor.de\"], \"mail_count\": 21, \"mail_ids\": [18, 21, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], \"max_risk_score\": 39, \"similarity_edge_count\": 173, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\"}",
+      "generated_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "id": 36,
+      "label": "coupon Dein Goldesel / nl.maxlq.de",
+      "last_seen_at": "2026-04-23 13:31:31",
+      "mail_count": 4,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:herzlich willkommen bei millers krypto radar; from:nl.maxlq.de, info.newsletter-investor.de; clusters:20; edges:173; hint:coupon Dein Goldesel"
+    }
+  ],
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"info.newsletter-investor.de\", \"signal_count\": 9, \"subject_fingerprint\": \"letzte-chance-ihr-depot-vor-erbschaftssteuer\", \"url_domains\": [\"feedback.investor-verlag.de\", \"info.newsletter-investor.de\", \"lpm.fid-shop.de\", \"lpm.gevestor-verlag.de\", \"nlv-gevestor.de\", \"nlv-investor.de\", \"shop.investor-verlag.de\", \"webinar.pl-x.de\", \"www.aktienscreener.com\", \"www.boersenwissen-aktuell.de\", \"www.facebook.com\", \"www.investor-verlag.de\", \"www.youtube.com\"], \"url_families\": [\"info.newsletter-investor.de/go/0\"], \"url_targets\": [\"#155432\", \"#i571577\", \"#i572731\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-405JDXAS-1A4EB1W.html?bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-405JDXAW-1B0TSD8.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-4U0ZKFDZ-15OY6CQ.pdf?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-58N3PRQH-103Y1DHZ.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-595LSED3-6855E4.html?banner=Z4_A155432_M536128074044_T60_G1_MKR&utm_campaign=536128074044&opt_mandator=311505762466&opt_domain=info.newsletter-investor.de&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-5XCNR6TU-15XA3CB.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-5XCNR6TV-17AIKQ6.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-5XCNR6TW-1BPQ11F1.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-616W6LZ1-ZDAVTE-o.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-62OQNO0P-Q8M1AZY.html?bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-62OQNO0Q-75X31T.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-62OQNO0R-15923ZK.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-62OQNO0V-GGE7NS.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-62QDRKRB-2NO5ND.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6JDEV9Y2-OKR10XS.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6JDEV9Y3-PNS1A2G.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6JDEV9Y4-UP014HC.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6JDEV9Y5-A4PC1E.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6NW1PZQO-1AOV1BOI.html?banner=Z2_A156184_M536128074044_T60_G1_MKR&utm_campaign=536128074044&opt_mandator=311505762466&opt_domain=info.newsletter-investor.de&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6QVSOZJK-JBJXWV.html?opt_domain=info.newsletter-investor.de&banner=SAM_536128074044&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=536128074044&opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6TK2HSO1-15IMDO9.html?banner=Z1_A182385_M536128074044_T60_G2_MKR&utm_campaign=536128074044&opt_mandator=311505762466&opt_domain=info.newsletter-investor.de&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6UAL6LCP-156KVZB.html?opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=info.newsletter-investor.de&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6UAL6LCQ-12RN13QU.html?opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=info.newsletter-investor.de&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6UAL6LCR-HP3PW.html?opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=info.newsletter-investor.de&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D\", \"info.newsletter-investor.de/go/0/6UBW9BCV-6UAKT9H8-6UAL6LCS-QEZ8C4.html?opt_mandator=311505762466&bmMailId=6UBW9BCV-6UAKT9H8-6IRV9Y&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=info.newsletter-investor.de&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D\"]}",
+      "id": 67,
+      "label": "letzte chance ihr depot vor erbschaftssteuer / info.newsletter-investor.de",
+      "last_seen_at": "2026-04-23 07:16:31",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:info.newsletter-investor.de; subject:letzte chance ihr depot vor erbschaftssteuer; url:feedback.investor-verlag.de, info.newsletter-investor.de; family:info.newsletter-investor.de/go/0"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 11, \"subject_fingerprint\": \"haben-sie-dieses-angebot-verpasst-einer\", \"url_domains\": [\"lpm.maxlq.de\", \"nl.maxlq.de\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\"], \"url_families\": [\"nl.maxlq.de/go/4\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de\"], \"url_targets\": [\"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJK-15Z4LVK.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJL-EJ31E1D.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJM-1DLHW1.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJN-15PQO3O.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJO-162E3KU.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJP-9F1HSD.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJQ-45DYK6.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5XA9ETA7-12BX6UP-o.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de/\"]}",
+      "id": 70,
+      "label": "haben sie dieses angebot verpasst einer / nl.maxlq.de",
+      "last_seen_at": "2026-04-23 03:01:11",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:haben sie dieses angebot verpasst einer; url:lpm.maxlq.de, nl.maxlq.de; family:nl.maxlq.de/go/4"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 10, \"subject_fingerprint\": \"wie-starte-ich-wieder-dem-walking\", \"url_domains\": [\"lpm.computerwissen-verlag.de\", \"lpm.maxlq.de\", \"lpm.mein-nachlass-manager.de\", \"lpm.wellpursan.pl-x.de\", \"nl.maxlq.de\", \"nlv-maxlq.de\", \"pixelio.net\", \"t.me\", \"webinar.pl-x.de\", \"www.facebook.com\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\", \"www.gettyimages.de\", \"www.whatsapp.com\"], \"url_families\": [\"maxlq.de\", \"nl.maxlq.de/go/9\"], \"url_targets\": [\"#182137\", \"#185496\", \"#i572028\", \"#i572731\", \"mailto:kundenservice@maxLQ.de\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-3N8NFF5T-ZYP7PM.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-3RWE5DF7-J0YRY5.html?bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-3XQ8MBY7-9WSLGL.php?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-3XQ8MBY9-YWRYNP.php?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-5SZTUM4O-F4PX2M.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-5SZTUM4P-60F1172.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-5XA9ETA7-1BV81ALY-o.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6G2YUTK4-VPL11G3.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCF-MOAASW.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCG-NFJ11ZJ.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCH-1DMKS2K.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCI-1CW13F9.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCJ-19FV2F2.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCL-BURVYX.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6P7CFJA4-1CWMGR3.html?banner=Z8_S3520_M535699808302_FM&bmmailid=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_campaign=535699808302&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6SJXPM9P-3S619WO.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6TX9USLT-13TH15UQ.html?banner=Z2_A183222_M535699808302_T67_G2_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6TYQHMXX-B91TLB.html?banner=Z31_A186711_M535699808302_T67_G2_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U3HU1IO-18ULI2F.html?opt_mandator=277376598395&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U3HU1IP-QF7KI4.html?opt_mandator=277376598395&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U3HU1IQ-A0F4HR.html?opt_mandator=277376598395&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U96B51Q-I3C19PZ.html?banner=Z5_A182137_M535699808302_T67_G1_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U96TVNL-1EEMUH3.html?banner=Z4_A185496_M535699808302_T67_G1_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6UAFI3FR-1A2HON7.html?banner=Z1_A175045_M535699808302_T67_G1_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6UAFI3FS-2T4EBF.html?banner=Z3_A185832_M535699808302_T67_G1_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\"]}",
+      "id": 71,
+      "label": "wie starte ich wieder dem walking / nl.maxlq.de",
+      "last_seen_at": "2026-04-23 07:16:31",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:wie starte ich wieder dem walking; url:lpm.computerwissen-verlag.de, lpm.maxlq.de; family:maxlq.de"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"info.newsletter-investor.de\", \"signal_count\": 11, \"subject_fingerprint\": \"sind-sie-bereit-weitere-ertr\", \"url_domains\": [\"info.newsletter-investor.de\", \"lpm.fid-shop.de\", \"www.investor-verlag.de\"], \"url_families\": [\"info.newsletter-investor.de/go/2\", \"www.investor-verlag.de\", \"www.investor-verlag.de/service/agb\", \"www.investor-verlag.de/service/datenschutz\"], \"url_targets\": [\"#\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-43ODH73G-15VIUU7.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71S-1DM9191Y.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71T-SWM12UJ.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71U-J2JJTB.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71V-R8D108.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71W-4XAD8.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71X-Z0MVGO.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71Y-CU26S7.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71Z-NOR180C.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH720-1AGK799.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH721-58ATAP.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH722-MN017MJ.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH723-DDX5BJ.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-616W6LZ1-K0K5B6-o.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"www.investor-verlag.de/\", \"www.investor-verlag.de/service/agb/\", \"www.investor-verlag.de/service/datenschutz/\"]}",
+      "id": 72,
+      "label": "sind sie bereit weitere ertr / info.newsletter-investor.de",
+      "last_seen_at": "2026-04-23 13:31:31",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:info.newsletter-investor.de; subject:sind sie bereit weitere ertr; url:info.newsletter-investor.de, lpm.fid-shop.de; family:info.newsletter-investor.de/go/2"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 60,
+      "mail_id": 44,
+      "sent_at": "2026-04-23T14:03:11.943802+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 59,
+      "mail_id": 44,
+      "sent_at": "2026-04-23T14:03:11.840345+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 58,
+      "mail_id": 43,
+      "sent_at": "2026-04-23T08:39:03.292842+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 57,
+      "mail_id": 43,
+      "sent_at": "2026-04-23T08:39:03.221409+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 56,
+      "mail_id": 42,
+      "sent_at": "2026-04-23T08:39:03.141190+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 55,
+      "mail_id": 41,
+      "sent_at": "2026-04-23T03:21:39.382285+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 54,
+      "mail_id": 41,
+      "sent_at": "2026-04-23T03:21:39.317827+00:00",
+      "severity": "warning"
+    }
+  ],
+  "alias_leak_candidates": [],
+  "alias_spikes": [],
+  "campaign_changes": [
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15547,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15546,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15545,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15544,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15543,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 30,
+      "source_label": "iPhone / iphones-geschenkt.com",
+      "target_campaign_id": 30,
+      "target_label": "iPhone / iphones-geschenkt.com"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15542,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 45,
+      "source_label": "coupon Dein Goldesel / mail.dein-golden-esel.de",
+      "target_campaign_id": 45,
+      "target_label": "coupon Dein Goldesel / mail.dein-golden-esel.de"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15541,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 43,
+      "source_label": "coupon Dein Goldesel / post.seinadventure.de",
+      "target_campaign_id": 43,
+      "target_label": "coupon Dein Goldesel / post.seinadventure.de"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15540,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 42,
+      "source_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de",
+      "target_campaign_id": 42,
+      "target_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15539,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 41,
+      "source_label": "coupon Dein Goldesel / doi.investor-verlag.de",
+      "target_campaign_id": 41,
+      "target_label": "coupon Dein Goldesel / doi.investor-verlag.de"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15538,
+      "overlap_mail_count": 4,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 26,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 26,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15537,
+      "overlap_mail_count": 10,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com",
+      "target_campaign_id": 18,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-04-23 22:00:31",
+      "id": 15536,
+      "overlap_mail_count": 21,
+      "rebuild_id": 1371,
+      "relation_type": "continued",
+      "source_campaign_id": 36,
+      "source_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "target_campaign_id": 36,
+      "target_label": "coupon Dein Goldesel / nl.maxlq.de"
+    },
+    {
+      "created_at": "2026-04-23 21:46:23",
+      "id": 15535,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1370,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-23 21:46:23",
+      "id": 15534,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1370,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-23 21:46:23",
+      "id": 15533,
+      "overlap_mail_count": 1,
+      "rebuild_id": 1370,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    }
+  ],
+  "complete_day": false,
+  "generated_at": "2026-04-23T22:08:30.885238+00:00",
+  "issue_events": [
+    {
+      "event_count": 28,
+      "event_type": "browser_reprobe.requeued",
+      "severity": "warning"
+    },
+    {
+      "event_count": 14,
+      "event_type": "browser_reprobe.failed",
+      "severity": "error"
+    },
+    {
+      "event_count": 7,
+      "event_type": "alert.sent",
+      "severity": "warning"
+    },
+    {
+      "event_count": 4,
+      "event_type": "enrich.failed_mail",
+      "severity": "error"
+    },
+    {
+      "event_count": 3,
+      "event_type": "enrich.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 3,
+      "event_type": "pipeline.completed",
+      "severity": "warning"
+    }
+  ],
+  "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"info.newsletter-investor.de\", \"signal_count\": 11, \"subject_fingerprint\": \"sind-sie-bereit-weitere-ertr\", \"url_domains\": [\"info.newsletter-investor.de\", \"lpm.fid-shop.de\", \"www.investor-verlag.de\"], \"url_families\": [\"info.newsletter-investor.de/go/2\", \"www.investor-verlag.de\", \"www.investor-verlag.de/service/agb\", \"www.investor-verlag.de/service/datenschutz\"], \"url_targets\": [\"#\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-43ODH73G-15VIUU7.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71S-1DM9191Y.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71T-SWM12UJ.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71U-J2JJTB.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71V-R8D108.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71W-4XAD8.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71X-Z0MVGO.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71Y-CU26S7.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH71Z-NOR180C.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH720-1AGK799.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH721-58ATAP.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH722-MN017MJ.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-5F9JH723-DDX5BJ.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"info.newsletter-investor.de/go/2/6UCRJUBP-4TQVE4II-616W6LZ1-K0K5B6-o.html?opt_domain=info.newsletter-investor.de&banner=SAM_378208191834&SYS=551&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=312858948943&utm_medium=email&utm_campaign=378208191834&opt_mandator=311505762466&bmMailId=6UCRJUBP-4TQVE4II-189KIEV\", \"www.investor-verlag.de/\", \"www.investor-verlag.de/service/agb/\", \"www.investor-verlag.de/service/datenschutz/\"]}",
+      "first_seen_at": "2026-04-23 13:31:31",
+      "id": 72,
+      "label": "sind sie bereit weitere ertr / info.newsletter-investor.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:info.newsletter-investor.de; subject:sind sie bereit weitere ertr; url:info.newsletter-investor.de, lpm.fid-shop.de; family:info.newsletter-investor.de/go/2"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 10, \"subject_fingerprint\": \"wie-starte-ich-wieder-dem-walking\", \"url_domains\": [\"lpm.computerwissen-verlag.de\", \"lpm.maxlq.de\", \"lpm.mein-nachlass-manager.de\", \"lpm.wellpursan.pl-x.de\", \"nl.maxlq.de\", \"nlv-maxlq.de\", \"pixelio.net\", \"t.me\", \"webinar.pl-x.de\", \"www.facebook.com\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\", \"www.gettyimages.de\", \"www.whatsapp.com\"], \"url_families\": [\"maxlq.de\", \"nl.maxlq.de/go/9\"], \"url_targets\": [\"#182137\", \"#185496\", \"#i572028\", \"#i572731\", \"mailto:kundenservice@maxLQ.de\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-3N8NFF5T-ZYP7PM.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-3RWE5DF7-J0YRY5.html?bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-3XQ8MBY7-9WSLGL.php?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-3XQ8MBY9-YWRYNP.php?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-5SZTUM4O-F4PX2M.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-5SZTUM4P-60F1172.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-5XA9ETA7-1BV81ALY-o.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6G2YUTK4-VPL11G3.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCF-MOAASW.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCG-NFJ11ZJ.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCH-1DMKS2K.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCI-1CW13F9.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCJ-19FV2F2.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6GDBWLCL-BURVYX.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6P7CFJA4-1CWMGR3.html?banner=Z8_S3520_M535699808302_FM&bmmailid=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_campaign=535699808302&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6SJXPM9P-3S619WO.html?opt_domain=nl.maxlq.de&banner=SAM_535699808302&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=535699808302&opt_mandator=277376598395&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6TX9USLT-13TH15UQ.html?banner=Z2_A183222_M535699808302_T67_G2_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6TYQHMXX-B91TLB.html?banner=Z31_A186711_M535699808302_T67_G2_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U3HU1IO-18ULI2F.html?opt_mandator=277376598395&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U3HU1IP-QF7KI4.html?opt_mandator=277376598395&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U3HU1IQ-A0F4HR.html?opt_mandator=277376598395&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U96B51Q-I3C19PZ.html?banner=Z5_A182137_M535699808302_T67_G1_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6U96TVNL-1EEMUH3.html?banner=Z4_A185496_M535699808302_T67_G1_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6UAFI3FR-1A2HON7.html?banner=Z1_A175045_M535699808302_T67_G1_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/9/6UBWMT7I-6U3HU1IM-6UAFI3FS-2T4EBF.html?banner=Z3_A185832_M535699808302_T67_G1_FM&utm_campaign=535699808302&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UBWMT7I-6U3HU1IM-JAC73A&bmMailId=6UBWMT7I-6U3HU1IM-JAC73A&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\"]}",
+      "first_seen_at": "2026-04-23 07:16:31",
+      "id": 71,
+      "label": "wie starte ich wieder dem walking / nl.maxlq.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:wie starte ich wieder dem walking; url:lpm.computerwissen-verlag.de, lpm.maxlq.de; family:maxlq.de"
+    },
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 11, \"subject_fingerprint\": \"haben-sie-dieses-angebot-verpasst-einer\", \"url_domains\": [\"lpm.maxlq.de\", \"nl.maxlq.de\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\"], \"url_families\": [\"nl.maxlq.de/go/4\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de\"], \"url_targets\": [\"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJK-15Z4LVK.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJL-EJ31E1D.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJM-1DLHW1.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJN-15PQO3O.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJO-162E3KU.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJP-9F1HSD.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5OI6GIJQ-45DYK6.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"nl.maxlq.de/go/4/6UBM7BV1-4WWLTOBZ-5XA9ETA7-12BX6UP-o.html?opt_domain=nl.maxlq.de&banner=SAM_385085265263&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=385085265263&opt_mandator=277376598395&bmMailid=6UBM7BV1-4WWLTOBZ-12FPF0M\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de/\"]}",
+      "first_seen_at": "2026-04-23 03:01:11",
+      "id": 70,
+      "label": "haben sie dieses angebot verpasst einer / nl.maxlq.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:haben sie dieses angebot verpasst einer; url:lpm.maxlq.de, nl.maxlq.de; family:nl.maxlq.de/go/4"
+    }
+  ],
+  "new_domains": [
+    {
+      "domain": "gesundheitswissen.de",
+      "first_seen_at": "2026-04-23 08:15:18",
+      "mail_count": 1
+    }
+  ],
+  "notable_mails": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 43,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "\"Wie starte ich wieder mit dem Walking?\"",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 42,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "Letzte Chance, Ihr Depot vor der Erbschaftssteuer zu sch\u00fctzen",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 41,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "Haben Sie dieses Angebot verpasst? Mit einer solchen Resonanz habe ich wirklich nicht gerechnet!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 44,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "yara_result": "clean"
+    }
+  ],
+  "novel_lure_candidates": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 43,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "\"Wie starte ich wieder mit dem Walking?\"",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 42,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "Letzte Chance, Ihr Depot vor der Erbschaftssteuer zu sch\u00fctzen",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 41,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "Haben Sie dieses Angebot verpasst? Mit einer solchen Resonanz habe ich wirklich nicht gerechnet!",
+      "yara_result": "clean"
+    },
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 44,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "yara_result": "clean"
+    }
+  ],
+  "report_date": "2026-04-23",
+  "report_timezone": "UTC",
+  "similarity_pairs": [
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 43,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0; img:90f4aeb05868; regdom:fid-verlag.de, google.com",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "\"Wie starte ich wieder mit dem Walking?\""
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 42,
+      "signals": "from:info.newsletter-investor.de; url:info.newsletter-investor.de, lpm.fid-shop.de; redirect:adssettings.google.com, info.newsletter-investor.de; asset-content:4680a01662e0",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "Letzte Chance, Ihr Depot vor der Erbschaftssteuer zu sch\u00fctzen"
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 41,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-pattern:{hex}_{n}.jpg, {hex}_{n}.png; asset-content:4680a01662e0; img:90f4aeb05868",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "Haben Sie dieses Angebot verpasst? Mit einer solchen Resonanz habe ich wirklich nicht gerechnet!"
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 40,
+      "signals": "from:info.newsletter-investor.de; target:#, www.investor-verlag.de/; url:info.newsletter-investor.de, lpm.fid-shop.de; redirect-chain:info.newsletter-investor.de > fonts.gstatic.com > gstatic.com > www.gstatic.com > fonts.googleapis.com, info.newsletter-investor.de > lpm.fid-shop.de",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "Gratis Buch f\u00fcr Sie"
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 39,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0; img:90f4aeb05868; regdom:fid-verlag.de, google.com",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "So sch\u00fctzen Sie sich wirklich effektiv vor Fu\u00dfpilz"
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 38,
+      "signals": "from:info.newsletter-investor.de; family:info.newsletter-investor.de/go/2; url:info.newsletter-investor.de, lpm.fid-shop.de; redirect-chain:info.newsletter-investor.de > lpm.fid-shop.de",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "Wenn KI-Agenten selbst bezahlen!"
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "info.maxlq-news.de",
+      "mail_id": 37,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-pattern:{hex}_{n}.png; asset-content:4680a01662e0; img:90f4aeb05868",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "simon.brandt@itb-relay.de steht auch Ihr Medikament auf der Liste der \u201everbotenen\u201c Medikamente?"
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "mail.newsletter-investor.de",
+      "mail_id": 36,
+      "signals": "url:www.investor-verlag.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0; img:2b77496a8921, 3b33c7e45631",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "Wer noch auf KI-Aktien setzt, riskiert Verluste"
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 35,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-pattern:{hex}_{n}.png; asset-content:4680a01662e0; img:90f4aeb05868",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "Achtung: Ihr Wunder\u00fcbungs-PDF liegt noch zum Download bereit"
+    },
+    {
+      "computed_at": "2026-04-23 14:29:57",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 34,
+      "signals": "from:info.newsletter-investor.de; target:#, www.investor-verlag.de/; url:info.newsletter-investor.de, lpm.fid-shop.de; redirect-chain:info.newsletter-investor.de > fonts.gstatic.com > gstatic.com > www.gstatic.com > fonts.googleapis.com, info.newsletter-investor.de > lpm.fid-shop.de",
+      "similar_from_domain": "info.newsletter-investor.de",
+      "similar_mail_id": 44,
+      "similar_subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?",
+      "similarity_score": 100,
+      "subject": "Bitcoin-Million\u00e4r werden? Dieses Buch zeigt Ihnen den Weg"
+    }
+  ],
+  "suspicious_aliases": [
+    {
+      "alias_label": "simon.brandt@itb-relay.de",
+      "mail_count": 4,
+      "max_risk_score": 35,
+      "max_spam_score": -4.8,
+      "sender_domain_count": 2
+    }
+  ],
+  "top_domains": [
+    {
+      "domain": "2x.png",
+      "mail_count": 4
+    },
+    {
+      "domain": "accengage.com",
+      "mail_count": 4
+    },
+    {
+      "domain": "adup-tech.com",
+      "mail_count": 4
+    },
+    {
+      "domain": "airship.com",
+      "mail_count": 4
+    },
+    {
+      "domain": "as-dialoggroup.de",
+      "mail_count": 4
+    },
+    {
+      "domain": "criteo.com",
+      "mail_count": 4
+    },
+    {
+      "domain": "dd29936.kasserver.com",
+      "mail_count": 4
+    },
+    {
+      "domain": "dianomi.com",
+      "mail_count": 4
+    },
+    {
+      "domain": "eco.de",
+      "mail_count": 4
+    },
+    {
+      "domain": "episerver.com",
+      "mail_count": 4
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "info.newsletter-investor.de",
+      "mail_count": 2
+    },
+    {
+      "domain": "nl.maxlq.de",
+      "mail_count": 2
+    }
+  ],
+  "totals": {
+    "active_cluster_count": 4,
+    "alert_count": 7,
+    "alias_leak_candidate_count": 0,
+    "alias_spike_count": 0,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 4,
+    "attachment_count": 0,
+    "avg_risk_score": 35.0,
+    "avg_spam_score": -4.83,
+    "campaign_change_count": 3389,
+    "campaign_count": 1,
+    "distinct_domain_count": 38,
+    "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
+    "high_risk_cluster_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 4,
+    "max_risk_score": 35,
+    "max_spam_score": -4.8,
+    "new_cluster_count": 3,
+    "new_domain_count": 1,
+    "novel_lure_candidate_count": 4,
+    "parse_error_count": 0,
+    "similarity_pair_count": 67,
+    "url_count": 129
+  },
+  "window_end_local": "2026-04-23T22:08:30.854059+00:00",
+  "window_end_utc": "2026-04-23T22:08:30.854059+00:00",
+  "window_start_local": "2026-04-23T00:00:00+00:00",
+  "window_start_utc": "2026-04-23T00:00:00+00:00"
+}
