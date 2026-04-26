@@ -1,0 +1,476 @@
+{
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 28, \"cluster_ids\": [35, 44, 51, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80], \"from_domains\": [\"nl.maxlq.de\", \"info.newsletter-investor.de\", \"sam.newsletter-investor.de\"], \"mail_count\": 29, \"mail_ids\": [18, 21, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], \"max_risk_score\": 39, \"similarity_edge_count\": 353, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\"}",
+      "generated_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "id": 36,
+      "label": "coupon Dein Goldesel / nl.maxlq.de",
+      "last_seen_at": "2026-04-26 03:01:31",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:herzlich willkommen bei millers krypto radar; from:nl.maxlq.de, info.newsletter-investor.de; clusters:28; edges:353; hint:coupon Dein Goldesel"
+    }
+  ],
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 11, \"subject_fingerprint\": \"diese-bungen-wirken-besser-als-jedes\", \"url_domains\": [\"kpc.wirtschaftswissen.de\", \"lpm.maxlq.de\", \"nl.maxlq.de\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\"], \"url_families\": [\"nl.maxlq.de/go/15\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de\"], \"url_targets\": [\"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-4KUTIWS6-14K0BT8.html?bmMailId=6UGFZ7OF-62SGXKON-FWG17U8&opt_mandator=277376598395&opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-5XA9ETA7-CWLQ37-o.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNQ-FVPZKL.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNR-176NH66.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNS-5RYP6Y.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNT-1BM711N1.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNU-1CQG1BWR.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNV-WE0P01.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNW-19DBEGZ.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNX-YT14KA.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNY-2JX12WX.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNZ-74O1M8.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO0-EEA8M3.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO1-C291DR8.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO2-TK1CUU.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO3-M6913ZG.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO4-15CC14DM.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO5-393SM0.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO6-1B6H5QI.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO7-P0B15RP.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO8-1DHV3FU.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO9-2R6F4T.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOA-Y2TU24.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOB-148OU1K.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOC-ZB512GJ.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOD-4SHRH6.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOE-5YS10UV.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOF-188MSHO.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOG-DGP51I.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOH-12LL184G.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOI-13D7QTY.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOJ-15HQLV.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOK-ONRE3I.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOL-PBUG34.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOM-FNX6ZZ.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de/\"]}",
+      "id": 80,
+      "label": "diese bungen wirken besser als jedes / nl.maxlq.de",
+      "last_seen_at": "2026-04-26 03:01:31",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:diese bungen wirken besser als jedes; url:kpc.wirtschaftswissen.de, lpm.maxlq.de; family:nl.maxlq.de/go/15"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 75,
+      "mail_id": 52,
+      "sent_at": "2026-04-26T04:13:40.773103+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 74,
+      "mail_id": 52,
+      "sent_at": "2026-04-26T04:13:39.260878+00:00",
+      "severity": "warning"
+    }
+  ],
+  "alias_leak_candidates": [],
+  "alias_spikes": [],
+  "campaign_changes": [
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24079,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24078,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24077,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24076,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24075,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 30,
+      "source_label": "iPhone / iphones-geschenkt.com",
+      "target_campaign_id": 30,
+      "target_label": "iPhone / iphones-geschenkt.com"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24074,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 45,
+      "source_label": "coupon Dein Goldesel / mail.dein-golden-esel.de",
+      "target_campaign_id": 45,
+      "target_label": "coupon Dein Goldesel / mail.dein-golden-esel.de"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24073,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 43,
+      "source_label": "coupon Dein Goldesel / post.seinadventure.de",
+      "target_campaign_id": 43,
+      "target_label": "coupon Dein Goldesel / post.seinadventure.de"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24072,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 42,
+      "source_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de",
+      "target_campaign_id": 42,
+      "target_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24071,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 41,
+      "source_label": "coupon Dein Goldesel / doi.investor-verlag.de",
+      "target_campaign_id": 41,
+      "target_label": "coupon Dein Goldesel / doi.investor-verlag.de"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24070,
+      "overlap_mail_count": 4,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 26,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 26,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24069,
+      "overlap_mail_count": 10,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com",
+      "target_campaign_id": 18,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-04-26 22:01:13",
+      "id": 24068,
+      "overlap_mail_count": 29,
+      "rebuild_id": 2082,
+      "relation_type": "continued",
+      "source_campaign_id": 36,
+      "source_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "target_campaign_id": 36,
+      "target_label": "coupon Dein Goldesel / nl.maxlq.de"
+    },
+    {
+      "created_at": "2026-04-26 21:46:31",
+      "id": 24067,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2081,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-26 21:46:31",
+      "id": 24066,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2081,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-26 21:46:31",
+      "id": 24065,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2081,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    }
+  ],
+  "complete_day": false,
+  "generated_at": "2026-04-26T22:02:31.041994+00:00",
+  "issue_events": [
+    {
+      "event_count": 2,
+      "event_type": "alert.sent",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "browser_reprobe.requeued",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "enrich.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "enrich.failed_mail",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "pipeline.completed",
+      "severity": "warning"
+    }
+  ],
+  "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 11, \"subject_fingerprint\": \"diese-bungen-wirken-besser-als-jedes\", \"url_domains\": [\"kpc.wirtschaftswissen.de\", \"lpm.maxlq.de\", \"nl.maxlq.de\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\"], \"url_families\": [\"nl.maxlq.de/go/15\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de\"], \"url_targets\": [\"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-4KUTIWS6-14K0BT8.html?bmMailId=6UGFZ7OF-62SGXKON-FWG17U8&opt_mandator=277376598395&opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-5XA9ETA7-CWLQ37-o.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNQ-FVPZKL.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNR-176NH66.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNS-5RYP6Y.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNT-1BM711N1.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNU-1CQG1BWR.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNV-WE0P01.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNW-19DBEGZ.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNX-YT14KA.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNY-2JX12WX.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKNZ-74O1M8.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO0-EEA8M3.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO1-C291DR8.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO2-TK1CUU.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO3-M6913ZG.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO4-15CC14DM.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO5-393SM0.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO6-1B6H5QI.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO7-P0B15RP.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO8-1DHV3FU.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKO9-2R6F4T.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOA-Y2TU24.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOB-148OU1K.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOC-ZB512GJ.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOD-4SHRH6.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOE-5YS10UV.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOF-188MSHO.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOG-DGP51I.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOH-12LL184G.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOI-13D7QTY.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOJ-15HQLV.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOK-ONRE3I.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOL-PBUG34.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"nl.maxlq.de/go/15/6UGFZ7OF-62SGXKON-62SGXKOM-FNX6ZZ.html?opt_domain=nl.maxlq.de&banner=SAM_476260042487&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=476260042487&opt_mandator=277376598395&bmMailid=6UGFZ7OF-62SGXKON-FWG17U8\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de/\"]}",
+      "first_seen_at": "2026-04-26 03:01:31",
+      "id": 80,
+      "label": "diese bungen wirken besser als jedes / nl.maxlq.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:diese bungen wirken besser als jedes; url:kpc.wirtschaftswissen.de, lpm.maxlq.de; family:nl.maxlq.de/go/15"
+    }
+  ],
+  "new_domains": [],
+  "notable_mails": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 52,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "yara_result": "clean"
+    }
+  ],
+  "novel_lure_candidates": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 52,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "yara_result": "clean"
+    }
+  ],
+  "report_date": "2026-04-26",
+  "report_timezone": "UTC",
+  "similarity_pairs": [
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 51,
+      "signals": "url:kpc.wirtschaftswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-pattern:{hex}_{n}.jpg, {hex}_{n}.png; asset-content:4680a01662e0",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Weltpremiere f\u00fcr Privatanleger"
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 50,
+      "signals": "from:nl.maxlq.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > lpm.maxlq.de, www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Mit meiner Checkliste finden Sie den perfekten Laufschuh"
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 49,
+      "signals": "from:nl.maxlq.de; target:www.fid-verlag.de/agb.php, www.fid-verlag.de/datenschutz.php; url:kpc.wirtschaftswissen.de, lpm.maxlq.de; redirect-chain:nl.maxlq.de > lpm.maxlq.de, nl.maxlq.de > lpm.maxlq.de > nl.maxlq.de > lpm.maxlq.de > nl.maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Wichtig: Ihr Anti-Demenz-Paket liegt bereit, simon.brandt@itb-relay.de"
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 48,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-pattern:{hex}_{n}.jpg, {hex}_{n}.png; asset-content:4680a01662e0; img:90f4aeb05868",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Entdecken Sie die spannende M\u00f6glichkeit im digitalen W\u00e4hrungsmarkt"
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 47,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0; img:90f4aeb05868; regdom:fid-verlag.de, google.com",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Bankwechsel wegen Krypto!"
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 46,
+      "signals": "url:kpc.wirtschaftswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-pattern:{hex}_{n}.jpg, {hex}_{n}.png; asset-content:4680a01662e0",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Ihr 1. Gewinn ist bereits terminiert"
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 45,
+      "signals": "from:nl.maxlq.de; target:www.fid-verlag.de/agb.php, www.fid-verlag.de/datenschutz.php; url:kpc.wirtschaftswissen.de, lpm.maxlq.de; redirect-chain:nl.maxlq.de > lpm.maxlq.de, nl.maxlq.de > lpm.maxlq.de > nl.maxlq.de > lpm.maxlq.de > nl.maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Haben Sie einen Stuhl zuhause?"
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 44,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-pattern:{hex}_{n}.jpg, {hex}_{n}.png; asset-content:4680a01662e0; img:90f4aeb05868",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Sind Sie bereit f\u00fcr weitere Ertr\u00e4ge?"
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 43,
+      "signals": "from:nl.maxlq.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > lpm.maxlq.de, www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "\"Wie starte ich wieder mit dem Walking?\""
+    },
+    {
+      "computed_at": "2026-04-26 04:14:59",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 42,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0; img:90f4aeb05868; regdom:fid-verlag.de, google.com",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 52,
+      "similar_subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!",
+      "similarity_score": 100,
+      "subject": "Letzte Chance, Ihr Depot vor der Erbschaftssteuer zu sch\u00fctzen"
+    }
+  ],
+  "suspicious_aliases": [],
+  "top_domains": [
+    {
+      "domain": "2x.png",
+      "mail_count": 1
+    },
+    {
+      "domain": "accengage.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "adup-tech.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "airship.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "as-dialoggroup.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "criteo.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "das-schulleitungsportal.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "dd29936.kasserver.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "dianomi.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "eco.de",
+      "mail_count": 1
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "nl.maxlq.de",
+      "mail_count": 1
+    }
+  ],
+  "totals": {
+    "active_cluster_count": 1,
+    "alert_count": 2,
+    "alias_leak_candidate_count": 0,
+    "alias_spike_count": 0,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 1,
+    "attachment_count": 0,
+    "avg_risk_score": 35.0,
+    "avg_spam_score": -4.9,
+    "campaign_change_count": 1656,
+    "campaign_count": 1,
+    "distinct_domain_count": 28,
+    "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
+    "high_risk_cluster_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 1,
+    "max_risk_score": 35,
+    "max_spam_score": -4.9,
+    "new_cluster_count": 1,
+    "new_domain_count": 0,
+    "novel_lure_candidate_count": 1,
+    "parse_error_count": 0,
+    "similarity_pair_count": 26,
+    "url_count": 53
+  },
+  "window_end_local": "2026-04-26T22:02:31.011448+00:00",
+  "window_end_utc": "2026-04-26T22:02:31.011448+00:00",
+  "window_start_local": "2026-04-26T00:00:00+00:00",
+  "window_start_utc": "2026-04-26T00:00:00+00:00"
+}
