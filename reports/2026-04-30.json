@@ -1,0 +1,487 @@
+{
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 33, \"cluster_ids\": [35, 44, 51, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85], \"from_domains\": [\"nl.maxlq.de\", \"info.newsletter-investor.de\", \"sam.newsletter-investor.de\"], \"mail_count\": 34, \"mail_ids\": [18, 21, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57], \"max_risk_score\": 39, \"similarity_edge_count\": 498, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\"}",
+      "generated_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "id": 36,
+      "label": "coupon Dein Goldesel / nl.maxlq.de",
+      "last_seen_at": "2026-04-30 07:16:55",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:herzlich willkommen bei millers krypto radar; from:nl.maxlq.de, info.newsletter-investor.de; clusters:33; edges:498; hint:coupon Dein Goldesel"
+    }
+  ],
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 10, \"subject_fingerprint\": \"massage-ball-entspannung-aktivierung-zugleich\", \"url_domains\": [\"apfelessig-balance.de\", \"lpm.maxlq.de\", \"nl.maxlq.de\", \"nlv-maxlq.de\", \"pixelio.net\", \"t.me\", \"webinar.pl-x.de\", \"www.facebook.com\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\", \"www.gettyimages.de\", \"www.whatsapp.com\"], \"url_families\": [\"maxlq.de\", \"nl.maxlq.de/go/10\"], \"url_targets\": [\"#168527\", \"#183240\", \"#i572028\", \"#i572731\", \"mailto:kundenservice@maxLQ.de\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-3N8NFF5T-R6J9NE.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-3RWE5DF7-OY7Z4M.html?bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-3XQ8MBY7-RJWL01.php?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-3XQ8MBY9-R25DQR.php?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-5SZTUM4O-N4UNCR.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-5SZTUM4P-BB3109.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-5XA9ETA7-4E84IM-o.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6G2YUTK4-6CIIJW.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCF-1E2L19X2.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCG-DL1KUG.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCH-1TOG5Y.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCI-I221107.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCJ-R0I1DJZ.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCL-14DYOLT.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6P7CFJA4-1CO34WJ.html?banner=Z8_S3520_M536366892417_FM&bmmailid=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_campaign=536366892417&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6PFPEDJE-MOW1IL.html?banner=Z5_A168527_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6QV3WOLX-115WUW8.html?attributes%5Bref%5D=Z31_A182610_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6SJXPM9P-1328ZPI.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6TCADK10-P091ADI.html?banner=Z1_A185265_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6TVMBS49-164GCO8.html?banner=Z3_A186175_M536366892417_T67_G2_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6TYQHMXY-16OCAD.html?banner=Z2_A185638_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS12-15IV19S.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS13-9J012HL.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS14-VD1VQA.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS15-100QEEJ.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS16-1531DTB.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6ULW26X2-LD81CHF.html?banner=Z4_A183240_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\"]}",
+      "id": 85,
+      "label": "massage ball entspannung aktivierung zugleich / nl.maxlq.de",
+      "last_seen_at": "2026-04-30 07:16:55",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:massage ball entspannung aktivierung zugleich; url:apfelessig-balance.de, lpm.maxlq.de; family:maxlq.de"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 85,
+      "mail_id": 57,
+      "sent_at": "2026-04-30T08:02:48.917838+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 84,
+      "mail_id": 57,
+      "sent_at": "2026-04-30T08:02:48.833707+00:00",
+      "severity": "warning"
+    }
+  ],
+  "alias_leak_candidates": [],
+  "alias_spikes": [],
+  "campaign_changes": [
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32863,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32862,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32861,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32860,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32859,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 30,
+      "source_label": "iPhone / iphones-geschenkt.com",
+      "target_campaign_id": 30,
+      "target_label": "iPhone / iphones-geschenkt.com"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32858,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 45,
+      "source_label": "coupon Dein Goldesel / mail.dein-golden-esel.de",
+      "target_campaign_id": 45,
+      "target_label": "coupon Dein Goldesel / mail.dein-golden-esel.de"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32857,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 43,
+      "source_label": "coupon Dein Goldesel / post.seinadventure.de",
+      "target_campaign_id": 43,
+      "target_label": "coupon Dein Goldesel / post.seinadventure.de"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32856,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 42,
+      "source_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de",
+      "target_campaign_id": 42,
+      "target_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32855,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 41,
+      "source_label": "coupon Dein Goldesel / doi.investor-verlag.de",
+      "target_campaign_id": 41,
+      "target_label": "coupon Dein Goldesel / doi.investor-verlag.de"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32854,
+      "overlap_mail_count": 4,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 26,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 26,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32853,
+      "overlap_mail_count": 10,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com",
+      "target_campaign_id": 18,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-04-30 22:00:51",
+      "id": 32852,
+      "overlap_mail_count": 34,
+      "rebuild_id": 2814,
+      "relation_type": "continued",
+      "source_campaign_id": 36,
+      "source_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "target_campaign_id": 36,
+      "target_label": "coupon Dein Goldesel / nl.maxlq.de"
+    },
+    {
+      "created_at": "2026-04-30 21:45:55",
+      "id": 32851,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2813,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-04-30 21:45:55",
+      "id": 32850,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2813,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-04-30 21:45:55",
+      "id": 32849,
+      "overlap_mail_count": 1,
+      "rebuild_id": 2813,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    }
+  ],
+  "complete_day": false,
+  "generated_at": "2026-04-30T22:09:01.422711+00:00",
+  "issue_events": [
+    {
+      "event_count": 17,
+      "event_type": "browser_reprobe.requeued",
+      "severity": "warning"
+    },
+    {
+      "event_count": 8,
+      "event_type": "browser_reprobe.failed",
+      "severity": "error"
+    },
+    {
+      "event_count": 2,
+      "event_type": "alert.sent",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "enrich.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "enrich.failed_mail",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "pipeline.completed",
+      "severity": "warning"
+    }
+  ],
+  "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 10, \"subject_fingerprint\": \"massage-ball-entspannung-aktivierung-zugleich\", \"url_domains\": [\"apfelessig-balance.de\", \"lpm.maxlq.de\", \"nl.maxlq.de\", \"nlv-maxlq.de\", \"pixelio.net\", \"t.me\", \"webinar.pl-x.de\", \"www.facebook.com\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\", \"www.gettyimages.de\", \"www.whatsapp.com\"], \"url_families\": [\"maxlq.de\", \"nl.maxlq.de/go/10\"], \"url_targets\": [\"#168527\", \"#183240\", \"#i572028\", \"#i572731\", \"mailto:kundenservice@maxLQ.de\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-3N8NFF5T-R6J9NE.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-3RWE5DF7-OY7Z4M.html?bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-3XQ8MBY7-RJWL01.php?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-3XQ8MBY9-R25DQR.php?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-5SZTUM4O-N4UNCR.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-5SZTUM4P-BB3109.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-5XA9ETA7-4E84IM-o.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6G2YUTK4-6CIIJW.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCF-1E2L19X2.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCG-DL1KUG.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCH-1TOG5Y.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCI-I221107.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCJ-R0I1DJZ.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6GDBWLCL-14DYOLT.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6P7CFJA4-1CO34WJ.html?banner=Z8_S3520_M536366892417_FM&bmmailid=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_campaign=536366892417&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6PFPEDJE-MOW1IL.html?banner=Z5_A168527_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6QV3WOLX-115WUW8.html?attributes%5Bref%5D=Z31_A182610_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6SJXPM9P-1328ZPI.html?opt_domain=nl.maxlq.de&banner=SAM_536366892417&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=536366892417&opt_mandator=277376598395&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6TCADK10-P091ADI.html?banner=Z1_A185265_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6TVMBS49-164GCO8.html?banner=Z3_A186175_M536366892417_T67_G2_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6TYQHMXY-16OCAD.html?banner=Z2_A185638_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS12-15IV19S.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS13-9J012HL.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS14-VD1VQA.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS15-100QEEJ.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6UEJCS16-1531DTB.html?opt_mandator=277376598395&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH\", \"nl.maxlq.de/go/10/6UN9JO26-6UEIZYWX-6ULW26X2-LD81CHF.html?banner=Z4_A183240_M536366892417_T67_G1_FM&utm_campaign=536366892417&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6UN9JO26-6UEIZYWX-H2J6QH&bmMailId=6UN9JO26-6UEIZYWX-H2J6QH&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\"]}",
+      "first_seen_at": "2026-04-30 07:16:55",
+      "id": 85,
+      "label": "massage ball entspannung aktivierung zugleich / nl.maxlq.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:massage ball entspannung aktivierung zugleich; url:apfelessig-balance.de, lpm.maxlq.de; family:maxlq.de"
+    }
+  ],
+  "new_domains": [
+    {
+      "domain": "fid-gesundheitswissen.de",
+      "first_seen_at": "2026-04-30 07:28:40",
+      "mail_count": 1
+    }
+  ],
+  "notable_mails": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 57,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "yara_result": "clean"
+    }
+  ],
+  "novel_lure_candidates": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 57,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "yara_result": "clean"
+    }
+  ],
+  "report_date": "2026-04-30",
+  "report_timezone": "UTC",
+  "similarity_pairs": [
+    {
+      "computed_at": "2026-04-30 08:23:17",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 56,
+      "signals": "from:nl.maxlq.de; target:#183240, #i572731; url:apfelessig-balance.de, lpm.maxlq.de; redirect-chain:nl.maxlq.de > apfelessig-balance.de, nl.maxlq.de > google.com > www.google.com > www.microsoft.com > webinar.pl-x.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Wie Sie mit PECH die Heilung bei Verletzungen f\u00f6rdern"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:17",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 55,
+      "signals": "from:nl.maxlq.de; target:#i572731, mailto:kundenservice@maxLQ.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > google.com > www.google.com > www.microsoft.com > webinar.pl-x.de, nl.maxlq.de > join > telegram.org > t.me",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Starker R\u00fccken mit starkem Rumpf und starken Beinen!"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:17",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 54,
+      "signals": "from:nl.maxlq.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > lpm.maxlq.de, www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Perfekter Blutdruck in 30 Tagen!"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:17",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 53,
+      "signals": "from:nl.maxlq.de; target:#i572731, mailto:kundenservice@maxLQ.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > google.com > www.google.com > www.microsoft.com > webinar.pl-x.de, nl.maxlq.de > join > telegram.org > t.me",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Eine runde Sache: Ein einfacher Ball - gro\u00dfer Effekt!"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:16",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 52,
+      "signals": "from:nl.maxlq.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > lpm.maxlq.de, www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Diese 12 \u00dcbungen wirken besser als jedes Rezept!"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:16",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 51,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0; img:90f4aeb05868; regdom:fid-verlag.de, google.com",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Weltpremiere f\u00fcr Privatanleger"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:16",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 50,
+      "signals": "from:nl.maxlq.de; target:#i572731, mailto:kundenservice@maxLQ.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > google.com > www.google.com > www.microsoft.com > webinar.pl-x.de, nl.maxlq.de > join > telegram.org > t.me",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Mit meiner Checkliste finden Sie den perfekten Laufschuh"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:16",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 49,
+      "signals": "from:nl.maxlq.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > lpm.maxlq.de, www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Wichtig: Ihr Anti-Demenz-Paket liegt bereit, simon.brandt@itb-relay.de"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:16",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 48,
+      "signals": "redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0; img:90f4aeb05868; regdom:fid-verlag.de, google.com",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Entdecken Sie die spannende M\u00f6glichkeit im digitalen W\u00e4hrungsmarkt"
+    },
+    {
+      "computed_at": "2026-04-30 08:23:16",
+      "from_domain": "info.newsletter-investor.de",
+      "mail_id": 47,
+      "signals": "target:#i572731; url:webinar.pl-x.de, www.facebook.com; redirect:about.meta.com, adssettings.google.com; asset-pattern:{hex}.jpg, {hex}.png",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 57,
+      "similar_subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich",
+      "similarity_score": 100,
+      "subject": "Bankwechsel wegen Krypto!"
+    }
+  ],
+  "suspicious_aliases": [],
+  "top_domains": [
+    {
+      "domain": "10um10.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "2x.png",
+      "mail_count": 1
+    },
+    {
+      "domain": "accengage.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "adup-tech.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "airship.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "as-dialoggroup.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "criteo.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "das-schulleitungsportal.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "dd29936.kasserver.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "dianomi.com",
+      "mail_count": 1
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "nl.maxlq.de",
+      "mail_count": 1
+    }
+  ],
+  "totals": {
+    "active_cluster_count": 1,
+    "alert_count": 2,
+    "alias_leak_candidate_count": 0,
+    "alias_spike_count": 0,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 1,
+    "attachment_count": 0,
+    "avg_risk_score": 35.0,
+    "avg_spam_score": -4.8,
+    "campaign_change_count": 2100,
+    "campaign_count": 1,
+    "distinct_domain_count": 31,
+    "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
+    "high_risk_cluster_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 1,
+    "max_risk_score": 35,
+    "max_spam_score": -4.8,
+    "new_cluster_count": 1,
+    "new_domain_count": 1,
+    "novel_lure_candidate_count": 1,
+    "parse_error_count": 0,
+    "similarity_pair_count": 31,
+    "url_count": 50
+  },
+  "window_end_local": "2026-04-30T22:09:01.377481+00:00",
+  "window_end_utc": "2026-04-30T22:09:01.377481+00:00",
+  "window_start_local": "2026-04-30T00:00:00+00:00",
+  "window_start_utc": "2026-04-30T00:00:00+00:00"
+}
