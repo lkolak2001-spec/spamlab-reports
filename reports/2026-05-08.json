@@ -1,0 +1,471 @@
+{
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 40, \"cluster_ids\": [35, 44, 51, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 92, 93], \"from_domains\": [\"nl.maxlq.de\", \"info.newsletter-investor.de\", \"newsletter.maxlq.de\"], \"mail_count\": 43, \"mail_ids\": [18, 21, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 65, 66, 67], \"max_risk_score\": 39, \"similarity_edge_count\": 824, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\"}",
+      "generated_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "id": 36,
+      "label": "coupon Dein Goldesel / nl.maxlq.de",
+      "last_seen_at": "2026-05-08 08:32:05",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:herzlich willkommen bei millers krypto radar; from:nl.maxlq.de, info.newsletter-investor.de; clusters:40; edges:824; hint:coupon Dein Goldesel"
+    }
+  ],
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"newsletter.maxlq.de\", \"signal_count\": 11, \"subject_fingerprint\": \"minuten-altersvorsorge-ihre-letzte-chance\", \"url_domains\": [\"consent.google.com\", \"lpm.maxlq.de\", \"newsletter.maxlq.de\", \"premium.maxlq.de\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\", \"www.w3.org\"], \"url_families\": [\"gesundheitswissen.de\", \"newsletter.maxlq.de/go/1\", \"tel\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de\"], \"url_targets\": [\"mailto:kundenservice@gesundheitswissen.de\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-3VWE6PFL-FJN10ON-o.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-466TGZWL-1ALENZR.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-5G2PGPCS-J6M7L5.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-5G2PGPCT-7MXYZT.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-5G2PGPD7-VCAV51.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-5XNB0192-P9IG01.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-6CQ7NVOZ-19698ZU.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-6CQ7NVP0-VS9JEP.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-6CQ7NVP1-LCO1CO0.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"tel:+492289550420\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de/\"]}",
+      "id": 93,
+      "label": "minuten altersvorsorge ihre letzte chance / newsletter.maxlq.de",
+      "last_seen_at": "2026-05-08 08:32:05",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:newsletter.maxlq.de; subject:minuten altersvorsorge ihre letzte chance; url:consent.google.com, lpm.maxlq.de; family:gesundheitswissen.de"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 102,
+      "mail_id": 67,
+      "sent_at": "2026-05-08T08:54:35.739006+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 101,
+      "mail_id": 67,
+      "sent_at": "2026-05-08T08:54:35.666260+00:00",
+      "severity": "warning"
+    }
+  ],
+  "alias_leak_candidates": [],
+  "alias_spikes": [],
+  "campaign_changes": [
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50642,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50641,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50640,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50639,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50638,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 30,
+      "source_label": "iPhone / iphones-geschenkt.com",
+      "target_campaign_id": 30,
+      "target_label": "iPhone / iphones-geschenkt.com"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50637,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 45,
+      "source_label": "coupon Dein Goldesel / mail.dein-golden-esel.de",
+      "target_campaign_id": 45,
+      "target_label": "coupon Dein Goldesel / mail.dein-golden-esel.de"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50636,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 43,
+      "source_label": "coupon Dein Goldesel / post.seinadventure.de",
+      "target_campaign_id": 43,
+      "target_label": "coupon Dein Goldesel / post.seinadventure.de"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50635,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 42,
+      "source_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de",
+      "target_campaign_id": 42,
+      "target_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50634,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 41,
+      "source_label": "coupon Dein Goldesel / doi.investor-verlag.de",
+      "target_campaign_id": 41,
+      "target_label": "coupon Dein Goldesel / doi.investor-verlag.de"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50633,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 46,
+      "source_label": "neue fahrzeuge eingetroffen unsere kunden / autozeilinger-verkauf.de",
+      "target_campaign_id": 46,
+      "target_label": "neue fahrzeuge eingetroffen unsere kunden / autozeilinger-verkauf.de"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50632,
+      "overlap_mail_count": 4,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 26,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 26,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50631,
+      "overlap_mail_count": 10,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com",
+      "target_campaign_id": 18,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-05-08 22:02:12",
+      "id": 50630,
+      "overlap_mail_count": 43,
+      "rebuild_id": 4262,
+      "relation_type": "continued",
+      "source_campaign_id": 36,
+      "source_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "target_campaign_id": 36,
+      "target_label": "coupon Dein Goldesel / nl.maxlq.de"
+    },
+    {
+      "created_at": "2026-05-08 21:47:01",
+      "id": 50629,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4261,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-05-08 21:47:01",
+      "id": 50628,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4261,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    }
+  ],
+  "complete_day": false,
+  "generated_at": "2026-05-08T22:04:59.670621+00:00",
+  "issue_events": [
+    {
+      "event_count": 2,
+      "event_type": "alert.sent",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "enrich.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "enrich.failed_mail",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "pipeline.completed",
+      "severity": "warning"
+    }
+  ],
+  "new_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"newsletter.maxlq.de\", \"signal_count\": 11, \"subject_fingerprint\": \"minuten-altersvorsorge-ihre-letzte-chance\", \"url_domains\": [\"consent.google.com\", \"lpm.maxlq.de\", \"newsletter.maxlq.de\", \"premium.maxlq.de\", \"www.fid-verlag.de\", \"www.gesundheitswissen.de\", \"www.w3.org\"], \"url_families\": [\"gesundheitswissen.de\", \"newsletter.maxlq.de/go/1\", \"tel\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de\"], \"url_targets\": [\"mailto:kundenservice@gesundheitswissen.de\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-3VWE6PFL-FJN10ON-o.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-466TGZWL-1ALENZR.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-5G2PGPCS-J6M7L5.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-5G2PGPCT-7MXYZT.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-5G2PGPD7-VCAV51.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-5XNB0192-P9IG01.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-6CQ7NVOZ-19698ZU.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-6CQ7NVP0-VS9JEP.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"newsletter.maxlq.de/go/1/6V0QULMP-6CQ7NVP2-6CQ7NVP1-LCO1CO0.html?opt_domain=newsletter.maxlq.de&banner=SAM_497891364662&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=497891364662&opt_mandator=277376598395&bmMailid=6V0QULMP-6CQ7NVP2-CIC3D3\", \"tel:+492289550420\", \"www.fid-verlag.de/agb.php\", \"www.fid-verlag.de/datenschutz.php\", \"www.maxlq.de/\"]}",
+      "first_seen_at": "2026-05-08 08:32:05",
+      "id": 93,
+      "label": "minuten altersvorsorge ihre letzte chance / newsletter.maxlq.de",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:newsletter.maxlq.de; subject:minuten altersvorsorge ihre letzte chance; url:consent.google.com, lpm.maxlq.de; family:gesundheitswissen.de"
+    }
+  ],
+  "new_domains": [],
+  "notable_mails": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "newsletter.maxlq.de",
+      "mail_id": 67,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "yara_result": "clean"
+    }
+  ],
+  "novel_lure_candidates": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "newsletter.maxlq.de",
+      "mail_id": 67,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.9,
+      "subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "yara_result": "clean"
+    }
+  ],
+  "report_date": "2026-05-08",
+  "report_timezone": "UTC",
+  "similarity_pairs": [
+    {
+      "computed_at": "2026-05-08 09:09:46",
+      "from_domain": "newsletter.maxlq.de",
+      "mail_id": 66,
+      "signals": "from:newsletter.maxlq.de; target:mailto:kundenservice@gesundheitswissen.de, tel:+492289550420; url:consent.google.com, lpm.maxlq.de; redirect-chain:gesundheitswissen.de > www.gesundheitswissen.de, newsletter.maxlq.de > lpm.maxlq.de",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "Ihr kostenloses Gesundheitspaket wartet \u2013 aber nicht mehr lange!"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:46",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 65,
+      "signals": "url:lpm.maxlq.de, www.fid-verlag.de; redirect-chain:www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "Abspecken kann nicht nur das Gehirn verj\u00fcngen"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:40",
+      "from_domain": "newsletter.maxlq.de",
+      "mail_id": 63,
+      "signals": "from:newsletter.maxlq.de; target:mailto:kundenservice@gesundheitswissen.de, tel:+492289550420; url:consent.google.com, lpm.maxlq.de; redirect-chain:gesundheitswissen.de > www.gesundheitswissen.de, newsletter.maxlq.de > lpm.maxlq.de",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "Ihr Gesundheitspaket ist noch nicht vollst\u00e4ndig gesichert!"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:40",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 62,
+      "signals": "url:lpm.maxlq.de, www.fid-verlag.de; redirect-chain:www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "Warum Bewegung wie ein Jungbrunnen wirkt"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:37",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 61,
+      "signals": "url:lpm.maxlq.de, www.fid-verlag.de; redirect-chain:www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "7 wenig bekannte Ern\u00e4hrungstipps gegen Ihren Bl\u00e4hbauch"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:35",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 60,
+      "signals": "target:www.fid-verlag.de/agb.php, www.fid-verlag.de/datenschutz.php; url:lpm.maxlq.de, www.fid-verlag.de; redirect-chain:www.fid-verlag.de > premium.fid-verlag.de > premium.maxlq.de > user-frontend.api.pl-x.cloud > premium.maxlq.de > kunde.fid-verlag.de > user-frontend.api.pl-x.cloud > kunde.fid-verlag.de > www.fid-verlag.de, www.fid-verlag.de > www.google.com > support.google.com > adssettings.google.com > myaccount.google.com > www.fid-verlag.de; redirect:adssettings.google.com, kunde.fid-verlag.de",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "simon.brandt@itb-relay.de, stoppen Sie jetzt den Muskelabbau \u2013 ganz einfach zu Hause mit der \u201eKraft der Wand\u201c!"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:35",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 59,
+      "signals": "url:lpm.maxlq.de, www.fid-verlag.de; redirect-chain:www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "Mit diesen 3 Hausmitteln werden Sie Ihren Bl\u00e4hbauch los"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:34",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 58,
+      "signals": "url:lpm.maxlq.de, www.fid-verlag.de; redirect-chain:www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "F\u00fcr zwischendurch: So marschieren Sie Ihre F\u00fc\u00dfe stark"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:34",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 57,
+      "signals": "url:lpm.maxlq.de, www.fid-verlag.de; redirect-chain:www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "Fu\u00dfmassage mit Ball - Entspannung & Aktivierung zugleich"
+    },
+    {
+      "computed_at": "2026-05-08 09:09:34",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 56,
+      "signals": "url:lpm.maxlq.de, www.fid-verlag.de; redirect-chain:www.maxlq.de > www.gesundheitswissen.de; redirect:adssettings.google.com, kunde.fid-verlag.de; asset-content:4680a01662e0",
+      "similar_from_domain": "newsletter.maxlq.de",
+      "similar_mail_id": 67,
+      "similar_subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!",
+      "similarity_score": 100,
+      "subject": "Wie Sie mit PECH die Heilung bei Verletzungen f\u00f6rdern"
+    }
+  ],
+  "suspicious_aliases": [],
+  "top_domains": [
+    {
+      "domain": "2x.png",
+      "mail_count": 1
+    },
+    {
+      "domain": "accengage.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "adup-tech.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "airship.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "as-dialoggroup.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "criteo.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "das-schulleitungsportal.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "dd29936.kasserver.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "dianomi.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "eco.de",
+      "mail_count": 1
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "newsletter.maxlq.de",
+      "mail_count": 1
+    }
+  ],
+  "totals": {
+    "active_cluster_count": 1,
+    "alert_count": 2,
+    "alias_leak_candidate_count": 0,
+    "alias_spike_count": 0,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 1,
+    "attachment_count": 0,
+    "avg_risk_score": 35.0,
+    "avg_spam_score": -4.9,
+    "campaign_change_count": 1742,
+    "campaign_count": 1,
+    "distinct_domain_count": 30,
+    "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
+    "high_risk_cluster_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 1,
+    "max_risk_score": 35,
+    "max_spam_score": -4.9,
+    "new_cluster_count": 1,
+    "new_domain_count": 0,
+    "novel_lure_candidate_count": 1,
+    "parse_error_count": 0,
+    "similarity_pair_count": 41,
+    "url_count": 25
+  },
+  "window_end_local": "2026-05-08T22:04:59.109103+00:00",
+  "window_end_utc": "2026-05-08T22:04:59.109103+00:00",
+  "window_start_local": "2026-05-08T00:00:00+00:00",
+  "window_start_utc": "2026-05-08T00:00:00+00:00"
+}
