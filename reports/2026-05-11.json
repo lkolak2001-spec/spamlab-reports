@@ -1,0 +1,464 @@
+{
+  "active_campaigns": [
+    {
+      "analyst_label": null,
+      "analyst_notes": null,
+      "analyst_status": "new",
+      "feature_summary_json": "{\"alias_campaign_hints\": [\"coupon Dein Goldesel\"], \"cluster_count\": 41, \"cluster_ids\": [35, 44, 51, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94], \"from_domains\": [\"nl.maxlq.de\", \"info.newsletter-investor.de\", \"newsletter.maxlq.de\"], \"mail_count\": 46, \"mail_ids\": [18, 21, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 65, 66, 67, 68, 69, 70], \"max_risk_score\": 39, \"similarity_edge_count\": 950, \"subject_fingerprint\": \"herzlich-willkommen-bei-millers-krypto-radar\"}",
+      "generated_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "id": 36,
+      "label": "coupon Dein Goldesel / nl.maxlq.de",
+      "last_seen_at": "2026-05-11 07:16:08",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "notes": "-",
+      "signals": "subject:herzlich willkommen bei millers krypto radar; from:nl.maxlq.de, info.newsletter-investor.de; clusters:41; edges:950; hint:coupon Dein Goldesel"
+    }
+  ],
+  "active_clusters": [
+    {
+      "feature_summary_json": "{\"attachment_hashes\": [], \"from_domain\": \"nl.maxlq.de\", \"signal_count\": 9, \"subject_fingerprint\": \"gegen-ausstrahlende-schmerzen-unteren-cken-ges\", \"url_domains\": [\"lpm.maxlq.de\", \"nl.maxlq.de\"], \"url_families\": [\"maxlq.de\", \"nl.maxlq.de/go/1\"], \"url_targets\": [\"#168061\", \"#168527\", \"#i572028\", \"#i572731\", \"mailto:kundenservice@maxLQ.de\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-3N8NFF5T-19RA19HV.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-3RWE5DF7-ZL4BNS.html?bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-3XQ8MBY7-1EIA12UG.php?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-3XQ8MBY9-EYPB8.php?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-5SZTUM4O-EZU1A8V.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-5SZTUM4P-165YLD8.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-5XA9ETA7-163816XV-o.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6G2YUTK4-6XGEIO.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6GDBWLCF-CBHZC3.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6GDBWLCG-12SMPTH.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6GDBWLCH-EYQ6ZL.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6GDBWLCI-J8119CI.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6GDBWLCJ-13QLHMP.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6GDBWLCL-PZSZ26.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6P7CFJA4-86F1ARZ.html?banner=Z8_S3520_M537750927756_FM&bmmailid=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_campaign=537750927756&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6Q43SFAY-130SD9B.html?banner=Z5_A168061_M537750927756_T67_G1_FM&utm_campaign=537750927756&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6Q84UN70-1BO4WBV.html?banner=Z4_A168527_M537750927756_T67_G1_FM&utm_campaign=537750927756&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6RHVJVRW-109GCX2.html?banner=Z31_A183797_M537750927756_T67_G1_FM&utm_campaign=537750927756&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6SJXPM9P-Y7MOZS.html?opt_domain=nl.maxlq.de&banner=SAM_537750927756&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&utm_source=281511504063&utm_medium=email&utm_campaign=537750927756&opt_mandator=277376598395&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6TRM1RBY-FXG1240.html?banner=Z1_A185580_M537750927756_T67_G2_FM&utm_campaign=537750927756&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6TYPOVZI-VUIBVK.html?banner=Z3_A186107_M537750927756_T67_G2_FM&utm_campaign=537750927756&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6V1Z1KJS-11AFT76.html?banner=Z2_A186527_M537750927756_T67_G1_FM&utm_campaign=537750927756&opt_mandator=277376598395&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ==\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6V4HM0QI-RCL14M6.html?opt_mandator=277376598395&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6V4HM0QJ-16W78WM.html?opt_mandator=277376598395&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6V4HM0QK-142OAXD.html?opt_mandator=277376598395&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6V4HM0QL-81E6K.html?opt_mandator=277376598395&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6V4HM0QM-JT76D.html?opt_mandator=277376598395&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\", \"nl.maxlq.de/go/1/6V4XRQNG-6V1F0NF0-6V4HM0QN-2WVBBY.html?opt_mandator=277376598395&bmMailId=6V4XRQNG-6V1F0NF0-ARQCF7&scid=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&opt_domain=nl.maxlq.de&SYS=552&SCID=c2ltb24uYnJhbmR0QGl0Yi1yZWxheS5kZQ%3D%3D&bmMailid=6V4XRQNG-6V1F0NF0-ARQCF7\"]}",
+      "id": 91,
+      "label": "gegen ausstrahlende schmerzen unteren cken ges / nl.maxlq.de",
+      "last_seen_at": "2026-05-11 07:16:08",
+      "mail_count": 1,
+      "max_risk_score": 35,
+      "signals": "from:nl.maxlq.de; subject:gegen ausstrahlende schmerzen unteren cken ges; url:lpm.maxlq.de, nl.maxlq.de; family:maxlq.de"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_type": "mail.novel_lure_candidate",
+      "id": 107,
+      "mail_id": 70,
+      "sent_at": "2026-05-11T07:19:38.880155+00:00",
+      "severity": "warning"
+    },
+    {
+      "alert_type": "pipeline.enrich_error",
+      "id": 106,
+      "mail_id": 70,
+      "sent_at": "2026-05-11T07:19:38.780733+00:00",
+      "severity": "warning"
+    }
+  ],
+  "alias_leak_candidates": [],
+  "alias_spikes": [],
+  "campaign_changes": [
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55218,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55217,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55216,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 28,
+      "source_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng",
+      "target_campaign_id": 28,
+      "target_label": "kolak / qqwsmqth.fmpiibtz.shareit.com.ng"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55215,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 21,
+      "source_label": "swiftkey backups moving onedrive / email.bing.com",
+      "target_campaign_id": 21,
+      "target_label": "swiftkey backups moving onedrive / email.bing.com"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55214,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 30,
+      "source_label": "iPhone / iphones-geschenkt.com",
+      "target_campaign_id": 30,
+      "target_label": "iPhone / iphones-geschenkt.com"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55213,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 45,
+      "source_label": "coupon Dein Goldesel / mail.dein-golden-esel.de",
+      "target_campaign_id": 45,
+      "target_label": "coupon Dein Goldesel / mail.dein-golden-esel.de"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55212,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 43,
+      "source_label": "coupon Dein Goldesel / post.seinadventure.de",
+      "target_campaign_id": 43,
+      "target_label": "coupon Dein Goldesel / post.seinadventure.de"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55211,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 42,
+      "source_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de",
+      "target_campaign_id": 42,
+      "target_label": "coupon Dein Goldesel / doi.fidgesundheitswissen.de"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55210,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 41,
+      "source_label": "coupon Dein Goldesel / doi.investor-verlag.de",
+      "target_campaign_id": 41,
+      "target_label": "coupon Dein Goldesel / doi.investor-verlag.de"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55209,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 46,
+      "source_label": "neue fahrzeuge eingetroffen unsere kunden / autozeilinger-verkauf.de",
+      "target_campaign_id": 46,
+      "target_label": "neue fahrzeuge eingetroffen unsere kunden / autozeilinger-verkauf.de"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55208,
+      "overlap_mail_count": 4,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 26,
+      "source_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz",
+      "target_campaign_id": 26,
+      "target_label": "blocked account photos videos will deleted / akdcqeve.ima.msspolicy.biz"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55207,
+      "overlap_mail_count": 10,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 18,
+      "source_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com",
+      "target_campaign_id": 18,
+      "target_label": "guten tag confirms synchronisierung wurde wegen / auedcdbcrx.com"
+    },
+    {
+      "created_at": "2026-05-11 22:02:08",
+      "id": 55206,
+      "overlap_mail_count": 46,
+      "rebuild_id": 4615,
+      "relation_type": "continued",
+      "source_campaign_id": 36,
+      "source_label": "coupon Dein Goldesel / nl.maxlq.de",
+      "target_campaign_id": 36,
+      "target_label": "coupon Dein Goldesel / nl.maxlq.de"
+    },
+    {
+      "created_at": "2026-05-11 21:47:08",
+      "id": 55205,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4614,
+      "relation_type": "continued",
+      "source_campaign_id": 22,
+      "source_label": "zahlungserinnerung mahnung / adminn5.halamala.online",
+      "target_campaign_id": 22,
+      "target_label": "zahlungserinnerung mahnung / adminn5.halamala.online"
+    },
+    {
+      "created_at": "2026-05-11 21:47:08",
+      "id": 55204,
+      "overlap_mail_count": 1,
+      "rebuild_id": 4614,
+      "relation_type": "continued",
+      "source_campaign_id": 29,
+      "source_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com",
+      "target_campaign_id": 29,
+      "target_label": "kolak keine mehreren abonnements erforderlich alles / kjmqalhv.m137fb5g.com"
+    }
+  ],
+  "complete_day": false,
+  "generated_at": "2026-05-11T22:05:04.912790+00:00",
+  "issue_events": [
+    {
+      "event_count": 7,
+      "event_type": "browser_reprobe.requeued",
+      "severity": "warning"
+    },
+    {
+      "event_count": 2,
+      "event_type": "alert.sent",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "browser_reprobe.failed",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "campaign.failed",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "enrich.completed",
+      "severity": "warning"
+    },
+    {
+      "event_count": 1,
+      "event_type": "enrich.failed_mail",
+      "severity": "error"
+    },
+    {
+      "event_count": 1,
+      "event_type": "pipeline.failed",
+      "severity": "error"
+    }
+  ],
+  "new_clusters": [],
+  "new_domains": [],
+  "notable_mails": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "analysis_status": "analyzed",
+      "clamav_result": "clean",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 70,
+      "recipient": "simon.brandt@itb-relay.de",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "yara_result": "clean"
+    }
+  ],
+  "novel_lure_candidates": [
+    {
+      "alias_email": "simon.brandt@itb-relay.de",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 70,
+      "recipient": "simon.brandt@itb-relay.de",
+      "review_reason": "Risk score without YARA match",
+      "risk_score": 35,
+      "spam_score": -4.8,
+      "subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "yara_result": "clean"
+    }
+  ],
+  "report_date": "2026-05-11",
+  "report_timezone": "UTC",
+  "similarity_pairs": [
+    {
+      "computed_at": "2026-05-11 07:24:46",
+      "from_domain": "newsletter.maxlq.de",
+      "mail_id": 69,
+      "signals": "url:lpm.maxlq.de; asset-content:4680a01662e0; img:90f4aeb05868; regdom:gesundheitswissen.de, maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "Andere Leser haben auch dieses Buch entdeckt!"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:46",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 68,
+      "signals": "from:nl.maxlq.de; target:#168061, #168527; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > www.gettyimages.de > nl.maxlq.de > lpm.maxlq.de > nl.maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "Was Sie bei rheumakranken Gelenken tun k\u00f6nnen"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:41",
+      "from_domain": "newsletter.maxlq.de",
+      "mail_id": 67,
+      "signals": "url:lpm.maxlq.de; redirect:lpm.maxlq.de; asset-content:4680a01662e0; img:90f4aeb05868",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "Die 12 x 3-Minuten Altersvorsorge \u2013 Ihre letzte Chance!"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:41",
+      "from_domain": "newsletter.maxlq.de",
+      "mail_id": 66,
+      "signals": "url:lpm.maxlq.de; asset-content:4680a01662e0; img:90f4aeb05868; regdom:gesundheitswissen.de, maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "Ihr kostenloses Gesundheitspaket wartet \u2013 aber nicht mehr lange!"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:41",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 65,
+      "signals": "from:nl.maxlq.de; target:#168061, #168527; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > www.gettyimages.de > nl.maxlq.de > lpm.maxlq.de > nl.maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "Abspecken kann nicht nur das Gehirn verj\u00fcngen"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:34",
+      "from_domain": "newsletter.maxlq.de",
+      "mail_id": 63,
+      "signals": "url:lpm.maxlq.de; redirect:lpm.maxlq.de; asset-content:4680a01662e0; img:90f4aeb05868",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "Ihr Gesundheitspaket ist noch nicht vollst\u00e4ndig gesichert!"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:34",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 62,
+      "signals": "from:nl.maxlq.de; target:#168061, #168527; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > www.gesundheitswissen.de > lpm.maxlq.de, nl.maxlq.de > www.gettyimages.de > nl.maxlq.de > lpm.maxlq.de > nl.maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "Warum Bewegung wie ein Jungbrunnen wirkt"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:29",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 61,
+      "signals": "from:nl.maxlq.de; target:#i572731, mailto:kundenservice@maxLQ.de; url:lpm.maxlq.de, nl.maxlq.de; redirect-chain:nl.maxlq.de > www.gettyimages.de > nl.maxlq.de > lpm.maxlq.de > nl.maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "7 wenig bekannte Ern\u00e4hrungstipps gegen Ihren Bl\u00e4hbauch"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:27",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 60,
+      "signals": "from:nl.maxlq.de; url:lpm.maxlq.de, nl.maxlq.de; redirect:lpm.maxlq.de, nl.maxlq.de; asset-content:4680a01662e0",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "simon.brandt@itb-relay.de, stoppen Sie jetzt den Muskelabbau \u2013 ganz einfach zu Hause mit der \u201eKraft der Wand\u201c!"
+    },
+    {
+      "computed_at": "2026-05-11 07:24:27",
+      "from_domain": "nl.maxlq.de",
+      "mail_id": 59,
+      "signals": "from:nl.maxlq.de; target:#i572731, mailto:kundenservice@maxLQ.de; url:lpm.maxlq.de, nl.maxlq.de; redirect:lpm.maxlq.de, nl.maxlq.de",
+      "similar_from_domain": "nl.maxlq.de",
+      "similar_mail_id": 70,
+      "similar_subject": "Gegen ausstrahlende Schmerzen im unteren R\u00fccken und Ges\u00e4\u00df",
+      "similarity_score": 100,
+      "subject": "Mit diesen 3 Hausmitteln werden Sie Ihren Bl\u00e4hbauch los"
+    }
+  ],
+  "suspicious_aliases": [],
+  "top_domains": [
+    {
+      "domain": "2x.png",
+      "mail_count": 1
+    },
+    {
+      "domain": "dd29936.kasserver.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "eco.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "episerver.com",
+      "mail_count": 1
+    },
+    {
+      "domain": "itb-relay.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "maxlq.de",
+      "mail_count": 1
+    },
+    {
+      "domain": "nl.maxlq.de",
+      "mail_count": 1
+    }
+  ],
+  "top_sender_domains": [
+    {
+      "domain": "nl.maxlq.de",
+      "mail_count": 1
+    }
+  ],
+  "totals": {
+    "active_cluster_count": 1,
+    "alert_count": 2,
+    "alias_leak_candidate_count": 0,
+    "alias_spike_count": 0,
+    "analyze_error_count": 0,
+    "analyzed_mail_count": 1,
+    "attachment_count": 0,
+    "avg_risk_score": 35.0,
+    "avg_spam_score": -4.8,
+    "campaign_change_count": 1196,
+    "campaign_count": 1,
+    "distinct_domain_count": 7,
+    "enrich_error_count": 0,
+    "high_risk_campaign_count": 0,
+    "high_risk_cluster_count": 0,
+    "high_risk_mail_count": 0,
+    "mail_count": 1,
+    "max_risk_score": 35,
+    "max_spam_score": -4.8,
+    "new_cluster_count": 0,
+    "new_domain_count": 0,
+    "novel_lure_candidate_count": 1,
+    "parse_error_count": 0,
+    "similarity_pair_count": 43,
+    "url_count": 50
+  },
+  "window_end_local": "2026-05-11T22:05:04.801410+00:00",
+  "window_end_utc": "2026-05-11T22:05:04.801410+00:00",
+  "window_start_local": "2026-05-11T00:00:00+00:00",
+  "window_start_utc": "2026-05-11T00:00:00+00:00"
+}
